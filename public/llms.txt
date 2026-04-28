@@ -1,0 +1,21 @@
+# Lusha Wiki
+
+> Official multilingual wiki for Lusha, covering player onboarding, frequently asked questions, clinical trial information, and the universe of the game.
+
+This site is designed to be read by people, search crawlers, and AI agents. Pages are statically generated, organized by topic, and available in multiple languages.
+
+## Core English Pages
+
+- [Home](https://wiki.lusha.care/): Overview of the Lusha Wiki.
+- [Getting Started](https://wiki.lusha.care/getting-started/): First steps for new players.
+- [FAQ](https://wiki.lusha.care/faq/): Common questions about Lusha.
+- [Clinical Trial Info](https://wiki.lusha.care/clinical-trials/): Factual, dated information about clinical trial topics related to Lusha.
+- [Universe](https://wiki.lusha.care/universe/): Worldbuilding, lore, characters, places, and concepts.
+
+## Localized Entry Points
+
+- [French](https://wiki.lusha.care/fr/)
+- [German](https://wiki.lusha.care/de/)
+- [Italian](https://wiki.lusha.care/it/)
+- [Spanish](https://wiki.lusha.care/es/)
+- [Brazilian Portuguese](https://wiki.lusha.care/pt-br/)
