@@ -20,6 +20,8 @@ This repository is the multilingual static wiki for Lusha, deployed to GitHub Pa
 
 Use Node 22. The repo includes `.nvmrc` and `.node-version`.
 
+If the active shell does not provide Node 22, follow `docs/local-build-with-npx.md` to run install, dev, and build commands through `npx`.
+
 ## Content Rules
 
 - Keep pages semantic, crawler-friendly, and SEO-friendly.
