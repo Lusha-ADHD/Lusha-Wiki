@@ -25,11 +25,6 @@ The glossary is intentionally incomplete. Add terms as product wording becomes o
 | Real-life task | Chore | Tâche | Use for household or routine actions outside the game. |
 | Repeated real-life activity | Routine | Routine | Use for recurring habits or structured activities. |
 | In-game activity | Quest | Quête | Use only for game-world objectives. |
-| Game setting | Lusha universe | Univers de Lusha | Use for the fictional world and lore. |
-| Gameplay environment | 3D environment | Environnement 3D | Use for the app's gameplay space. |
-| App progress | Progress | Progression | Use for user or child advancement. |
-| Reward | Reward | Récompense | Use until more specific reward names are confirmed. |
-| Supportive function | Behavior support | Soutien comportemental | Use carefully; avoid implying medical treatment. |
 
 ## Terms To Confirm
 
