@@ -1,25 +1,189 @@
 :root {
-  --sl-color-accent-low: #e5f0ff;
-  --sl-color-accent: #2563eb;
-  --sl-color-accent-high: #172554;
-  --sl-color-white: #ffffff;
-  --sl-color-gray-1: #f8fafc;
-  --sl-color-gray-2: #e2e8f0;
-  --sl-color-gray-3: #cbd5e1;
-  --sl-color-gray-4: #64748b;
-  --sl-color-gray-5: #334155;
-  --sl-color-gray-6: #1e293b;
-  --sl-color-black: #0f172a;
-  --sl-font: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --lusha-green-jungle: #16a34a;
+  --lusha-green-canopy: #2ecc71;
+  --lusha-green-moss: #86c46c;
+  --lusha-green-leaf: #d6f2a6;
+  --lusha-blue-sky: #7ec8ff;
+  --lusha-cream-sand: #fff4e1;
+  --lusha-beige-stone: #e6dcc3;
+  --lusha-orange-campfire: #ff8a3d;
+  --lusha-brown-cabin: #8a5a2b;
+  --lusha-blue-night: #0d1b2a;
+
+  --sl-color-accent-low: #d6f2a6;
+  --sl-color-accent: #16a34a;
+  --sl-color-accent-high: #063f2c;
+  --sl-color-white: #0d1b2a;
+  --sl-color-gray-1: #fffdf7;
+  --sl-color-gray-2: #fff4e1;
+  --sl-color-gray-3: #e6dcc3;
+  --sl-color-gray-4: #8a7c63;
+  --sl-color-gray-5: #4f4637;
+  --sl-color-gray-6: #1a1f2e;
+  --sl-color-black: #0d1b2a;
+  --sl-font: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
   --sl-text-5xl: 3rem;
+
+  background-color: var(--lusha-cream-sand);
+}
+
+:root[data-theme='light'] {
+  --sl-color-white: #0d1b2a;
+  --sl-color-black: #fffdf7;
 }
 
 :root[data-theme='dark'] {
-  --sl-color-accent-low: #172554;
-  --sl-color-accent: #60a5fa;
-  --sl-color-accent-high: #dbeafe;
+  --sl-color-accent-low: #063f2c;
+  --sl-color-accent: #2ecc71;
+  --sl-color-accent-high: #d6f2a6;
+  --sl-color-white: #f8fff2;
+  --sl-color-gray-1: #e9f4df;
+  --sl-color-gray-2: #cfe5bf;
+  --sl-color-gray-3: #86c46c;
+  --sl-color-gray-4: #93a183;
+  --sl-color-gray-5: #273a2d;
+  --sl-color-gray-6: #14251d;
+  --sl-color-black: #0d1b2a;
 }
 
 .site-title {
   font-weight: 800;
+}
+
+body {
+  color: var(--lusha-blue-night);
+}
+
+:root[data-theme='light'] body {
+  background:
+    radial-gradient(circle at top left, rgb(214 242 166 / 32%), transparent 28rem),
+    linear-gradient(180deg, #fffdf7 0%, var(--lusha-cream-sand) 100%);
+}
+
+:root[data-theme='dark'] body {
+  color: var(--sl-color-gray-1);
+  background:
+    radial-gradient(circle at top left, rgb(46 204 113 / 18%), transparent 26rem),
+    linear-gradient(180deg, #0d1b2a 0%, #14251d 100%);
+}
+
+a {
+  text-decoration-color: rgb(22 163 74 / 45%);
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  text-decoration-color: var(--lusha-orange-campfire);
+}
+
+.header {
+  border-bottom-color: rgb(138 90 43 / 18%);
+}
+
+:root[data-theme='light'] .header {
+  background-color: rgb(214 242 166 / 76%);
+}
+
+.site-title span {
+  color: var(--sl-color-accent-high);
+}
+
+:root[data-theme='light'] .site-title span {
+  color: #063f2c;
+}
+
+:root[data-theme='dark'] .site-title span {
+  color: var(--sl-color-accent-high);
+}
+
+:root[data-theme='light'] :is(.hero, .sl-markdown-content, .right-sidebar, .sidebar-pane) {
+  color: var(--lusha-blue-night);
+}
+
+:root[data-theme='light'] .hero h1 {
+  color: #063f2c;
+}
+
+:root[data-theme='light'] :is(.hero .tagline, .tagline) {
+  color: #4f5f74;
+}
+
+:root[data-theme='light'] :is(starlight-theme-select, starlight-lang-select) label {
+  border-color: rgb(138 90 43 / 22%);
+  background-color: rgb(214 242 166 / 76%);
+  color: var(--lusha-blue-night);
+}
+
+:root[data-theme='light'] :is(starlight-theme-select, starlight-lang-select) select {
+  color: var(--lusha-blue-night);
+}
+
+:root[data-theme='light'] :is(starlight-theme-select, starlight-lang-select) svg {
+  color: var(--lusha-green-jungle);
+}
+
+:root[data-theme='light'] site-search button {
+  border-color: rgb(138 90 43 / 22%);
+  background-color: rgb(214 242 166 / 76%);
+  color: var(--lusha-blue-night);
+}
+
+:root[data-theme='light'] site-search button svg {
+  color: var(--lusha-green-jungle);
+}
+
+.sl-link-button.primary {
+  border-color: #0f8f42;
+  background: linear-gradient(180deg, var(--lusha-green-canopy), var(--lusha-green-jungle));
+  box-shadow: 0 0.35rem 0 #0f7d3d;
+  color: #ffffff;
+}
+
+.sl-link-button.primary:hover {
+  border-color: #e86f23;
+  background: linear-gradient(180deg, #ffa25f, var(--lusha-orange-campfire));
+  box-shadow: 0 0.35rem 0 #d96520;
+  color: #ffffff;
+}
+
+.sl-markdown-content :is(h1, h2, h3) {
+  color: var(--sl-color-accent-high);
+}
+
+:root[data-theme='dark'] .sl-markdown-content :is(h1, h2, h3) {
+  color: var(--sl-color-accent-high);
+}
+
+.content-panel {
+  background-color: rgb(255 253 247 / 92%);
+}
+
+:root[data-theme='dark'] .content-panel {
+  background-color: rgb(13 27 42 / 92%);
+}
+
+.card,
+.sl-markdown-content blockquote,
+.sl-markdown-content table {
+  border-color: rgb(138 90 43 / 20%);
+  background-color: rgb(255 244 225 / 54%);
+}
+
+:root[data-theme='light'] :not(pre) > code {
+  border: 1px solid rgb(138 90 43 / 18%);
+  background-color: #fff4e1;
+  color: var(--lusha-blue-night);
+}
+
+:root[data-theme='dark'] .card,
+:root[data-theme='dark'] .sl-markdown-content blockquote,
+:root[data-theme='dark'] .sl-markdown-content table {
+  border-color: rgb(134 196 108 / 24%);
+  background-color: rgb(20 37 29 / 64%);
+}
+
+::selection {
+  background-color: var(--lusha-green-leaf);
+  color: var(--lusha-blue-night);
 }
