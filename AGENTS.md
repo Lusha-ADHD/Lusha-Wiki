@@ -6,7 +6,8 @@ This repository is the multilingual static wiki for Lusha, deployed to GitHub Pa
 
 - Astro + Starlight.
 - Markdown content in `src/content/docs/`.
-- English is the root locale.
+- French is the editorial source language.
+- English is currently the public root locale.
 - Translated locales use folders: `fr`, `de`, `it`, `es`, `pt-br`.
 - Static public files live in `public/`.
 - Generated output lives in `dist/` and should not be edited directly.
@@ -30,7 +31,8 @@ Use Node 22. The repo includes `.nvmrc` and `.node-version`.
 
 ## Translation Rules
 
-- Add new pages in English first unless the user asks for another source language.
+- Draft new source content in French first unless the user asks for another source language.
+- Translate French source content into English for the root locale, then into other supported languages.
 - Keep translated page paths aligned across locales whenever possible.
 - Translate surrounding prose and image alt text, but do not invent domain-specific facts.
 - If source content is ambiguous, preserve the ambiguity or ask for clarification.
