@@ -31,6 +31,11 @@
 :root[data-theme='light'] {
   --sl-color-white: #0d1b2a;
   --sl-color-black: #fffdf7;
+  --sl-color-gray-2: #f7ebd2;
+  --sl-color-gray-3: #b8aa8c;
+  --sl-color-gray-4: #6f6758;
+  --sl-color-gray-5: #384235;
+  --sl-color-gray-6: #14251d;
 }
 
 :root[data-theme='dark'] {
@@ -101,6 +106,19 @@ a:hover {
   color: var(--lusha-blue-night);
 }
 
+:root[data-theme='light'] :is(.sidebar-pane, .right-sidebar) a {
+  color: #384235;
+}
+
+:root[data-theme='light'] :is(.sidebar-pane, .right-sidebar) a:hover {
+  color: var(--lusha-green-jungle);
+}
+
+:root[data-theme='light'] :is(.sidebar-pane, .right-sidebar) [aria-current='page'],
+:root[data-theme='light'] :is(.sidebar-pane, .right-sidebar) .current {
+  color: #ffffff;
+}
+
 :root[data-theme='light'] .hero h1 {
   color: #063f2c;
 }
@@ -131,6 +149,13 @@ a:hover {
 
 :root[data-theme='light'] site-search button svg {
   color: var(--lusha-green-jungle);
+}
+
+:root[data-theme='light'] site-search kbd {
+  border-color: rgb(13 27 42 / 18%);
+  background-color: rgb(255 253 247 / 82%);
+  box-shadow: none;
+  color: var(--lusha-blue-night);
 }
 
 .sl-link-button.primary {
@@ -174,6 +199,26 @@ a:hover {
   border: 1px solid rgb(138 90 43 / 18%);
   background-color: #fff4e1;
   color: var(--lusha-blue-night);
+}
+
+:root[data-theme='light'] :is(.meta, .pagination-links, .pagination-links a) {
+  color: var(--lusha-blue-night);
+}
+
+:root[data-theme='light'] .pagination-links a {
+  border-color: rgb(13 27 42 / 34%);
+  background-color: rgb(255 253 247 / 82%);
+}
+
+:root[data-theme='light'] .pagination-links a:hover {
+  border-color: var(--lusha-green-jungle);
+  background-color: rgb(214 242 166 / 42%);
+}
+
+:root[data-theme='light'] .pagination-links :is(.link-title, .link-label),
+:root[data-theme='light'] .meta time,
+:root[data-theme='light'] .meta p {
+  color: #384235;
 }
 
 :root[data-theme='dark'] .card,
