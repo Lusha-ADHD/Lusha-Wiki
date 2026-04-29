@@ -1,23 +1,13 @@
 ---
-title: Wiki de Lusha
-description: Wiki oficial de Lusha con guías, FAQ, información de ensayos clínicos y universo del juego.
+title: ¡Bienvenido al wiki oficial de Lusha!
+description: Wiki oficial de Lusha con guías, FAQ, información sobre el impacto clínico y el universo del juego.
 template: splash
 hero:
-  tagline: Aprende cómo empezar, comprender el contexto clínico y explorar el universo de Lusha.
+  tagline: Descubre cómo empezar con Lusha, consejos de uso, explicaciones detalladas de las distintas funciones, el estudio clínico en curso y el universo de Lusha y sus personajes.
+  image:
+    html: '<img src="/assets/GameplayBackground.png" alt="Vista previa del gameplay de Lusha." />'
   actions:
     - text: Primeros pasos
       link: /es/getting-started/
       icon: right-arrow
-    - text: Leer la FAQ
-      link: /es/faq/
-      icon: open-book
 ---
-
-Bienvenido al wiki oficial de Lusha.
-
-## Secciones principales
-
-- **Primeros pasos**: acceso, instalación, onboarding y guía inicial.
-- **FAQ**: respuestas breves a preguntas frecuentes.
-- **Información de ensayos clínicos**: información factual, fechada y con fuentes.
-- **Universo de Lusha**: lore, personajes, lugares y conceptos.

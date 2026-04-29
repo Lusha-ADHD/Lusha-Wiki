@@ -42,22 +42,101 @@ export default defineConfig({
       defaultLocale: 'root',
       lastUpdated: true,
       customCss: ['./src/styles/lusha.css'],
+      components: {
+        SiteTitle: './src/components/SiteTitle.astro',
+      },
       sidebar: [
         {
           label: 'How to Get Started',
-          items: [{ label: 'Overview', link: 'getting-started/' }],
+          translations: {
+            fr: 'Bien commencer',
+            de: 'Erste Schritte',
+            it: 'Primi passi',
+            es: 'Primeros pasos',
+            'pt-BR': 'Primeiros passos',
+          },
+          items: [
+            {
+              label: 'Overview',
+              translations: {
+                fr: 'Vue d’ensemble',
+                de: 'Überblick',
+                it: 'Panoramica',
+                es: 'Resumen',
+                'pt-BR': 'Visão geral',
+              },
+              link: 'getting-started/',
+            },
+          ],
         },
         {
           label: 'FAQ',
-          items: [{ label: 'Questions', link: 'faq/' }],
+          translations: {
+            fr: 'FAQ',
+            de: 'FAQ',
+            it: 'FAQ',
+            es: 'FAQ',
+            'pt-BR': 'FAQ',
+          },
+          items: [
+            {
+              label: 'Questions',
+              translations: {
+                fr: 'Questions',
+                de: 'Fragen',
+                it: 'Domande',
+                es: 'Preguntas',
+                'pt-BR': 'Perguntas',
+              },
+              link: 'faq/',
+            },
+          ],
         },
         {
           label: 'Clinical Trial Info',
-          items: [{ label: 'Overview', link: 'clinical-trials/' }],
+          translations: {
+            fr: 'Informations sur les essais cliniques',
+            de: 'Klinische Studieninformationen',
+            it: 'Informazioni sugli studi clinici',
+            es: 'Información de ensayos clínicos',
+            'pt-BR': 'Informações sobre estudos clínicos',
+          },
+          items: [
+            {
+              label: 'Overview',
+              translations: {
+                fr: 'Vue d’ensemble',
+                de: 'Überblick',
+                it: 'Panoramica',
+                es: 'Resumen',
+                'pt-BR': 'Visão geral',
+              },
+              link: 'clinical-trials/',
+            },
+          ],
         },
         {
           label: 'The Universe of Lusha',
-          items: [{ label: 'World Guide', link: 'universe/' }],
+          translations: {
+            fr: 'Univers de Lusha',
+            de: 'Das Universum von Lusha',
+            it: 'Universo di Lusha',
+            es: 'Universo de Lusha',
+            'pt-BR': 'Universo de Lusha',
+          },
+          items: [
+            {
+              label: 'World Guide',
+              translations: {
+                fr: 'Guide du monde',
+                de: 'Weltführer',
+                it: 'Guida al mondo',
+                es: 'Guía del mundo',
+                'pt-BR': 'Guia do mundo',
+              },
+              link: 'universe/',
+            },
+          ],
         },
       ],
       head: [

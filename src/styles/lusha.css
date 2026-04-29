@@ -123,6 +123,44 @@ a:hover {
   color: #063f2c;
 }
 
+.hero > .hero-html {
+  width: min(92%, 39rem) !important;
+  max-width: none;
+}
+
+.hero > .hero-html img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.75rem;
+  object-fit: contain;
+}
+
+@media (min-width: 50rem) {
+  .hero:has(> .hero-html) {
+    grid-template-columns: minmax(0, 1fr);
+    padding-block: clamp(1.5rem, 4vw, 3rem);
+  }
+
+  .hero:has(> .hero-html) > .hero-html {
+    order: 0;
+    justify-self: center;
+  }
+
+  .hero:has(> .hero-html) .stack {
+    align-items: center;
+    text-align: center;
+  }
+
+  .hero:has(> .hero-html) .copy {
+    align-items: center;
+  }
+
+  .hero:has(> .hero-html) .actions {
+    justify-content: center;
+  }
+}
+
 :root[data-theme='light'] :is(.hero .tagline, .tagline) {
   color: #4f5f74;
 }
