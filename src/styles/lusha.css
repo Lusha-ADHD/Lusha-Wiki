@@ -309,6 +309,42 @@ a:hover {
   color: #ffffff;
 }
 
+.sl-markdown-content .lusha-product-link-row {
+  text-align: center;
+}
+
+.sl-markdown-content .lusha-product-link {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid rgb(22 163 74 / 36%);
+  border-radius: 999rem;
+  background-color: rgb(255 253 247 / 72%);
+  color: var(--sl-color-accent-high);
+  font-size: var(--sl-text-sm);
+  font-weight: 700;
+  line-height: 1.2;
+  padding: 0.55rem 1rem;
+  text-decoration: none;
+}
+
+.sl-markdown-content .lusha-product-link:hover {
+  border-color: var(--lusha-orange-campfire);
+  background-color: rgb(255 244 225 / 92%);
+  color: var(--lusha-blue-night);
+}
+
+:root[data-theme='dark'] .sl-markdown-content .lusha-product-link {
+  border-color: rgb(214 242 166 / 34%);
+  background-color: rgb(20 37 29 / 72%);
+  color: var(--sl-color-accent-high);
+}
+
+:root[data-theme='dark'] .sl-markdown-content .lusha-product-link:hover {
+  border-color: var(--lusha-orange-campfire);
+  background-color: rgb(13 27 42 / 76%);
+  color: var(--sl-color-gray-1);
+}
+
 .sl-markdown-content :is(h1, h2, h3) {
   color: var(--sl-color-accent-high);
 }

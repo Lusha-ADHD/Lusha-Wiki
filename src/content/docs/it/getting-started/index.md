@@ -1,6 +1,6 @@
 ---
-title: Primi passi
-description: Prime indicazioni per nuovi giocatori e visitatori di Lusha.
+title: Guida introduttiva
+description: Primi passi per installare Lusha, capire le impostazioni essenziali e accompagnare tuo figlio nell'uso del gioco.
 ---
 
 Questa pagina sarà il punto di partenza per scoprire Lusha.

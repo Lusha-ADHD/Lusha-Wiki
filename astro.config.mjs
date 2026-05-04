@@ -47,23 +47,23 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'How to Get Started',
+          label: 'Getting Started Guide',
           translations: {
-            fr: 'Bien commencer',
-            de: 'Erste Schritte',
-            it: 'Primi passi',
-            es: 'Primeros pasos',
-            'pt-BR': 'Primeiros passos',
+            fr: 'Guide de démarrage',
+            de: 'Startleitfaden',
+            it: 'Guida introduttiva',
+            es: 'Guía de inicio',
+            'pt-BR': 'Guia de início',
           },
           items: [
             {
-              label: 'Overview',
+              label: 'Getting Started Guide',
               translations: {
-                fr: 'Vue d’ensemble',
-                de: 'Überblick',
-                it: 'Panoramica',
-                es: 'Resumen',
-                'pt-BR': 'Visão geral',
+                fr: 'Guide de démarrage',
+                de: 'Startleitfaden',
+                it: 'Guida introduttiva',
+                es: 'Guía de inicio',
+                'pt-BR': 'Guia de início',
               },
               link: 'getting-started/',
             },
@@ -145,7 +145,7 @@ export default defineConfig({
           attrs: {
             name: 'keywords',
             content:
-              'Lusha, Lusha game, Lusha wiki, game guide, clinical trials, multilingual wiki',
+              'Lusha, Lusha game, ADHD kids, ADHD children, parents, routines, chores tracker, emotional regulation, anger management, rewards, parent dashboard, family support, Lusha wiki, game guide, clinical trials',
           },
         },
         {

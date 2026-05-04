@@ -1,6 +1,6 @@
 ---
-title: How to Get Started
-description: First steps for new Lusha players and visitors.
+title: Getting Started Guide
+description: First steps to install Lusha, understand the essential settings, and guide your child through the game.
 ---
 
 This page is the starting point for anyone discovering Lusha.
