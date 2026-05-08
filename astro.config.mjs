@@ -43,6 +43,7 @@ export default defineConfig({
       lastUpdated: true,
       customCss: ['./src/styles/lusha.css'],
       components: {
+        Banner: './src/components/WorkInProgressBanner.astro',
         SiteTitle: './src/components/SiteTitle.astro',
       },
       sidebar: [
