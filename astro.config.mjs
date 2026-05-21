@@ -125,6 +125,17 @@ export default defineConfig({
               },
               link: 'how-to-use-lusha/tara-school/',
             },
+            {
+              label: 'Parental Guidance',
+              translations: {
+                fr: 'Guidance parentale',
+                de: 'Elternbegleitung',
+                it: 'Guida genitoriale',
+                es: 'Orientación parental',
+                'pt-BR': 'Orientação parental',
+              },
+              link: 'how-to-use-lusha/parental-guidance/',
+            },
           ],
         },
         {
