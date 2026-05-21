@@ -27,11 +27,11 @@ In the game area, the child moves upward in the main scene. To the left of the c
   <figcaption>The school entrance is in the game area near the cabin.</figcaption>
 </figure>
 
-The child can also interact with the sign hanging on the tree. They press the button that appears on the right to open the school access.
+Once inside Tara's School, the sign hanging on the tree becomes the access point to the school's content. The child presses the button that appears on the right to open Tara's learning space.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/school-sign.png" alt="Tara's School sign hanging on a tree with an interaction button on the right." />
-  <figcaption>The sign is an entry point to Tara's School content.</figcaption>
+  <figcaption>The sign opens the school content once the child has entered Tara's area.</figcaption>
 </figure>
 
 <figure class="lusha-screenshot">
@@ -41,18 +41,18 @@ The child can also interact with the sign hanging on the tree. They press the bu
 
 ## Explore lessons, stories, quizzes, and rewards
 
-Inside the school, the child can access lessons, stories, and quizzes. Lessons introduce the ideas, stories put them into a narrative situation, and quizzes help the child reuse what they understood.
-
-<figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/lesson-selection.png" alt="Tara lesson selection interface with several completed module cards." />
-  <figcaption>Cards let the child choose a module and see progress.</figcaption>
-</figure>
-
-There is also a rewards area where the child can see special bonuses they can unlock by progressing with Tara.
+Inside the school, the child can access lessons, stories, and quizzes. A rewards tab also shows the special bonuses the child can unlock by progressing with Tara.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/rewards-panel.png" alt="Tara rewards area with Lessons, Stories, Quizzes, and a new rank reached." />
-  <figcaption>Progress in Tara's School can unlock special bonuses.</figcaption>
+  <figcaption>The school menu separates lessons, stories, quizzes, and rewards.</figcaption>
+</figure>
+
+The child then chooses a lesson in the order suggested by Tara. Module by module, they progress in understanding emotions, especially anger, and in navigating interactions with others. Lessons introduce ideas, stories place them in a narrative situation, and quizzes help the child reuse what they understood.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/lesson-selection.png" alt="Tara lesson selection interface with several completed module cards." />
+  <figcaption>Cards help the child follow Tara's suggested order and see progress.</figcaption>
 </figure>
 
 ## Talk with Tara
@@ -96,3 +96,11 @@ The journal also includes objectives, a parent summary, a child-friendly summary
   <img src="/assets/how-to-use-lusha/tara-school/parent-activities.png" alt="Activities to do with the child to extend the Understand my behaviors module." />
   <figcaption>Mini-exercises help extend learning at home.</figcaption>
 </figure>
+
+## Good practices
+
+- Talk with the child about what they understood during their discussions with Tara.
+- Ask whether they recognize some behaviors in themselves, when these behaviors happen, and whether they have ever felt uncomfortable or difficult for them or for others.
+- Encourage a simple rhythm, such as one module per week, so there is time to talk about it and reuse the ideas in everyday life.
+- Revisit past modules regularly, especially stories, which are easy and pleasant to listen to several times.
+- Use the mini-exercises as short practice moments, without turning learning into a test.

@@ -27,11 +27,11 @@ Nello spazio di gioco, il bambino risale verso la parte alta della scena princip
   <figcaption>L'ingresso della scuola si trova nello spazio di gioco, vicino alla capanna.</figcaption>
 </figure>
 
-Il bambino può anche interagire con il cartello appeso all'albero. Tocca il pulsante che appare a destra per aprire l'accesso alla scuola.
+Una volta dentro la Scuola di Tara, il cartello appeso all'albero diventa il punto di accesso ai contenuti della scuola. Il bambino tocca il pulsante che appare a destra per aprire lo spazio di Tara.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/school-sign.png" alt="Cartello della Scuola di Tara appeso a un albero con pulsante di interazione a destra." />
-  <figcaption>Il cartello è un punto di accesso ai contenuti della Scuola di Tara.</figcaption>
+  <figcaption>Il cartello apre i contenuti della scuola quando il bambino è già nello spazio di Tara.</figcaption>
 </figure>
 
 <figure class="lusha-screenshot">
@@ -41,18 +41,18 @@ Il bambino può anche interagire con il cartello appeso all'albero. Tocca il pul
 
 ## Esplorare lezioni, storie, quiz e ricompense
 
-Nella scuola, il bambino accede a lezioni, storie e quiz. Le lezioni introducono le idee, le storie le mettono in situazione e i quiz aiutano a riutilizzare ciò che è stato capito.
-
-<figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/lesson-selection.png" alt="Interfaccia di selezione delle lezioni di Tara con diverse schede di moduli completati." />
-  <figcaption>Le schede permettono di scegliere un modulo e vedere i progressi.</figcaption>
-</figure>
-
-Esiste anche uno spazio ricompense, dove il bambino può vedere i bonus speciali che può sbloccare progredendo con Tara.
+Nella scuola, il bambino accede a lezioni, storie e quiz. Uno spazio ricompense mostra anche i bonus speciali che può sbloccare progredendo con Tara.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/rewards-panel.png" alt="Spazio ricompense di Tara con Lessons, Stories, Quizzes e un nuovo rango raggiunto." />
-  <figcaption>I progressi nella Scuola di Tara possono sbloccare bonus speciali.</figcaption>
+  <figcaption>Il menu della scuola separa lezioni, storie, quiz e ricompense.</figcaption>
+</figure>
+
+Poi il bambino sceglie la lezione nell'ordine suggerito da Tara. Modulo dopo modulo, progredisce nella comprensione delle sue emozioni, in particolare della rabbia, e delle interazioni con gli altri. Le lezioni introducono le idee, le storie le mettono in situazione e i quiz aiutano a riutilizzare ciò che è stato capito.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/lesson-selection.png" alt="Interfaccia di selezione delle lezioni di Tara con diverse schede di moduli completati." />
+  <figcaption>Le schede aiutano a seguire l'ordine suggerito da Tara e a vedere i progressi.</figcaption>
 </figure>
 
 ## Parlare con Tara
@@ -96,3 +96,11 @@ Il diario include anche obiettivi, una sintesi per i genitori, una sintesi formu
   <img src="/assets/how-to-use-lusha/tara-school/parent-activities.png" alt="Attività da fare con il bambino per approfondire il modulo Understand my behaviors." />
   <figcaption>I mini-esercizi aiutano a proseguire l'apprendimento a casa.</figcaption>
 </figure>
+
+## Buone pratiche
+
+- Parla con il bambino di ciò che ha capito durante gli scambi con Tara.
+- Chiedigli se riconosce alcuni comportamenti in sé, in quali contesti compaiono e se sono già stati difficili o fastidiosi per lui o per gli altri.
+- Incoraggia un ritmo semplice, per esempio un modulo alla settimana, per lasciare il tempo di parlarne e riutilizzare le idee nella vita quotidiana.
+- Riprendi regolarmente i moduli passati, soprattutto le storie, che sono facili e piacevoli da riascoltare più volte.
+- Usa i mini-esercizi come brevi momenti di pratica, senza trasformare l'apprendimento in una verifica.

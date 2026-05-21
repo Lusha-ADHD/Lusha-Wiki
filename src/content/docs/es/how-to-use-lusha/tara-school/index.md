@@ -27,11 +27,11 @@ En el espacio de juego, el niño sube hacia la parte alta de la escena principal
   <figcaption>La entrada de la escuela está en el espacio de juego, cerca de la cabaña.</figcaption>
 </figure>
 
-El niño también puede interactuar con el cartel colgado del árbol. Pulsa el botón que aparece a la derecha para abrir el acceso a la escuela.
+Una vez dentro de la Escuela de Tara, el cartel colgado del árbol se convierte en el punto de acceso a los contenidos de la escuela. El niño pulsa el botón que aparece a la derecha para abrir el espacio de Tara.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/school-sign.png" alt="Cartel de la Escuela de Tara colgado de un árbol con un botón de interacción a la derecha." />
-  <figcaption>El cartel sirve como punto de entrada a los contenidos de la Escuela de Tara.</figcaption>
+  <figcaption>El cartel abre los contenidos de la escuela cuando el niño ya está en el espacio de Tara.</figcaption>
 </figure>
 
 <figure class="lusha-screenshot">
@@ -41,18 +41,18 @@ El niño también puede interactuar con el cartel colgado del árbol. Pulsa el b
 
 ## Explorar lecciones, historias, cuestionarios y recompensas
 
-Dentro de la escuela, el niño accede a lecciones, historias y cuestionarios. Las lecciones introducen las ideas, las historias las sitúan en una escena narrativa y los cuestionarios ayudan a reutilizar lo aprendido.
-
-<figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/lesson-selection.png" alt="Interfaz de selección de lecciones de Tara con varias tarjetas de módulos completados." />
-  <figcaption>Las tarjetas permiten elegir un módulo y ver el progreso.</figcaption>
-</figure>
-
-También hay un espacio de recompensas donde el niño puede ver los bonus especiales que puede desbloquear al avanzar con Tara.
+Dentro de la escuela, el niño accede a lecciones, historias y cuestionarios. Un espacio de recompensas también muestra los bonus especiales que puede desbloquear al avanzar con Tara.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/rewards-panel.png" alt="Espacio de recompensas de Tara con Lessons, Stories, Quizzes y un nuevo rango alcanzado." />
-  <figcaption>El progreso en la Escuela de Tara puede desbloquear bonus especiales.</figcaption>
+  <figcaption>El menú de la escuela separa lecciones, historias, cuestionarios y recompensas.</figcaption>
+</figure>
+
+Después, el niño elige su lección en el orden sugerido por Tara. Módulo tras módulo, progresa en la comprensión de sus emociones, especialmente la ira, y de sus interacciones con los demás. Las lecciones introducen las ideas, las historias las sitúan en una escena narrativa y los cuestionarios ayudan a reutilizar lo aprendido.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/lesson-selection.png" alt="Interfaz de selección de lecciones de Tara con varias tarjetas de módulos completados." />
+  <figcaption>Las tarjetas ayudan a seguir el orden propuesto por Tara y ver el progreso.</figcaption>
 </figure>
 
 ## Hablar con Tara
@@ -96,3 +96,11 @@ El diario también incluye objetivos, una síntesis para padres, una síntesis f
   <img src="/assets/how-to-use-lusha/tara-school/parent-activities.png" alt="Actividades para hacer con el niño y profundizar el módulo Understand my behaviors." />
   <figcaption>Los mini-ejercicios permiten continuar el aprendizaje en casa.</figcaption>
 </figure>
+
+## Buenas prácticas
+
+- Habla con el niño sobre lo que entendió en sus conversaciones con Tara.
+- Pregúntale si reconoce algunos comportamientos en sí mismo, en qué contextos aparecen y si alguna vez le resultaron molestos o difíciles para él o para los demás.
+- Anima un ritmo simple, por ejemplo un módulo por semana, para dejar tiempo a conversar y reutilizar las ideas en la vida cotidiana.
+- Vuelve regularmente a módulos anteriores, sobre todo a las historias, que son fáciles y agradables de escuchar varias veces.
+- Usa los mini-ejercicios como momentos breves de práctica, sin convertir el aprendizaje en un examen.

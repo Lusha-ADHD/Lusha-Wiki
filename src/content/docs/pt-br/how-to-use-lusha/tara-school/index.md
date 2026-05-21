@@ -27,11 +27,11 @@ No espaço de jogo, a criança sobe para a parte superior da cena principal. À 
   <figcaption>A entrada da escola fica no espaço de jogo, perto da cabana.</figcaption>
 </figure>
 
-A criança também pode interagir com a placa pendurada na árvore. Ela toca no botão que aparece à direita para abrir o acesso à escola.
+Depois de entrar na Escola da Tara, a placa pendurada na árvore se torna o ponto de acesso aos conteúdos da escola. A criança toca no botão que aparece à direita para abrir o espaço da Tara.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/school-sign.png" alt="Placa da Escola da Tara pendurada em uma árvore com botão de interação à direita." />
-  <figcaption>A placa é um ponto de entrada para os conteúdos da Escola da Tara.</figcaption>
+  <figcaption>A placa abre os conteúdos da escola quando a criança já está no espaço da Tara.</figcaption>
 </figure>
 
 <figure class="lusha-screenshot">
@@ -41,18 +41,18 @@ A criança também pode interagir com a placa pendurada na árvore. Ela toca no 
 
 ## Explorar lições, histórias, quizzes e recompensas
 
-Dentro da escola, a criança acessa lições, histórias e quizzes. As lições introduzem as ideias, as histórias colocam essas ideias em situações narrativas e os quizzes ajudam a reutilizar o que foi entendido.
-
-<figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/lesson-selection.png" alt="Interface de seleção de lições da Tara com vários cartões de módulos concluídos." />
-  <figcaption>Os cartões permitem escolher um módulo e ver o progresso.</figcaption>
-</figure>
-
-Também existe um espaço de recompensas, onde a criança pode ver bônus especiais que pode desbloquear ao progredir com Tara.
+Dentro da escola, a criança acessa lições, histórias e quizzes. Um espaço de recompensas também mostra bônus especiais que ela pode desbloquear ao progredir com Tara.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/rewards-panel.png" alt="Espaço de recompensas da Tara com Lessons, Stories, Quizzes e novo nível alcançado." />
-  <figcaption>O progresso na Escola da Tara pode desbloquear bônus especiais.</figcaption>
+  <figcaption>O menu da escola separa lições, histórias, quizzes e recompensas.</figcaption>
+</figure>
+
+Depois, a criança escolhe sua lição na ordem sugerida por Tara. Módulo após módulo, ela progride na compreensão das emoções, especialmente a raiva, e das interações com outras pessoas. As lições introduzem as ideias, as histórias colocam essas ideias em situações narrativas e os quizzes ajudam a reutilizar o que foi entendido.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/lesson-selection.png" alt="Interface de seleção de lições da Tara com vários cartões de módulos concluídos." />
+  <figcaption>Os cartões ajudam a seguir a ordem sugerida por Tara e ver o progresso.</figcaption>
 </figure>
 
 ## Conversar com Tara
@@ -96,3 +96,11 @@ O diário também traz objetivos, uma síntese para os responsáveis, uma sínte
   <img src="/assets/how-to-use-lusha/tara-school/parent-activities.png" alt="Atividades para fazer com a criança e aprofundar o módulo Understand my behaviors." />
   <figcaption>Os mini-exercícios ajudam a continuar a aprendizagem em casa.</figcaption>
 </figure>
+
+## Boas práticas
+
+- Converse com a criança sobre o que ela entendeu nas trocas com Tara.
+- Pergunte se ela reconhece alguns comportamentos em si mesma, em quais contextos eles aparecem e se já foram incômodos ou difíceis para ela ou para outras pessoas.
+- Incentive um ritmo simples, por exemplo um módulo por semana, para ter tempo de conversar e reutilizar as ideias no dia a dia.
+- Retome regularmente módulos anteriores, principalmente as histórias, que são fáceis e agradáveis de ouvir várias vezes.
+- Use os mini-exercícios como momentos curtos de prática, sem transformar o aprendizado em teste.

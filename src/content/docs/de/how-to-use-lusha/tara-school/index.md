@@ -27,11 +27,11 @@ Im Spielbereich bewegt sich das Kind in der Hauptszene nach oben. Links von der 
   <figcaption>Der Eingang der Schule befindet sich im Spielbereich nahe der Hütte.</figcaption>
 </figure>
 
-Das Kind kann auch mit dem Schild am Baum interagieren. Es klickt auf die Schaltfläche rechts, um den Zugang zur Schule zu öffnen.
+Wenn das Kind in Taras Schule ist, wird das Schild am Baum zum Zugangspunkt für die Inhalte der Schule. Es klickt auf die Schaltfläche rechts, um Taras Lernbereich zu öffnen.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/school-sign.png" alt="Schild von Taras Schule an einem Baum mit Interaktionsschaltfläche rechts." />
-  <figcaption>Das Schild ist ein Einstiegspunkt zu den Inhalten von Taras Schule.</figcaption>
+  <figcaption>Das Schild öffnet die Schulinhalte, sobald das Kind in Taras Bereich ist.</figcaption>
 </figure>
 
 <figure class="lusha-screenshot">
@@ -41,18 +41,18 @@ Das Kind kann auch mit dem Schild am Baum interagieren. Es klickt auf die Schalt
 
 ## Lektionen, Geschichten, Quiz und Belohnungen erkunden
 
-In der Schule findet das Kind Lektionen, Geschichten und Quiz. Die Lektionen führen Begriffe ein, die Geschichten stellen sie in Situationen dar, und die Quiz helfen dem Kind, das Gelernte wiederzuverwenden.
-
-<figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/lesson-selection.png" alt="Auswahl der Tara-Lektionen mit mehreren abgeschlossenen Modulkarten." />
-  <figcaption>Die Karten erlauben die Auswahl eines Moduls und zeigen den Fortschritt.</figcaption>
-</figure>
-
-Ein Belohnungsbereich zeigt außerdem spezielle Boni, die das Kind durch Fortschritt mit Tara freischalten kann.
+In der Schule findet das Kind Lektionen, Geschichten und Quiz. Ein Belohnungsbereich zeigt außerdem die besonderen Boni, die es durch Fortschritt mit Tara freischalten kann.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/rewards-panel.png" alt="Belohnungsbereich von Tara mit Lessons, Stories, Quizzes und neu erreichtem Rang." />
-  <figcaption>Fortschritt in Taras Schule kann besondere Boni freischalten.</figcaption>
+  <figcaption>Das Schulmenü trennt Lektionen, Geschichten, Quiz und Belohnungen.</figcaption>
+</figure>
+
+Das Kind wählt dann seine Lektion in der von Tara vorgeschlagenen Reihenfolge. Modul für Modul arbeitet es am Verständnis seiner Emotionen, besonders der Wut, und an seinen Interaktionen mit anderen. Die Lektionen führen Begriffe ein, die Geschichten stellen sie in Situationen dar, und die Quiz helfen dem Kind, das Gelernte wiederzuverwenden.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/lesson-selection.png" alt="Auswahl der Tara-Lektionen mit mehreren abgeschlossenen Modulkarten." />
+  <figcaption>Die Karten helfen, Taras vorgeschlagener Reihenfolge zu folgen und den Fortschritt zu sehen.</figcaption>
 </figure>
 
 ## Mit Tara sprechen
@@ -96,3 +96,11 @@ Das Journal enthält außerdem Ziele, eine Zusammenfassung für Eltern, eine kin
   <img src="/assets/how-to-use-lusha/tara-school/parent-activities.png" alt="Aktivitäten mit dem Kind zur Vertiefung des Moduls Understand my behaviors." />
   <figcaption>Kleine Übungen helfen, das Lernen zu Hause fortzusetzen.</figcaption>
 </figure>
+
+## Gute Praktiken
+
+- Sprechen Sie mit dem Kind darüber, was es in den Gesprächen mit Tara verstanden hat.
+- Fragen Sie, ob es bestimmte Verhaltensweisen bei sich wiedererkennt, in welchen Situationen sie auftreten und ob sie für das Kind oder andere schon einmal störend waren.
+- Fördern Sie einen einfachen Rhythmus, zum Beispiel ein Modul pro Woche, damit Zeit bleibt, darüber zu sprechen und die Ideen im Alltag wiederzuverwenden.
+- Kehren Sie regelmäßig zu früheren Modulen zurück, besonders zu den Geschichten, die leicht und angenehm mehrmals angehört werden können.
+- Nutzen Sie die kleinen Übungen als kurze Übungsmomente, ohne das Lernen zu einer Prüfung zu machen.

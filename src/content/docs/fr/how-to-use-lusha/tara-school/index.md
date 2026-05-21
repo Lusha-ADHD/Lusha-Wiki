@@ -27,11 +27,11 @@ Dans l'espace jeu, l'enfant remonte vers le haut de la scène principale. À gau
   <figcaption>L'entrée de l'école se trouve dans l'espace jeu, près de la cabane.</figcaption>
 </figure>
 
-L'enfant peut aussi interagir avec le panneau accroché à l'arbre. Il clique sur le bouton qui apparaît à droite pour ouvrir l'accès à l'école.
+Une fois dans l'École de Tara, le panneau accroché à l'arbre devient le point d'accès aux contenus de l'école. L'enfant clique sur le bouton qui apparaît à droite pour ouvrir l'espace de Tara.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/school-sign.png" alt="Panneau de l'École de Tara accroché à un arbre avec un bouton d'interaction à droite." />
-  <figcaption>Le panneau sert de point d'entrée vers les contenus de l'École de Tara.</figcaption>
+  <figcaption>Le panneau donne accès aux contenus de l'école une fois l'enfant entré dans l'espace de Tara.</figcaption>
 </figure>
 
 <figure class="lusha-screenshot">
@@ -41,18 +41,18 @@ L'enfant peut aussi interagir avec le panneau accroché à l'arbre. Il clique su
 
 ## Explorer les leçons, histoires, quiz et récompenses
 
-Une fois dans l'école, l'enfant accède aux leçons, aux histoires et aux quiz. Les leçons introduisent les notions, les histoires les remettent en scène et les quiz aident l'enfant à remobiliser ce qu'il a compris.
-
-<figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/lesson-selection.png" alt="Interface de sélection des leçons de Tara avec plusieurs cartes de modules terminés." />
-  <figcaption>Les cartes permettent de choisir un module et de voir la progression.</figcaption>
-</figure>
-
-Il existe aussi un espace de récompenses. L'enfant peut y voir les bonus spéciaux qu'il peut débloquer en progressant avec Tara.
+Une fois dans l'école, l'enfant accède aux leçons, aux histoires et aux quiz. Un onglet de récompenses lui permet aussi de voir les bonus spéciaux qu'il peut débloquer en progressant avec Tara.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/rewards-panel.png" alt="Espace de récompenses de Tara avec les catégories Lessons, Stories, Quizzes et un nouveau rang atteint." />
-  <figcaption>La progression dans l'École de Tara peut débloquer des bonus spéciaux.</figcaption>
+  <figcaption>Le menu de l'école sépare les leçons, les histoires, les quiz et les récompenses.</figcaption>
+</figure>
+
+L'enfant choisit ensuite sa leçon dans l'ordre suggéré par Tara. Module après module, il progresse sur la compréhension de ses émotions, notamment la colère, et sur ses interactions avec les autres. Les leçons introduisent les notions, les histoires les remettent en scène et les quiz aident l'enfant à remobiliser ce qu'il a compris.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/lesson-selection.png" alt="Interface de sélection des leçons de Tara avec plusieurs cartes de modules terminés." />
+  <figcaption>Les cartes permettent de suivre l'ordre proposé par Tara et de voir la progression.</figcaption>
 </figure>
 
 ## Discuter avec Tara
@@ -96,3 +96,11 @@ Le journal détaille aussi les objectifs, une synthèse des éléments clés pou
   <img src="/assets/how-to-use-lusha/tara-school/parent-activities.png" alt="Activités à faire avec l'enfant pour prolonger le module Understand my behaviors." />
   <figcaption>Les mini-exercices permettent d'aller plus loin dans l'apprentissage.</figcaption>
 </figure>
+
+## Bonnes pratiques
+
+- Échangez avec l'enfant sur ce qu'il a compris pendant ses discussions avec Tara.
+- Demandez-lui s'il reconnaît certains comportements chez lui, dans quels contextes ils apparaissent et si cela a déjà été gênant pour lui ou pour les autres.
+- Encouragez un rythme simple, par exemple un module par semaine, pour laisser le temps d'en parler et de réutiliser les notions au quotidien.
+- Revenez régulièrement sur les anciens modules, surtout les histoires, qui sont faciles et agréables à réécouter plusieurs fois.
+- Utilisez les mini-exercices comme des occasions courtes de pratiquer, sans transformer l'apprentissage en contrôle ou en test.
