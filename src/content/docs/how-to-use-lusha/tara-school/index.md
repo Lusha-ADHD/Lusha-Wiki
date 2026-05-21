@@ -27,13 +27,6 @@ In the game area, the child moves upward in the main scene. To the left of the c
   <figcaption>The school entrance is in the game area near the cabin.</figcaption>
 </figure>
 
-Once inside Tara's School, the sign hanging on the tree becomes the access point to the school's content. The child presses the button that appears on the right to open Tara's learning space.
-
-<figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/school-sign.png" alt="Tara's School sign hanging on a tree with an interaction button on the right." />
-  <figcaption>The sign opens the school content once the child has entered Tara's area.</figcaption>
-</figure>
-
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/school-intro-panel.png" alt="Tara's School panel introducing the school with a Let's go button." />
   <figcaption>The Let's go button opens Tara's learning space.</figcaption>
@@ -41,7 +34,14 @@ Once inside Tara's School, the sign hanging on the tree becomes the access point
 
 ## Explore lessons, stories, quizzes, and rewards
 
-Inside the school, the child can access lessons, stories, and quizzes. A rewards tab also shows the special bonuses the child can unlock by progressing with Tara.
+Once inside Tara's School, the child walks to the sign hanging on the tree. This sign is the access point to the school's learning content. By pressing the button that appears on the right, the child opens the interface with lessons, stories, quizzes, and the rewards tab.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/school-sign.png" alt="Tara's School sign hanging on a tree with an interaction button on the right." />
+  <figcaption>Inside the school, the sign opens Tara's learning content.</figcaption>
+</figure>
+
+The next screen gathers the three learning formats: lessons, which explain ideas; stories, which place them in a narrative situation; and quizzes, which help the child check what they understood. The rewards tab also shows the special bonuses the child can unlock by progressing with Tara.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/rewards-panel.png" alt="Tara rewards area with Lessons, Stories, Quizzes, and a new rank reached." />
@@ -57,44 +57,46 @@ The child then chooses a lesson in the order suggested by Tara. Module by module
 
 ## Talk with Tara
 
-The child goes to Tara and starts a discussion. Tara then lets the child interact with the selected content: lesson, story, or quiz. The goal is for the child to understand an idea, recognize it in a story, then use it in a quest.
+The child goes to Tara and starts a discussion. The dialogue is interactive and illustrated: Tara introduces an idea, gradually checks whether the child is following, and adapts the pace of the exchange. If a concept is unclear, the child can hear it reformulated or explained in another way. Repetition helps children who need to consolidate the idea; shortcuts let children who are more comfortable or more mature move ahead without repeating everything.
+
+Tara then lets the child interact with the selected content: lesson, story, or quiz. The goal is for the child to understand an idea, recognize it in a story, then use it in a quest where they help another character. This progression encourages the child to move from "I heard the information" to "I can use it to understand a situation".
 
 ## Follow progress as a parent
 
-In the parent interface, click **Emotions** to see the latest modules completed by the child.
+In the parent interface, click **Emotions** to see the latest modules completed by the child. This view acts as a dashboard: it shows where the child is in the pathway, which modules have already been opened, and which recent learning points can be brought back into family conversation.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/parent-emotions-overview.png" alt="Parent Emotions screen showing module progress and recent lessons." />
-  <figcaption>The Emotions area gives an overview of psychoeducational modules.</figcaption>
+  <figcaption>The Emotions area gives an overview of psychoeducational modules and progress.</figcaption>
 </figure>
 
-To see the learning details, click the small journal at the top left of each lesson. You can see whether the child completed the lesson, quizzes, and story.
+To see the learning details, click the small journal at the top left of each lesson. You can see whether the child completed the lesson, quizzes, and story. This helps distinguish a module that was only started from a module explored through its different formats.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/parent-module-detail.png" alt="Parent detail screen for the Understand my behaviors module with Lesson, Quiz, and Story badges." />
-  <figcaption>The module detail shows what the child has completed.</figcaption>
+  <figcaption>The module detail shows what the child has completed: lesson, quiz, and story.</figcaption>
 </figure>
 
-The journal also includes objectives, a parent summary, a child-friendly summary, and ideas for mini-exercises to try at home.
+The journal also includes objectives, a parent summary, a child-friendly summary, and ideas for mini-exercises to try at home. These details help the parent turn the game content into concrete everyday conversations without having to guess what the child saw with Tara.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/parent-objectives.png" alt="Objectives for the Understand my behaviors module in the parent interface." />
-  <figcaption>Objectives explain what the module is trying to work on.</figcaption>
+  <figcaption>Objectives explain what the module is trying to work on and give the parent a clear reference point.</figcaption>
 </figure>
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/parent-summary.png" alt="Summary of key elements for parents in the Understand my behaviors module." />
-  <figcaption>The parent summary helps adults understand what was covered.</figcaption>
+  <figcaption>The parent summary helps adults understand the ideas covered and their possible implications in family life.</figcaption>
 </figure>
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/child-summary.png" alt="Child-friendly summary in the Understand my behaviors module." />
-  <figcaption>The child version can help parents talk about the topic again.</figcaption>
+  <figcaption>The child version offers simple wording to talk about the topic again without putting the child on the spot.</figcaption>
 </figure>
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/parent-activities.png" alt="Activities to do with the child to extend the Understand my behaviors module." />
-  <figcaption>Mini-exercises help extend learning at home.</figcaption>
+  <figcaption>Mini-exercises offer short ways to extend learning in real-life situations.</figcaption>
 </figure>
 
 ## Good practices

@@ -27,13 +27,6 @@ No espaço de jogo, a criança sobe para a parte superior da cena principal. À 
   <figcaption>A entrada da escola fica no espaço de jogo, perto da cabana.</figcaption>
 </figure>
 
-Depois de entrar na Escola da Tara, a placa pendurada na árvore se torna o ponto de acesso aos conteúdos da escola. A criança toca no botão que aparece à direita para abrir o espaço da Tara.
-
-<figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/school-sign.png" alt="Placa da Escola da Tara pendurada em uma árvore com botão de interação à direita." />
-  <figcaption>A placa abre os conteúdos da escola quando a criança já está no espaço da Tara.</figcaption>
-</figure>
-
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/school-intro-panel.png" alt="Painel Tara's School apresentando a escola com o botão Let's go." />
   <figcaption>O botão Let's go abre o espaço de aprendizagem da Tara.</figcaption>
@@ -41,7 +34,14 @@ Depois de entrar na Escola da Tara, a placa pendurada na árvore se torna o pont
 
 ## Explorar lições, histórias, quizzes e recompensas
 
-Dentro da escola, a criança acessa lições, histórias e quizzes. Um espaço de recompensas também mostra bônus especiais que ela pode desbloquear ao progredir com Tara.
+Depois de entrar na Escola da Tara, a criança vai até a placa pendurada na árvore. Essa placa é o ponto de acesso aos conteúdos da escola. Ao tocar no botão que aparece à direita, ela abre a interface com lições, histórias, quizzes e recompensas.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/school-sign.png" alt="Placa da Escola da Tara pendurada em uma árvore com botão de interação à direita." />
+  <figcaption>Dentro da escola, a placa abre os conteúdos da Tara.</figcaption>
+</figure>
+
+A tela seguinte reúne os três formatos de aprendizagem: lições que explicam ideias, histórias que colocam essas ideias em situações narrativas e quizzes que ajudam a verificar o que foi entendido. Um espaço de recompensas também mostra bônus especiais que ela pode desbloquear ao progredir com Tara.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/rewards-panel.png" alt="Espaço de recompensas da Tara com Lessons, Stories, Quizzes e novo nível alcançado." />
@@ -57,44 +57,46 @@ Depois, a criança escolhe sua lição na ordem sugerida por Tara. Módulo após
 
 ## Conversar com Tara
 
-A criança vai até Tara e inicia uma conversa. Tara permite trocar sobre o conteúdo selecionado: lição, história ou quiz. O objetivo é que a criança entenda uma ideia, reconheça essa ideia em uma história e depois a use em uma missão.
+A criança vai até Tara e inicia uma conversa. O diálogo é interativo e ilustrado: Tara apresenta uma ideia, verifica aos poucos se a criança está acompanhando e adapta o ritmo da troca. Se um conceito não estiver claro, ele pode ser reformulado ou explicado de outra forma. As repetições ajudam a consolidar; os atalhos permitem que crianças mais à vontade ou maduras avancem sem repetir tudo.
+
+Tara permite trocar sobre o conteúdo selecionado: lição, história ou quiz. O objetivo é que a criança entenda uma ideia, reconheça essa ideia em uma história e depois a use em uma missão. Assim, ela passa de "ouvi a informação" para "consigo usá-la para entender uma situação".
 
 ## Acompanhar o progresso como responsável
 
-Na interface do responsável, clique em **Emotions** para ver os últimos módulos feitos pela criança.
+Na interface do responsável, clique em **Emotions** para ver os últimos módulos feitos pela criança. Essa tela funciona como um painel de acompanhamento: mostra onde a criança está no percurso, quais módulos já abriu e quais aprendizados recentes podem ser retomados em família.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/parent-emotions-overview.png" alt="Tela Emotions do responsável mostrando progresso dos módulos e últimas lições." />
-  <figcaption>O espaço Emotions dá uma visão geral dos módulos psicoeducativos.</figcaption>
+  <figcaption>O espaço Emotions dá uma visão geral dos módulos psicoeducativos e do progresso.</figcaption>
 </figure>
 
-Para ver os detalhes, clique no pequeno diário no canto superior esquerdo de cada lição. Você poderá ver se a criança fez a lição, os quizzes e a história.
+Para ver os detalhes, clique no pequeno diário no canto superior esquerdo de cada lição. Você poderá ver se a criança fez a lição, os quizzes e a história. Isso ajuda a distinguir um módulo apenas iniciado de um módulo explorado em seus diferentes formatos.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/parent-module-detail.png" alt="Detalhe do módulo Understand my behaviors com badges Lesson, Quiz e Story." />
-  <figcaption>O detalhe do módulo mostra o que a criança completou.</figcaption>
+  <figcaption>O detalhe do módulo mostra o que a criança completou: lição, quiz e história.</figcaption>
 </figure>
 
-O diário também traz objetivos, uma síntese para os responsáveis, uma síntese em palavras de criança e ideias de mini-exercícios para testar em casa.
+O diário também traz objetivos, uma síntese para os responsáveis, uma síntese em palavras de criança e ideias de mini-exercícios para testar em casa. Essas informações ajudam a transformar o conteúdo do jogo em conversas concretas no dia a dia.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/parent-objectives.png" alt="Objetivos do módulo Understand my behaviors na interface do responsável." />
-  <figcaption>Os objetivos explicam o que o módulo busca trabalhar.</figcaption>
+  <figcaption>Os objetivos explicam o que o módulo busca trabalhar e dão uma referência clara ao responsável.</figcaption>
 </figure>
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/parent-summary.png" alt="Síntese dos elementos-chave para responsáveis no módulo Understand my behaviors." />
-  <figcaption>A síntese para responsáveis ajuda a entender o que foi trabalhado.</figcaption>
+  <figcaption>A síntese para responsáveis ajuda a entender as ideias abordadas e suas possíveis implicações na vida familiar.</figcaption>
 </figure>
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/child-summary.png" alt="Síntese formulada para a criança no módulo Understand my behaviors." />
-  <figcaption>A versão para a criança pode ajudar a retomar o tema em conversa.</figcaption>
+  <figcaption>A versão para a criança oferece palavras simples para retomar o tema sem colocá-la em dificuldade.</figcaption>
 </figure>
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/parent-activities.png" alt="Atividades para fazer com a criança e aprofundar o módulo Understand my behaviors." />
-  <figcaption>Os mini-exercícios ajudam a continuar a aprendizagem em casa.</figcaption>
+  <figcaption>Os mini-exercícios oferecem formas curtas de continuar o aprendizado em situações reais.</figcaption>
 </figure>
 
 ## Boas práticas
