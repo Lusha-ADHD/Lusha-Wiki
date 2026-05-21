@@ -9,9 +9,11 @@ Die Inhalte können je nach Onboarding-Auswahl variieren: Profil **ADHS** oder P
 
 ## Warum Barkley eine nützliche Referenz ist
 
-Das Barkley-Programm ist ein verhaltensorientierter Ansatz der Elternbegleitung, der für Kinder mit ADHS und/oder oppositionellen Schwierigkeiten entwickelt wurde. Es hilft Eltern zu verstehen, dass viele schwierige Verhaltensweisen mit Selbstregulation, Aufmerksamkeit, Zeitmanagement und unmittelbaren Konsequenzen zusammenhängen.
+Das Barkley-Programm ist ein verhaltensorientierter Ansatz der Elternbegleitung für Familien von Kindern mit ADHS und/oder oppositionellen Schwierigkeiten. Es beginnt mit einer einfachen und oft entlastenden Idee für Eltern: Schwieriges Verhalten ist nicht nur eine Frage des Wollens. Es kann mit Selbstregulation, Aufmerksamkeit, Zeitwahrnehmung und dem Bedarf an sehr klaren, unmittelbaren Konsequenzen zusammenhängen.
 
-Die damit verbundenen Prinzipien ermutigen Eltern, Erwartungen zu klären, erwünschtes Verhalten zu verstärken, die Umgebung zu strukturieren, konsistente Belohnungen zu nutzen und Eskalationen zu reduzieren. In Lusha bleiben diese Inhalte informativ: Sie ersetzen keine professionelle Begleitung, können aber konkrete Orientierungspunkte für Beobachtung und Anpassungen im Alltag geben.
+In Lusha helfen Ihnen diese Inhalte, schwierige Alltagssituationen besser zu verstehen: wenn Sie etwas mehrmals wiederholen müssen, wenn eine Anweisung sofort wieder vergessen scheint, wenn ein Gefühl überläuft oder wenn die Beziehung angespannt wird. Ziel ist es, Ihnen konkrete Orientierung zu geben, um Erwartungen zu klären, hilfreiches Verhalten zu verstärken, die Umgebung zu strukturieren, stimmige Belohnungen zu nutzen und Eskalationen zu verringern.
+
+Diese Module bleiben informativ: Sie ersetzen keine professionelle Begleitung, können Ihnen aber helfen, Situationen mit mehr Abstand zu beobachten und kleine, realistische Veränderungen zu Hause auszuprobieren.
 
 ## Auf die Module zugreifen
 
@@ -22,7 +24,7 @@ Um die Inhalte zu öffnen, wählen Sie den Tab **Guidance**. Mehrere Module sind
   <figcaption>Der Tab Guidance sammelt verfügbare Module und zeigt, welche bereits abgeschlossen wurden.</figcaption>
 </figure>
 
-Jedes Modul kann im eigenen Tempo gelesen werden. Die Einführung hilft Eltern, häufige Situationen wiederzuerkennen: oft wiederholen müssen, sich bei Ausbrüchen hilflos fühlen oder nach Wegen suchen, das Kind und sein Wohlbefinden zu unterstützen.
+Jedes Modul kann in Ihrem eigenen Tempo gelesen werden. Die Einführung hilft Ihnen, häufige Situationen wiederzuerkennen: oft wiederholen müssen, sich bei Ausbrüchen hilflos fühlen oder nach Wegen suchen, Ihr Kind und sein Wohlbefinden zu unterstützen.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/parental-guidance/program-introduction.png" alt="Program introduction Bildschirm mit illustriertem Inhalt zur Elternbegleitung." />

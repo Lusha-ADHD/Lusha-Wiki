@@ -9,9 +9,11 @@ O conteúdo pode variar conforme as escolhas do onboarding: perfil **TDAH** ou p
 
 ## Por que Barkley é uma referência útil
 
-O programa de Barkley é uma abordagem comportamental de orientação parental desenvolvida para as necessidades de crianças com TDAH e/ou dificuldades de oposição. Seu interesse é ajudar os responsáveis a entender que muitos comportamentos difíceis estão ligados à autorregulação, atenção, gestão do tempo e consequências imediatas.
+O programa de Barkley é uma abordagem comportamental de orientação parental pensada para famílias de crianças com TDAH e/ou dificuldades de oposição. Ele parte de uma ideia simples e muitas vezes tranquilizadora para os responsáveis: comportamentos difíceis não são apenas uma questão de vontade. Eles podem estar ligados à autorregulação, atenção, percepção do tempo e à necessidade de consequências muito claras e imediatas.
 
-Os princípios associados a essa abordagem incentivam esclarecer expectativas, reforçar comportamentos desejados, estruturar o ambiente, usar recompensas consistentes e reduzir escaladas. Na Lusha, esses conteúdos são informativos: não substituem acompanhamento profissional, mas podem oferecer referências concretas para observar e ajustar o dia a dia.
+Na Lusha, esses conteúdos ajudam você a entender melhor o que pode estar acontecendo em momentos difíceis do dia a dia: quando é preciso repetir várias vezes, quando uma orientação parece ser esquecida logo depois, quando uma emoção transborda ou quando a relação fica tensa. O objetivo é oferecer referências concretas para esclarecer expectativas, reforçar comportamentos úteis, estruturar o ambiente, usar recompensas coerentes e reduzir escaladas.
+
+Esses módulos são informativos: não substituem acompanhamento profissional, mas podem ajudar você a observar as situações com mais distância e testar pequenos ajustes realistas em casa.
 
 ## Acessar os módulos
 
@@ -22,7 +24,7 @@ Para acessar o conteúdo, abra a aba **Guidance**. Vários módulos estão dispo
   <figcaption>A aba Guidance reúne os módulos disponíveis e mostra quais já foram concluídos.</figcaption>
 </figure>
 
-Cada módulo pode ser lido no próprio ritmo. A introdução ajuda o responsável a reconhecer situações frequentes: precisar repetir muitas vezes, sentir-se perdido diante de explosões ou buscar formas de ajudar a criança e melhorar seu bem-estar.
+Cada módulo pode ser lido no seu próprio ritmo. A introdução ajuda você a reconhecer situações frequentes: precisar repetir muitas vezes, sentir-se perdido diante de explosões ou buscar formas de ajudar seu filho e melhorar seu bem-estar.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/parental-guidance/program-introduction.png" alt="Tela Program introduction com conteúdo ilustrado de orientação parental." />

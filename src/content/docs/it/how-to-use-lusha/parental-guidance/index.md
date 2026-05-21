@@ -9,9 +9,11 @@ Il contenuto può variare in base alle scelte dell'onboarding: profilo **ADHD** 
 
 ## Perché Barkley è un riferimento utile
 
-Il programma di Barkley è un approccio comportamentale di guida genitoriale sviluppato per i bisogni dei bambini con ADHD e/o difficoltà oppositive. Il suo interesse è aiutare i genitori a capire che molti comportamenti difficili sono legati ad autoregolazione, attenzione, gestione del tempo e conseguenze immediate.
+Il programma di Barkley è un approccio comportamentale di guida genitoriale pensato per le famiglie di bambini con ADHD e/o difficoltà oppositive. Parte da un'idea semplice e spesso rassicurante per i genitori: i comportamenti difficili non sono solo una questione di volontà. Possono essere legati all'autoregolazione, all'attenzione, alla percezione del tempo e al bisogno di conseguenze molto chiare e immediate.
 
-I principi associati a questo approccio incoraggiano a chiarire le aspettative, rinforzare i comportamenti desiderati, strutturare l'ambiente, usare ricompense coerenti e ridurre le escalation. In Lusha, questi contenuti sono informativi: non sostituiscono un supporto professionale, ma possono offrire riferimenti concreti per osservare e adattare la vita quotidiana.
+In Lusha, questi contenuti ti aiutano a capire meglio cosa può accadere nei momenti difficili della vita quotidiana: quando devi ripetere più volte, quando una consegna sembra dimenticata subito, quando un'emozione trabocca o quando la relazione si tende. L'obiettivo è darti riferimenti concreti per chiarire le aspettative, rinforzare i comportamenti utili, strutturare l'ambiente, usare ricompense coerenti e ridurre le escalation.
+
+Questi moduli sono informativi: non sostituiscono un supporto professionale, ma possono aiutarti a osservare le situazioni con maggiore distanza e a provare piccoli aggiustamenti realistici a casa.
 
 ## Accedere ai moduli
 
@@ -22,7 +24,7 @@ Per accedere al contenuto, apri la scheda **Guidance**. Sono disponibili diversi
   <figcaption>La scheda Guidance raccoglie i moduli disponibili e mostra quelli già completati.</figcaption>
 </figure>
 
-Ogni modulo può essere letto al proprio ritmo. L'introduzione aiuta il genitore a riconoscere situazioni frequenti: dover ripetere spesso, sentirsi perso davanti alle crisi o cercare modi per aiutare il bambino e migliorare il suo benessere.
+Ogni modulo può essere letto al tuo ritmo. L'introduzione ti aiuta a riconoscere situazioni frequenti: dover ripetere spesso, sentirti perso davanti alle crisi o cercare modi per aiutare tuo figlio e migliorare il suo benessere.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/parental-guidance/program-introduction.png" alt="Schermata Program introduction con contenuto illustrato di guida genitoriale." />

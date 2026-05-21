@@ -9,9 +9,11 @@ Le contenu peut varier selon les choix faits pendant l'onboarding : profil **TDA
 
 ## Pourquoi Barkley est une référence utile
 
-Le programme de Barkley est une approche de guidance parentale comportementale développée autour des besoins des enfants avec TDAH et/ou des difficultés d'opposition. Son intérêt est d'aider les parents à comprendre que beaucoup de comportements difficiles sont liés à l'autorégulation, à l'attention, à la gestion des délais et aux conséquences immédiates.
+Le programme de Barkley est une approche de guidance parentale comportementale pensée pour les familles d'enfants avec TDAH et/ou des difficultés d'opposition. Il part d'une idée simple et souvent soulageante pour les parents : les comportements difficiles ne sont pas seulement une question de volonté. Ils peuvent être liés à l'autorégulation, à l'attention, à la perception du temps ou au besoin de conséquences très claires et immédiates.
 
-Les principes associés à cette approche encouragent notamment à clarifier les attentes, renforcer les comportements adaptés, structurer l'environnement, utiliser des récompenses cohérentes et réduire les escalades. Dans Lusha, ces contenus restent informatifs : ils ne remplacent pas un accompagnement professionnel, mais peuvent donner des repères concrets pour observer et ajuster le quotidien.
+Dans Lusha, ces contenus vous aident à mieux comprendre ce qui se joue dans les moments compliqués du quotidien : quand il faut répéter plusieurs fois, quand une consigne semble oubliée aussitôt donnée, quand une émotion déborde ou quand la relation se tend. L'objectif est de vous donner des repères concrets pour clarifier les attentes, renforcer les comportements adaptés, structurer l'environnement, utiliser des récompenses cohérentes et réduire les escalades.
+
+Ces modules restent informatifs : ils ne remplacent pas un accompagnement professionnel, mais ils peuvent vous aider à observer les situations avec plus de recul et à tester de petits ajustements réalistes à la maison.
 
 ## Accéder aux modules
 
@@ -22,7 +24,7 @@ Pour accéder au contenu, ouvrez l'onglet **Guidance**. Plusieurs modules sont a
   <figcaption>L'onglet Guidance rassemble les modules disponibles et montre ceux déjà complétés.</figcaption>
 </figure>
 
-Chaque module peut être lu à son rythme. L'introduction aide le parent à reconnaître des situations fréquentes : devoir répéter souvent, se sentir perdu face aux débordements, chercher des façons d'aider l'enfant et d'améliorer son bien-être.
+Chaque module peut être lu à votre rythme. L'introduction vous aide à reconnaître des situations fréquentes : devoir répéter souvent, vous sentir perdu face aux débordements, chercher des façons d'aider votre enfant et d'améliorer son bien-être.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/parental-guidance/program-introduction.png" alt="Écran Program introduction avec un contenu de guidance parentale illustré." />
