@@ -73,10 +73,28 @@ When everything is ready, press **Create!** to add the routine to the agenda.
   <figcaption>The routine appears in the agenda with its duration and scheduled time.</figcaption>
 </figure>
 
+## Validate the routine once it is done
+
+A routine is truly useful only when it is validated after the child completes it in real life. This step is essential: it closes the positive reinforcement loop between the child's effort, the parent's recognition, and the rewards in the game.
+
+When a past routine appears with the **To validate** status, the parent clicks the routine.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-to-validate.png" alt="Lusha agenda from the previous day with several routines marked To validate." />
+  <figcaption>Completed routines that still need parent confirmation remain visible with the To validate status.</figcaption>
+</figure>
+
+On the routine detail screen, the parent can reread the activity, check that the routine was completed, then press **Validate**. After validation, the child receives access to the planned in-game rewards for each routine successfully completed in real life.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-validate-detail.png" alt="Set the table routine detail screen with the Validate button and upcoming rewards." />
+  <figcaption>The Validate button confirms the real-life action and unlocks the related rewards.</figcaption>
+</figure>
+
 ## Good practices
 
 - Start with only one or two routines.
 - Choose observable actions, such as "put on pajamas" rather than "behave well".
 - Keep the duration short at first, then adjust after a few days.
-- Validate the routine quickly once it is done to keep the link between real-life action and reward.
+- Validate the routine quickly once it is done to keep the link between real-life action, parent encouragement, and reward.
 - If the routine creates too much tension, simplify the steps before increasing the difficulty.

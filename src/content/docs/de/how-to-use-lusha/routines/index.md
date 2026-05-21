@@ -73,10 +73,28 @@ Wenn alles bereit ist, drucken Sie **Create!**, um die Routine dem Kalender hinz
   <figcaption>Die Routine erscheint im Kalender mit Dauer und geplantem Zeitpunkt.</figcaption>
 </figure>
 
+## Die Routine validieren, wenn sie erledigt ist
+
+Eine Routine ist erst dann wirklich hilfreich, wenn sie nach der Ausführung im echten Leben validiert wird. Dieser Schritt ist wesentlich: Er schließt die positive Verstärkungsschleife zwischen der Anstrengung des Kindes, der Anerkennung durch den Elternteil und den Belohnungen im Spiel.
+
+Wenn eine vergangene Routine mit dem Status **To validate** angezeigt wird, klickt der Elternteil auf die betreffende Routine.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-to-validate.png" alt="Lusha-Kalender vom Vortag mit mehreren Routinen im Status To validate." />
+  <figcaption>Erledigte Routinen, die noch bestätigt werden müssen, bleiben mit dem Status To validate sichtbar.</figcaption>
+</figure>
+
+Auf dem Detailbildschirm kann der Elternteil die Aktivität erneut lesen, prüfen, ob die Routine erledigt wurde, und dann auf **Validate** drücken. Danach erhält das Kind Zugang zu den vorgesehenen Spielbelohnungen für jede im echten Leben erfolgreich erledigte Routine.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-validate-detail.png" alt="Detailbildschirm der Routine Set the table mit der Schaltfläche Validate und den nächsten Belohnungen." />
+  <figcaption>Die Schaltfläche Validate bestätigt die reale Handlung und schaltet die zugehörigen Belohnungen frei.</figcaption>
+</figure>
+
 ## Gute Praktiken
 
 - Beginnen Sie nur mit einer oder zwei Routinen.
 - Wahlen Sie beobachtbare Handlungen, zum Beispiel "Pyjama anziehen" statt "brav sein".
 - Halten Sie die Dauer am Anfang kurz und passen Sie sie nach einigen Tagen an.
-- Validieren Sie die Routine zeitnah, wenn sie erledigt ist, damit der Zusammenhang zwischen realer Handlung und Belohnung klar bleibt.
+- Validieren Sie die Routine zeitnah, wenn sie erledigt ist, damit der Zusammenhang zwischen realer Handlung, elterlicher Ermutigung und Belohnung klar bleibt.
 - Wenn die Routine zu viel Spannung erzeugt, vereinfachen Sie die Schritte, bevor Sie die Schwierigkeit erhohen.

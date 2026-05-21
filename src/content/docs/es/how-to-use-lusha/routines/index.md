@@ -73,10 +73,28 @@ Cuando todo este listo, pulsa **Create!** para anadir la rutina a la agenda.
   <figcaption>La rutina aparece en la agenda con su duracion y su horario.</figcaption>
 </figure>
 
+## Validar la rutina cuando esta hecha
+
+Una rutina solo es realmente útil cuando se valida después de que el niño la haya realizado en la vida real. Este paso es esencial: cierra el ciclo de refuerzo positivo entre el esfuerzo del niño, el reconocimiento del adulto y las recompensas en el juego.
+
+Cuando una rutina pasada aparece con el estado **To validate**, el adulto hace clic en la rutina correspondiente.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-to-validate.png" alt="Agenda de Lusha del dia anterior con varias rutinas marcadas To validate." />
+  <figcaption>Las rutinas realizadas que aún necesitan confirmación del adulto siguen visibles con el estado To validate.</figcaption>
+</figure>
+
+En la pantalla de detalle, el adulto puede revisar la actividad, comprobar que la rutina se hizo y pulsar **Validate**. Después de esta validación, el niño accede a las recompensas previstas en el juego por cada rutina completada con éxito en la vida real.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-validate-detail.png" alt="Detalle de la rutina Set the table con el boton Validate y las proximas recompensas." />
+  <figcaption>El botón Validate confirma la acción real y desbloquea las recompensas asociadas.</figcaption>
+</figure>
+
 ## Buenas practicas
 
 - Empieza con solo una o dos rutinas.
 - Elige acciones observables, por ejemplo "ponerse el pijama" en vez de "portarse bien".
 - Mantén una duracion corta al principio y ajustala tras unos dias.
-- Valida la rutina rapidamente cuando este hecha para conservar el vinculo entre accion real y recompensa.
+- Valida la rutina rapidamente cuando este hecha para conservar el vinculo entre accion real, reconocimiento del adulto y recompensa.
 - Si la rutina genera demasiada tension, simplifica los pasos antes de aumentar la dificultad.

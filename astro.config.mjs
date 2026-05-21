@@ -114,6 +114,17 @@ export default defineConfig({
               },
               link: 'how-to-use-lusha/routines/',
             },
+            {
+              label: "Tara's School",
+              translations: {
+                fr: 'École de Tara',
+                de: 'Taras Schule',
+                it: 'Scuola di Tara',
+                es: 'Escuela de Tara',
+                'pt-BR': 'Escola da Tara',
+              },
+              link: 'how-to-use-lusha/tara-school/',
+            },
           ],
         },
         {

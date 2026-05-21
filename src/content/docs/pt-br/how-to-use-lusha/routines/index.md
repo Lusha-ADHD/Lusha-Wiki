@@ -73,10 +73,28 @@ Quando tudo estiver pronto, toque em **Create!** para adicionar a rotina a agend
   <figcaption>A rotina aparece na agenda com sua duracao e horario planejado.</figcaption>
 </figure>
 
+## Validar a rotina quando ela for concluida
+
+Uma rotina so e realmente util quando e validada depois que a crianca a realiza na vida real. Essa etapa e essencial: ela fecha o ciclo de reforco positivo entre o esforco da crianca, o reconhecimento do responsavel e as recompensas no jogo.
+
+Quando uma rotina passada aparece com o status **To validate**, o responsavel clica na rotina correspondente.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-to-validate.png" alt="Agenda da Lusha do dia anterior com varias rotinas marcadas como To validate." />
+  <figcaption>As rotinas concluidas que ainda precisam de confirmacao do responsavel continuam visiveis com o status To validate.</figcaption>
+</figure>
+
+Na tela de detalhes, o responsavel pode reler a atividade, verificar se a rotina foi feita e tocar em **Validate**. Depois da validacao, a crianca tem acesso as recompensas previstas no jogo para cada rotina realizada com sucesso na vida real.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-validate-detail.png" alt="Detalhe da rotina Set the table com o botao Validate e as proximas recompensas." />
+  <figcaption>O botao Validate confirma a acao real e desbloqueia as recompensas associadas.</figcaption>
+</figure>
+
 ## Boas praticas
 
 - Comece com apenas uma ou duas rotinas.
 - Escolha acoes observaveis, por exemplo "colocar o pijama" em vez de "se comportar bem".
 - Mantenha a duracao curta no inicio e ajuste depois de alguns dias.
-- Valide a rotina rapidamente quando ela for concluida para manter o vinculo entre acao real e recompensa.
+- Valide a rotina rapidamente quando ela for concluida para manter o vinculo entre acao real, incentivo do responsavel e recompensa.
 - Se a rotina gerar muita tensao, simplifique as etapas antes de aumentar a dificuldade.

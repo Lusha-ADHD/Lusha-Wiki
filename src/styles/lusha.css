@@ -354,6 +354,60 @@ a:hover {
   line-height: 1.45;
 }
 
+.sl-markdown-content .lusha-flow {
+  display: grid;
+  gap: 0.8rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.sl-markdown-content .lusha-flow-step {
+  display: grid;
+  grid-template-columns: 3.4rem minmax(0, 1fr);
+  gap: 0.8rem;
+  align-items: center;
+}
+
+.sl-markdown-content .lusha-flow-number {
+  display: grid;
+  place-items: center;
+  width: 3.1rem;
+  height: 3.1rem;
+  border-radius: 999rem;
+  background: linear-gradient(180deg, #ffd447, #ffb300);
+  box-shadow: 0 0.22rem 0 #f2d27b;
+  color: #ffffff;
+  font-size: 1.55rem;
+  font-weight: 900;
+}
+
+.sl-markdown-content .lusha-flow-text {
+  border-radius: 0.45rem;
+  color: #151540;
+  font-size: clamp(1rem, 2.1vw, 1.25rem);
+  line-height: 1.25;
+  padding: 0.72rem 0.9rem;
+}
+
+.sl-markdown-content .lusha-flow-step:nth-child(1) .lusha-flow-text {
+  background-color: #ff8a10;
+}
+
+.sl-markdown-content .lusha-flow-step:nth-child(2) .lusha-flow-text {
+  background-color: #ffc20e;
+}
+
+.sl-markdown-content .lusha-flow-step:nth-child(3) .lusha-flow-text {
+  background-color: #ffe08a;
+}
+
+.sl-markdown-content .lusha-flow-step:nth-child(4) .lusha-flow-text {
+  background-color: #fff0c8;
+}
+
+.sl-markdown-content .lusha-flow-text strong {
+  color: #17135f;
+}
+
 :root[data-theme='dark'] .sl-markdown-content .lusha-product-link {
   border-color: rgb(214 242 166 / 34%);
   background-color: rgb(20 37 29 / 72%);
@@ -370,6 +424,10 @@ a:hover {
   border-color: rgb(134 196 108 / 24%);
   background-color: rgb(20 37 29 / 64%);
   box-shadow: 0 0.45rem 1.25rem rgb(0 0 0 / 26%);
+}
+
+:root[data-theme='dark'] .sl-markdown-content .lusha-flow-text {
+  color: #151540;
 }
 
 .sl-markdown-content :is(h1, h2, h3) {

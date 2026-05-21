@@ -24,7 +24,7 @@ Depuis l'onglet **Routines**, appuyez sur **Create a new routine**. L'agenda aff
   <figcaption>L'agenda des routines montre les actions déjà prévues et le bouton de création.</figcaption>
 </figure>
 
-## Choisir une categorie
+## Choisir une catégorie
 
 Lusha propose plusieurs catégories : routine personnalisée, maison, santé, connaissances, famille et amis, ou routines sauvegardées. Choisissez la catégorie qui correspond le mieux à l'action réelle que vous voulez travailler.
 
@@ -33,7 +33,7 @@ Lusha propose plusieurs catégories : routine personnalisée, maison, santé, co
   <figcaption>La catégorie aide à retrouver plus vite une routine adaptée au contexte.</figcaption>
 </figure>
 
-## Selectionner une routine
+## Sélectionner une routine
 
 Après avoir choisi une catégorie, sélectionnez une routine dans la liste. Dans l'exemple, le parent choisit **Tidy up my room**. Les routines prédéfinies donnent une base que vous pouvez ensuite ajuster.
 
@@ -42,7 +42,7 @@ Après avoir choisi une catégorie, sélectionnez une routine dans la liste. Dan
   <figcaption>Les routines prédéfinies évitent de partir d'une page blanche.</figcaption>
 </figure>
 
-## Definir la routine avec des etapes claires
+## Définir la routine avec des étapes claires
 
 L'écran de définition affiche le nom, la catégorie et une description de l'activité pour guider l'enfant. Relisez les étapes et adaptez-les si elles ne correspondent pas à votre maison, à l'âge de l'enfant ou à son niveau d'autonomie.
 
@@ -73,10 +73,28 @@ Quand tout est prêt, appuyez sur **Create!** pour ajouter la routine à l'agend
   <figcaption>La routine apparaît dans l'agenda avec sa durée et son moment de réalisation.</figcaption>
 </figure>
 
+## Valider la routine quand elle est faite
+
+Une routine créée n'est vraiment utile que si elle est validée après avoir été réalisée dans la vraie vie. Cette étape est essentielle : elle ferme la boucle de renforcement positif entre l'effort de l'enfant, la reconnaissance du parent et les récompenses dans le jeu.
+
+Quand une routine passée apparaît avec le statut **To validate**, le parent clique sur la routine concernée.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-to-validate.png" alt="Agenda Lusha de la veille avec plusieurs routines marquées To validate." />
+  <figcaption>Les routines terminées mais non validées restent visibles dans l'agenda avec le statut To validate.</figcaption>
+</figure>
+
+Sur le détail de la routine, le parent relit l'activité si besoin, vérifie que la routine a bien été faite, puis appuie sur **Validate**. Après cette validation, l'enfant accède aux récompenses prévues dans le jeu pour chaque routine réussie dans la vraie vie.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-validate-detail.png" alt="Détail d'une routine Set the table terminée avec le bouton Validate et les prochaines récompenses." />
+  <figcaption>Le bouton Validate confirme l'action réelle et débloque les récompenses associées.</figcaption>
+</figure>
+
 ## Bonnes pratiques
 
 - Commencez avec une ou deux routines seulement.
 - Choisissez des actions observables, par exemple "mettre le pyjama" plutôt que "être sage".
 - Gardez une durée courte au début, puis ajustez après quelques jours.
-- Validez rapidement la routine quand elle est faite pour garder le lien entre action réelle et récompense.
+- Validez rapidement la routine quand elle est faite pour garder le lien entre action réelle, encouragement parental et récompense.
 - Si la routine crée trop de tension, simplifiez les étapes avant d'augmenter la difficulté.

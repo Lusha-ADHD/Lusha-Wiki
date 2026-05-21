@@ -73,10 +73,28 @@ Quando tutto e pronto, premi **Create!** per aggiungere la routine all'agenda.
   <figcaption>La routine appare nell'agenda con la sua durata e l'orario previsto.</figcaption>
 </figure>
 
+## Validare la routine quando e completata
+
+Una routine e davvero utile solo quando viene validata dopo che il bambino l'ha completata nella vita reale. Questo passaggio e essenziale: chiude il ciclo di rinforzo positivo tra l'impegno del bambino, il riconoscimento del genitore e le ricompense nel gioco.
+
+Quando una routine passata appare con lo stato **To validate**, il genitore clicca sulla routine interessata.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-to-validate.png" alt="Agenda di Lusha del giorno precedente con diverse routine indicate come To validate." />
+  <figcaption>Le routine completate che richiedono ancora conferma del genitore restano visibili con lo stato To validate.</figcaption>
+</figure>
+
+Nella schermata di dettaglio, il genitore puo rileggere l'attivita, verificare che la routine sia stata completata e premere **Validate**. Dopo la validazione, il bambino accede alle ricompense previste nel gioco per ogni routine riuscita nella vita reale.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-validate-detail.png" alt="Dettaglio della routine Set the table con il pulsante Validate e le prossime ricompense." />
+  <figcaption>Il pulsante Validate conferma l'azione reale e sblocca le ricompense associate.</figcaption>
+</figure>
+
 ## Buone pratiche
 
 - Inizia con una o due routine soltanto.
 - Scegli azioni osservabili, per esempio "mettere il pigiama" invece di "comportarsi bene".
 - Mantieni la durata breve all'inizio, poi adattala dopo alcuni giorni.
-- Valida rapidamente la routine quando e completata per mantenere il legame tra azione reale e ricompensa.
+- Valida rapidamente la routine quando e completata per mantenere il legame tra azione reale, incoraggiamento del genitore e ricompensa.
 - Se la routine crea troppa tensione, semplifica i passaggi prima di aumentare la difficolta.
