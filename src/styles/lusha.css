@@ -333,6 +333,27 @@ a:hover {
   color: var(--lusha-blue-night);
 }
 
+.sl-markdown-content .lusha-screenshot {
+  margin: 1.5rem 0 2rem;
+}
+
+.sl-markdown-content .lusha-screenshot img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid rgb(138 90 43 / 22%);
+  border-radius: 0.5rem;
+  background-color: rgb(255 253 247 / 78%);
+  box-shadow: 0 0.45rem 1.25rem rgb(13 27 42 / 10%);
+}
+
+.sl-markdown-content .lusha-screenshot figcaption {
+  margin-top: 0.55rem;
+  color: var(--sl-color-gray-4);
+  font-size: var(--sl-text-sm);
+  line-height: 1.45;
+}
+
 :root[data-theme='dark'] .sl-markdown-content .lusha-product-link {
   border-color: rgb(214 242 166 / 34%);
   background-color: rgb(20 37 29 / 72%);
@@ -343,6 +364,12 @@ a:hover {
   border-color: var(--lusha-orange-campfire);
   background-color: rgb(13 27 42 / 76%);
   color: var(--sl-color-gray-1);
+}
+
+:root[data-theme='dark'] .sl-markdown-content .lusha-screenshot img {
+  border-color: rgb(134 196 108 / 24%);
+  background-color: rgb(20 37 29 / 64%);
+  box-shadow: 0 0.45rem 1.25rem rgb(0 0 0 / 26%);
 }
 
 .sl-markdown-content :is(h1, h2, h3) {

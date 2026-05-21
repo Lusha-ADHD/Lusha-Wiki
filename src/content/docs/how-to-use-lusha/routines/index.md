@@ -1,0 +1,82 @@
+---
+title: Create Routines in Lusha
+description: Parent guide to understanding why routines matter for ADHD and how to create a routine in Lusha, from the agenda to scheduling.
+---
+
+Routines help a child understand what is expected, when the action should start, and what happens next. For a child with ADHD, this predictability can reduce the organization load, limit repeated negotiation, and make transitions easier to support.
+
+In Lusha, a routine connects a real-life action to progress in the game. The parent chooses a routine, adapts it if needed, defines its duration, frequency, and rewards, then places it in the child's agenda.
+
+## Why routines matter
+
+ADHD can make it harder to start a task, stay focused, manage time, and move from one activity to another. A well-written routine helps because it turns a general expectation into concrete steps.
+
+A good routine should stay simple, observable, and realistic. For example, "tidy up my room" becomes easier to understand when the child sees the expected steps: go to my room, tidy the toys, organize my clothes, put away my school supplies, then ask a parent to check.
+
+Lusha does not replace family or professional support. The app mainly helps make the routine visible, repeatable, and motivating.
+
+## Open the routines agenda
+
+From the **Routines** tab, press **Create a new routine**. The agenda shows the routines already planned for the day and lets you add a new action.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-agenda.png" alt="Lusha Routines screen with the Create a new routine button in the agenda." />
+  <figcaption>The routines agenda shows planned actions and the creation button.</figcaption>
+</figure>
+
+## Choose a category
+
+Lusha offers several categories: custom routine, home, health, knowledge, family and friends, or saved routines. Choose the category that best matches the real-life action you want to work on.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-category.png" alt="Choose a category window with Custom routine, Home, Health, Knowledge, Family and friends, and Your saved routines." />
+  <figcaption>The category helps you find a routine that fits the context.</figcaption>
+</figure>
+
+## Pick a routine
+
+After choosing a category, select a routine from the list. In the example, the parent chooses **Tidy up my room**. Preset routines give you a starting point that can be adjusted later.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-pick.png" alt="Pick a routine list with options such as Tidy up my room, Set the table, and Clear my plate." />
+  <figcaption>Preset routines help you avoid starting from a blank page.</figcaption>
+</figure>
+
+## Define the routine with clear steps
+
+The definition screen shows the name, category, and activity description to guide the child. Read the steps and adapt them if they do not match your home, the child's age, or their current level of autonomy.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-define.png" alt="Define the routine screen with the name Tidy up my room and a multi-step activity description." />
+  <figcaption>The description turns the routine into concrete actions the child can follow.</figcaption>
+</figure>
+
+## Configure duration, frequency, and rewards
+
+Choose a realistic duration. A routine that is too long may discourage the child; a short repeated routine is often easier to establish. Then choose whether the routine is one-time or recurring, and select the days.
+
+Rewards can be unlocked after validation. They should reinforce the effort without becoming pressure. In Lusha, parent validation confirms that the real-life action was completed before the game rewards are unlocked.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-configure.png" alt="Configure the routine screen with duration, recurring frequency, weekdays, and rewards after validation." />
+  <figcaption>The configuration defines when the routine returns and what is unlocked after validation.</figcaption>
+</figure>
+
+## Place the routine in the agenda
+
+On the scheduling screen, place the routine at the right moment of the day. The goal is to choose a time that fits family life: after school, before dinner, before bedtime, or another stable moment.
+
+When everything is ready, press **Create!** to add the routine to the agenda.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-schedule.png" alt="Scheduling agenda showing Tidy up my room placed at 5:00 PM before the Create button." />
+  <figcaption>The routine appears in the agenda with its duration and scheduled time.</figcaption>
+</figure>
+
+## Good practices
+
+- Start with only one or two routines.
+- Choose observable actions, such as "put on pajamas" rather than "behave well".
+- Keep the duration short at first, then adjust after a few days.
+- Validate the routine quickly once it is done to keep the link between real-life action and reward.
+- If the routine creates too much tension, simplify the steps before increasing the difficulty.

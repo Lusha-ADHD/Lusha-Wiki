@@ -94,6 +94,29 @@ export default defineConfig({
           ],
         },
         {
+          label: 'How to Use Lusha',
+          translations: {
+            fr: 'Comment utiliser Lusha',
+            de: 'Lusha verwenden',
+            it: 'Come usare Lusha',
+            es: 'Como usar Lusha',
+            'pt-BR': 'Como usar a Lusha',
+          },
+          items: [
+            {
+              label: 'Routines',
+              translations: {
+                fr: 'Routines',
+                de: 'Routinen',
+                it: 'Routine',
+                es: 'Rutinas',
+                'pt-BR': 'Rotinas',
+              },
+              link: 'how-to-use-lusha/routines/',
+            },
+          ],
+        },
+        {
           label: 'Clinical Trial Info',
           translations: {
             fr: 'Informations sur les essais cliniques',
