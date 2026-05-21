@@ -31,6 +31,7 @@ Inizia dalla **Guida introduttiva** per installare Lusha, capire le prime impost
 In questo wiki troverai anche:
 
 - una descrizione dettagliata del calendario, delle routine, delle sfide comportamentali, delle ricompense e del controllo del tempo davanti allo schermo;
+- guide pratiche nella sezione **Come usare Lusha**, incluso un aiuto passo dopo passo per creare routine;
 - una presentazione della Scuola di Tara e dei suoi contenuti psicoeducativi;
 - una descrizione dell'universo del gioco, dei suoi personaggi e dei riferimenti narrativi;
 - informazioni sulle basi scientifiche di Lusha, sulle nostre fonti di ispirazione, sulle collaborazioni con specialisti dell'ADHD, sui primi studi d'impatto e sullo studio clinico in corso.

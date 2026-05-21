@@ -31,6 +31,7 @@ Comece pelo **Guia de início** para instalar a Lusha, entender os primeiros aju
 Neste wiki, você também encontrará:
 
 - uma descrição detalhada do calendário, das rotinas, dos desafios comportamentais, das recompensas e do controle do tempo de tela;
+- guias práticos na seção **Como usar a Lusha**, incluindo ajuda passo a passo para criar rotinas;
 - uma apresentação da Escola da Tara e de seu conteúdo psicoeducativo;
 - uma descrição do universo do jogo, de seus personagens e de suas referências narrativas;
 - informações sobre as bases científicas da Lusha, nossas fontes de inspiração, nossas colaborações com especialistas em TDAH, os primeiros estudos de impacto e o estudo clínico em andamento.

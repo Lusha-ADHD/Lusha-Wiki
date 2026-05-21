@@ -31,6 +31,7 @@ Start with the **Getting Started Guide** to install Lusha, understand the first 
 You will also find:
 
 - a detailed description of the calendar, routines, behavioral challenges, rewards, and screen-time controls;
+- practical guides in the **How to Use Lusha** section, including step-by-step help for creating routines;
 - an introduction to Tara's School and its psychoeducational content;
 - a description of the game universe, its characters, and narrative landmarks;
 - information about Lusha's scientific foundations, sources of inspiration, collaborations with ADHD specialists, first impact studies, and ongoing clinical study.

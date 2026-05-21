@@ -31,6 +31,7 @@ Beginne mit dem **Startleitfaden**, um Lusha zu installieren, die ersten Einstel
 In diesem Wiki findest du außerdem:
 
 - eine detaillierte Beschreibung des Kalenders, der Routinen, der Verhaltensaufgaben, der Belohnungen und der Bildschirmzeitkontrolle;
+- praktische Anleitungen im Bereich **Lusha verwenden**, darunter eine Schritt-für-Schritt-Hilfe zum Erstellen von Routinen;
 - eine Einführung in Taras Schule und ihre psychoedukativen Inhalte;
 - eine Beschreibung der Spielwelt, ihrer Figuren und narrativen Orientierungspunkte;
 - Informationen zu den wissenschaftlichen Grundlagen von Lusha, unseren Inspirationsquellen, Kooperationen mit ADHS-Fachleuten, ersten Wirkungsstudien und der laufenden klinischen Studie.

@@ -1,82 +1,82 @@
 ---
-title: Creer des routines dans Lusha
-description: Guide parent pour comprendre l'interet des routines dans le TDAH et creer une routine dans Lusha, de l'agenda a la planification.
+title: Créer des routines dans Lusha
+description: Guide parent pour comprendre l'intérêt des routines dans le TDAH et créer une routine dans Lusha, de l'agenda à la planification.
 ---
 
-Les routines aident l'enfant a savoir ce qui est attendu, quand l'action doit commencer et ce qui se passe apres. Pour un enfant avec TDAH, cette previsibilite peut reduire la charge d'organisation, limiter les negociations repetees et rendre les transitions plus faciles a accompagner.
+Les routines aident l'enfant à savoir ce qui est attendu, quand l'action doit commencer et ce qui se passe après. Pour un enfant avec TDAH, cette prévisibilité peut réduire la charge d'organisation, limiter les négociations répétées et rendre les transitions plus faciles à accompagner.
 
-Dans Lusha, une routine relie une action reelle a une progression dans le jeu. Le parent choisit une routine, l'adapte si besoin, definit sa duree, sa frequence et les recompenses associees, puis la place dans l'agenda de l'enfant.
+Dans Lusha, une routine relie une action réelle à une progression dans le jeu. Le parent choisit une routine, l'adapte si besoin, définit sa durée, sa fréquence et les récompenses associées, puis la place dans l'agenda de l'enfant.
 
 ## Pourquoi les routines sont importantes
 
-Le TDAH peut rendre plus difficile le demarrage d'une tache, le maintien de l'attention, la gestion du temps et le passage d'une activite a une autre. Une routine bien formulee aide parce qu'elle transforme une attente generale en etapes concretes.
+Le TDAH peut rendre plus difficile le démarrage d'une tâche, le maintien de l'attention, la gestion du temps et le passage d'une activité à une autre. Une routine bien formulée aide parce qu'elle transforme une attente générale en étapes concrètes.
 
-Une bonne routine doit rester simple, observable et realiste. Par exemple, "ranger ma chambre" devient plus facile a comprendre si l'enfant voit les etapes attendues : aller dans sa chambre, ranger les jouets, organiser ses vetements, remettre les affaires d'ecole a leur place, puis demander a un parent de verifier.
+Une bonne routine doit rester simple, observable et réaliste. Par exemple, "ranger ma chambre" devient plus facile à comprendre si l'enfant voit les étapes attendues : aller dans sa chambre, ranger les jouets, organiser ses vêtements, remettre les affaires d'école à leur place, puis demander à un parent de vérifier.
 
-Lusha ne remplace pas l'accompagnement familial ou professionnel. L'application sert surtout a rendre la routine visible, repetable et motivante.
+Lusha ne remplace pas l'accompagnement familial ou professionnel. L'application sert surtout à rendre la routine visible, répétable et motivante.
 
 ## Ouvrir l'agenda des routines
 
-Depuis l'onglet **Routines**, appuyez sur **Create a new routine**. L'agenda affiche les routines deja prevues pour la journee et permet d'ajouter une nouvelle action.
+Depuis l'onglet **Routines**, appuyez sur **Create a new routine**. L'agenda affiche les routines déjà prévues pour la journée et permet d'ajouter une nouvelle action.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/routines-agenda.png" alt="Ecran Routines de Lusha avec le bouton Create a new routine dans l'agenda." />
-  <figcaption>L'agenda des routines montre les actions deja prevues et le bouton de creation.</figcaption>
+  <img src="/assets/how-to-use-lusha/routines-agenda.png" alt="Écran Routines de Lusha avec le bouton Create a new routine dans l'agenda." />
+  <figcaption>L'agenda des routines montre les actions déjà prévues et le bouton de création.</figcaption>
 </figure>
 
 ## Choisir une categorie
 
-Lusha propose plusieurs categories : routine personnalisee, maison, sante, connaissances, famille et amis, ou routines sauvegardees. Choisissez la categorie qui correspond le mieux a l'action reelle que vous voulez travailler.
+Lusha propose plusieurs catégories : routine personnalisée, maison, santé, connaissances, famille et amis, ou routines sauvegardées. Choisissez la catégorie qui correspond le mieux à l'action réelle que vous voulez travailler.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/routines-category.png" alt="Fenetre Choose a category avec les categories Custom routine, Home, Health, Knowledge, Family and friends et Your saved routines." />
-  <figcaption>La categorie aide a retrouver plus vite une routine adaptee au contexte.</figcaption>
+  <img src="/assets/how-to-use-lusha/routines-category.png" alt="Fenêtre Choose a category avec les catégories Custom routine, Home, Health, Knowledge, Family and friends et Your saved routines." />
+  <figcaption>La catégorie aide à retrouver plus vite une routine adaptée au contexte.</figcaption>
 </figure>
 
 ## Selectionner une routine
 
-Apres avoir choisi une categorie, selectionnez une routine dans la liste. Dans l'exemple, le parent choisit **Tidy up my room**. Les routines predefinies donnent une base que vous pouvez ensuite ajuster.
+Après avoir choisi une catégorie, sélectionnez une routine dans la liste. Dans l'exemple, le parent choisit **Tidy up my room**. Les routines prédéfinies donnent une base que vous pouvez ensuite ajuster.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/routines-pick.png" alt="Liste Pick a routine avec plusieurs routines comme Tidy up my room, Set the table et Clear my plate." />
-  <figcaption>Les routines predefinies evitent de partir d'une page blanche.</figcaption>
+  <figcaption>Les routines prédéfinies évitent de partir d'une page blanche.</figcaption>
 </figure>
 
 ## Definir la routine avec des etapes claires
 
-L'ecran de definition affiche le nom, la categorie et une description de l'activite pour guider l'enfant. Relisez les etapes et adaptez-les si elles ne correspondent pas a votre maison, a l'age de l'enfant ou a son niveau d'autonomie.
+L'écran de définition affiche le nom, la catégorie et une description de l'activité pour guider l'enfant. Relisez les étapes et adaptez-les si elles ne correspondent pas à votre maison, à l'âge de l'enfant ou à son niveau d'autonomie.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/routines-define.png" alt="Ecran Define the routine avec le nom Tidy up my room et une description en plusieurs etapes." />
-  <figcaption>La description transforme la routine en actions concretes que l'enfant peut suivre.</figcaption>
+  <img src="/assets/how-to-use-lusha/routines-define.png" alt="Écran Define the routine avec le nom Tidy up my room et une description en plusieurs étapes." />
+  <figcaption>La description transforme la routine en actions concrètes que l'enfant peut suivre.</figcaption>
 </figure>
 
-## Configurer la duree, la frequence et les recompenses
+## Configurer la durée, la fréquence et les récompenses
 
-Indiquez une duree realiste. Une routine trop longue peut decourager l'enfant ; une routine courte et repetee est souvent plus facile a installer. Choisissez ensuite si la routine est ponctuelle ou recurrente, puis les jours concernes.
+Indiquez une durée réaliste. Une routine trop longue peut décourager l'enfant ; une routine courte et répétée est souvent plus facile à installer. Choisissez ensuite si la routine est ponctuelle ou récurrente, puis les jours concernés.
 
-Les recompenses peuvent etre activees apres validation. Elles doivent renforcer l'effort sans devenir une pression. Dans Lusha, la validation parentale confirme que l'action reelle a ete faite avant de debloquer les recompenses dans le jeu.
+Les récompenses peuvent être activées après validation. Elles doivent renforcer l'effort sans devenir une pression. Dans Lusha, la validation parentale confirme que l'action réelle a été faite avant de débloquer les récompenses dans le jeu.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/routines-configure.png" alt="Ecran Configure the routine avec duree, frequence recurrente, jours de la semaine et recompenses apres validation." />
-  <figcaption>La configuration precise quand la routine revient et ce qui est debloque apres validation.</figcaption>
+  <img src="/assets/how-to-use-lusha/routines-configure.png" alt="Écran Configure the routine avec durée, fréquence récurrente, jours de la semaine et récompenses après validation." />
+  <figcaption>La configuration précise quand la routine revient et ce qui est débloqué après validation.</figcaption>
 </figure>
 
 ## Placer la routine dans l'agenda
 
-Dans l'ecran de planification, placez la routine au bon moment de la journee. L'objectif est de choisir un horaire qui correspond a la vie familiale : apres l'ecole, avant le repas, avant le coucher ou a un autre moment stable.
+Dans l'écran de planification, placez la routine au bon moment de la journée. L'objectif est de choisir un horaire qui correspond à la vie familiale : après l'école, avant le repas, avant le coucher ou à un autre moment stable.
 
-Quand tout est pret, appuyez sur **Create!** pour ajouter la routine a l'agenda.
+Quand tout est prêt, appuyez sur **Create!** pour ajouter la routine à l'agenda.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/routines-schedule.png" alt="Agenda de planification montrant Tidy up my room place a 5:00 PM avant le bouton Create." />
-  <figcaption>La routine apparait dans l'agenda avec sa duree et son moment de realisation.</figcaption>
+  <img src="/assets/how-to-use-lusha/routines-schedule.png" alt="Agenda de planification montrant Tidy up my room placé à 5:00 PM avant le bouton Create." />
+  <figcaption>La routine apparaît dans l'agenda avec sa durée et son moment de réalisation.</figcaption>
 </figure>
 
 ## Bonnes pratiques
 
 - Commencez avec une ou deux routines seulement.
-- Choisissez des actions observables, par exemple "mettre le pyjama" plutot que "etre sage".
-- Gardez une duree courte au debut, puis ajustez apres quelques jours.
-- Validez rapidement la routine quand elle est faite pour garder le lien entre action reelle et recompense.
-- Si la routine cree trop de tension, simplifiez les etapes avant d'augmenter la difficulte.
+- Choisissez des actions observables, par exemple "mettre le pyjama" plutôt que "être sage".
+- Gardez une durée courte au début, puis ajustez après quelques jours.
+- Validez rapidement la routine quand elle est faite pour garder le lien entre action réelle et récompense.
+- Si la routine crée trop de tension, simplifiez les étapes avant d'augmenter la difficulté.
