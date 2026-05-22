@@ -136,6 +136,17 @@ export default defineConfig({
               },
               link: 'how-to-use-lusha/parental-guidance/',
             },
+            {
+              label: 'App Settings',
+              translations: {
+                fr: "Paramétrage de l'app",
+                de: 'App-Einstellungen',
+                it: "Impostazioni dell'app",
+                es: 'Configuración de la app',
+                'pt-BR': 'Configurações do app',
+              },
+              link: 'how-to-use-lusha/app-settings/',
+            },
           ],
         },
         {
