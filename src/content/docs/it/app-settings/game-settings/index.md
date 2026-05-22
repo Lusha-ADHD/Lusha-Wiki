@@ -1,6 +1,6 @@
 ---
-title: Impostazioni dell'app
-description: Guida per genitori alle impostazioni di gioco di Lusha e alle principali opzioni di amministrazione dell'app.
+title: Impostazioni di gioco
+description: "Guida per genitori alla personalizzazione di suono, joystick, personaggio, grafica e lingua in Lusha."
 ---
 
 La sezione **Settings** raccoglie le impostazioni che permettono di adattare Lusha al bambino e alla famiglia. Offre accesso alle impostazioni di gioco e anche alle aree di amministrazione dell'app.
@@ -9,8 +9,6 @@ La sezione **Settings** raccoglie le impostazioni che permettono di adattare Lus
   <img src="/assets/how-to-use-lusha/app-settings/welcome.png" alt="Schermata Settings di Lusha con Subscription, Parent Settings, Game settings, Account, Feedback e About." />
   <figcaption>Dalla scheda Settings, apri Game settings per regolare l'esperienza di gioco.</figcaption>
 </figure>
-
-## Impostazioni di gioco
 
 Per personalizzare l'esperienza di gioco, vai in **Settings** e apri **Game settings**. Lusha permette di regolare in modo abbastanza fine l'esperienza per adattarla ai bambini più piccoli, ai bambini con disprassia o semplicemente al comfort di gioco di ogni bambino.
 
@@ -60,15 +58,3 @@ Puoi modificare la lingua del gioco se necessario. Lusha è disponibile in ingle
   <img src="/assets/how-to-use-lusha/app-settings/language.png" alt="Menu Language in Game Settings con diverse lingue disponibili." />
   <figcaption>Il menu Language permette di cambiare la lingua usata nel gioco.</figcaption>
 </figure>
-
-## Amministrazione dell'app
-
-La pagina **Settings** dà accesso anche a diverse aree di amministrazione:
-
-- **Subscription** per le informazioni sull'abbonamento;
-- **Parent Settings** per le impostazioni dedicate ai genitori;
-- **Account** per le informazioni dell'account;
-- **Feedback** per inviare un commento;
-- **About** per consultare le informazioni generali sull'app.
-
-Queste sezioni sono pensate per i genitori o gli adulti di riferimento. Permettono di gestire l'app senza passare dallo spazio di gioco del bambino.

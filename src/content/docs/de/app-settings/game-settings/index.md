@@ -1,6 +1,6 @@
 ---
-title: App-Einstellungen
-description: Elternleitfaden zu den Spieleinstellungen von Lusha und den wichtigsten Verwaltungsoptionen der App.
+title: Spieleinstellungen
+description: "Elternleitfaden zur Anpassung von Ton, Joystick, Figur, Grafik und Sprache in Lusha."
 ---
 
 Der Bereich **Settings** bündelt Einstellungen, mit denen Lusha an das Kind und die Familie angepasst werden kann. Er gibt Zugang zu den Spieleinstellungen sowie zu Verwaltungsbereichen der App.
@@ -9,8 +9,6 @@ Der Bereich **Settings** bündelt Einstellungen, mit denen Lusha an das Kind und
   <img src="/assets/how-to-use-lusha/app-settings/welcome.png" alt="Lusha Settings Bildschirm mit Subscription, Parent Settings, Game settings, Account, Feedback und About." />
   <figcaption>Öffnen Sie im Tab Settings die Game settings, um das Spielerlebnis anzupassen.</figcaption>
 </figure>
-
-## Spieleinstellungen
 
 Um das Spielerlebnis zu personalisieren, gehen Sie zu **Settings** und öffnen Sie **Game settings**. Lusha ermöglicht eine recht genaue Anpassung des Spiels, damit es besser zu jüngeren Kindern, Kindern mit Dyspraxie oder einfach zum Spielkomfort des Kindes passt.
 
@@ -60,15 +58,3 @@ Sie können bei Bedarf die Sprache des Spiels ändern. Lusha ist auf Englisch, F
   <img src="/assets/how-to-use-lusha/app-settings/language.png" alt="Language Menü in Game Settings mit mehreren verfügbaren Sprachen." />
   <figcaption>Das Language Menü ändert die im Spiel verwendete Sprache.</figcaption>
 </figure>
-
-## App-Verwaltung
-
-Die Seite **Settings** gibt außerdem Zugang zu mehreren Verwaltungsbereichen:
-
-- **Subscription** für Informationen zum Abonnement;
-- **Parent Settings** für Einstellungen für Eltern;
-- **Account** für Kontoinformationen;
-- **Feedback** zum Senden von Rückmeldungen;
-- **About** für allgemeine Informationen zur App.
-
-Diese Bereiche sind für Eltern oder erwachsene Bezugspersonen gedacht. Sie helfen, die App zu verwalten, ohne durch den Spielbereich des Kindes zu gehen.

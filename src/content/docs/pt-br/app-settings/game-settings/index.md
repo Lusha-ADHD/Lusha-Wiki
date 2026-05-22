@@ -1,6 +1,6 @@
 ---
-title: Configurações do app
-description: Guia para famílias sobre as configurações de jogo da Lusha e as principais opções de administração do aplicativo.
+title: Configurações do jogo
+description: "Guia para famílias sobre personalização de som, joystick, personagem, gráficos e idioma na Lusha."
 ---
 
 A seção **Settings** reúne configurações que permitem adaptar a Lusha à criança e à família. Ela dá acesso às configurações do jogo e também a áreas de administração do aplicativo.
@@ -9,8 +9,6 @@ A seção **Settings** reúne configurações que permitem adaptar a Lusha à cr
   <img src="/assets/how-to-use-lusha/app-settings/welcome.png" alt="Tela Settings da Lusha com Subscription, Parent Settings, Game settings, Account, Feedback e About." />
   <figcaption>Na aba Settings, abra Game settings para ajustar a experiência de jogo.</figcaption>
 </figure>
-
-## Configurações do jogo
 
 Para personalizar a experiência de jogo, vá em **Settings** e abra **Game settings**. A Lusha permite ajustar a experiência com bastante detalhe para adaptá-la a crianças mais novas, crianças com dispraxia ou simplesmente ao conforto de jogo de cada criança.
 
@@ -60,15 +58,3 @@ Você pode modificar o idioma do jogo se necessário. A Lusha está disponível 
   <img src="/assets/how-to-use-lusha/app-settings/language.png" alt="Menu Language em Game Settings com vários idiomas disponíveis." />
   <figcaption>O menu Language permite alterar o idioma usado no jogo.</figcaption>
 </figure>
-
-## Administração do app
-
-A página **Settings** também dá acesso a várias áreas de administração:
-
-- **Subscription** para informações de assinatura;
-- **Parent Settings** para configurações destinadas aos responsáveis;
-- **Account** para informações da conta;
-- **Feedback** para enviar comentários;
-- **About** para consultar informações gerais sobre o aplicativo.
-
-Essas áreas são destinadas aos pais ou adultos de referência. Elas permitem gerenciar o app sem passar pelo espaço de jogo da criança.

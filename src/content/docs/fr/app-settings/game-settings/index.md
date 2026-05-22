@@ -1,6 +1,6 @@
 ---
-title: Paramétrage de l'app
-description: Guide parent pour comprendre les réglages du jeu Lusha et les principales options d'administration de l'application.
+title: Réglage du jeu
+description: "Guide parent pour personnaliser l'expérience de jeu Lusha : son, joysticks, personnage, graphismes et langue."
 ---
 
 La section **Settings** rassemble les réglages qui permettent d'adapter Lusha à l'enfant et à la famille. Elle donne accès aux réglages du jeu, mais aussi aux espaces d'administration de l'application.
@@ -9,8 +9,6 @@ La section **Settings** rassemble les réglages qui permettent d'adapter Lusha �
   <img src="/assets/how-to-use-lusha/app-settings/welcome.png" alt="Écran Settings de Lusha avec Subscription, Parent Settings, Game settings, Account, Feedback et About." />
   <figcaption>Depuis l'onglet Settings, ouvrez Game settings pour ajuster l'expérience de jeu.</figcaption>
 </figure>
-
-## Réglage du jeu
 
 Pour personnaliser l'expérience de jeu, allez dans **Settings**, puis ouvrez **Game settings**. Le jeu Lusha permet d'ajuster assez finement l'expérience pour l'adapter aux enfants plus jeunes, aux enfants dyspraxiques, ou simplement au confort de jeu de chaque enfant.
 
@@ -60,15 +58,3 @@ Vous pouvez modifier la langue du jeu si besoin. Lusha est disponible en anglais
   <img src="/assets/how-to-use-lusha/app-settings/language.png" alt="Menu Language dans Game Settings avec plusieurs langues disponibles." />
   <figcaption>Le menu Language permet de changer la langue utilisée dans le jeu.</figcaption>
 </figure>
-
-## Administration de l'app
-
-La page **Settings** donne aussi accès à plusieurs espaces d'administration :
-
-- **Subscription** pour les informations liées à l'abonnement ;
-- **Parent Settings** pour les paramètres destinés aux parents ;
-- **Account** pour les informations du compte ;
-- **Feedback** pour envoyer un retour ;
-- **About** pour consulter les informations générales sur l'application.
-
-Ces rubriques sont destinées aux parents ou aux adultes référents. Elles permettent de gérer l'application sans passer par l'espace de jeu de l'enfant.

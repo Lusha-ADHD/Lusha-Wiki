@@ -1,6 +1,6 @@
 ---
-title: Configuración de la app
-description: Guía para familias sobre los ajustes del juego Lusha y las principales opciones de administración de la aplicación.
+title: Ajustes del juego
+description: "Guía para familias sobre la personalización del sonido, joystick, personaje, gráficos e idioma en Lusha."
 ---
 
 La sección **Settings** reúne los ajustes que permiten adaptar Lusha al niño y a la familia. Da acceso a los ajustes del juego y también a espacios de administración de la app.
@@ -9,8 +9,6 @@ La sección **Settings** reúne los ajustes que permiten adaptar Lusha al niño 
   <img src="/assets/how-to-use-lusha/app-settings/welcome.png" alt="Pantalla Settings de Lusha con Subscription, Parent Settings, Game settings, Account, Feedback y About." />
   <figcaption>Desde la pestaña Settings, abre Game settings para ajustar la experiencia de juego.</figcaption>
 </figure>
-
-## Ajustes del juego
 
 Para personalizar la experiencia de juego, ve a **Settings** y abre **Game settings**. Lusha permite ajustar con bastante detalle la experiencia para adaptarla a niños más pequeños, niños con dispraxia o simplemente al confort de juego de cada niño.
 
@@ -60,15 +58,3 @@ Puedes modificar el idioma del juego si es necesario. Lusha está disponible en 
   <img src="/assets/how-to-use-lusha/app-settings/language.png" alt="Menú Language en Game Settings con varios idiomas disponibles." />
   <figcaption>El menú Language permite cambiar el idioma usado en el juego.</figcaption>
 </figure>
-
-## Administración de la app
-
-La página **Settings** también da acceso a varios espacios de administración:
-
-- **Subscription** para la información de suscripción;
-- **Parent Settings** para los ajustes destinados a padres;
-- **Account** para la información de la cuenta;
-- **Feedback** para enviar comentarios;
-- **About** para consultar información general sobre la app.
-
-Estos apartados están pensados para padres o adultos de referencia. Permiten administrar la app sin pasar por el espacio de juego del niño.
