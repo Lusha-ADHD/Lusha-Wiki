@@ -45,32 +45,14 @@ The ClinicalTrials.gov PDF lists two sites in France:
 
 The sponsor is University Hospital, Grenoble, with DYGIE listed as a collaborator. Estimated enrollment is 80 participants.
 
+## Which App Should Families Use?
+
+For the clinical trial, families must use a specific version of the app: **Lusha Essai clinique**. They should not use the standard Lusha app, because it is not configured for the research protocol, study follow-up, and participation process.
+
+Families who think they may be concerned by the study or want to know how to join the clinical trial should contact the team of Prof. Stéphanie Bioulac-Rogier's department in Grenoble or the team of Prof. Diane Purper-Ouakil's department in Montpellier. These teams can confirm participation steps, eligibility, and what to do next.
+
 ## What This Does Not Mean
 
 This study does not mean that Lusha replaces usual ADHD care. It evaluates app use and explores potential impact through validated questionnaires. Results must be interpreted by the research teams and relevant professionals.
 
 For participation, eligibility, or care decisions, families should always refer to the study team and healthcare professionals.
-
-## Editorial Rules
-
-- State what is known, what is unknown, and when the page was last reviewed.
-- Cite official or primary sources whenever possible.
-- Avoid medical advice, diagnosis, treatment claims, or promotional language.
-- Explain eligibility, status, geography, and participation steps only when verified.
-- Keep contact and support information separate from medical interpretation.
-
-## Recommended Template
-
-When adding a clinical trial page, include:
-
-- Trial title.
-- Last reviewed date.
-- Trial status.
-- Region or jurisdiction.
-- Eligibility summary.
-- Official source links.
-- Plain-language disclaimer.
-
-## Do Not Publish Without Verification
-
-Do not publish effectiveness rates, inclusion criteria, recruitment timelines, results, or clinical partners without an official source. When in doubt, leave the information out or mark it as to be confirmed.

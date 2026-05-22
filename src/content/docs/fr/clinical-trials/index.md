@@ -45,32 +45,14 @@ Le PDF ClinicalTrials.gov indique deux sites en France :
 
 Le promoteur indiqué est University Hospital, Grenoble, avec DYGIE comme collaborateur. L'effectif prévu est de 80 participants.
 
+## Quelle application utiliser ?
+
+Pour l'essai clinique, les familles doivent utiliser une version spécifique de l'application : **Lusha Essai clinique**. Il ne faut pas utiliser la version classique de l'application Lusha, car elle n'est pas configurée pour le protocole de recherche, le suivi de l'étude et les modalités prévues pour les participants.
+
+Si vous pensez être concerné par l'étude ou souhaitez savoir comment rejoindre l'essai clinique, rapprochez-vous de l'équipe du service de la Pr Stéphanie Bioulac-Rogier à Grenoble ou de l'équipe du service de la Pr Diane Purper-Ouakil à Montpellier. Ces équipes pourront confirmer les modalités de participation, l'éligibilité et les prochaines étapes.
+
 ## Ce que cette étude ne veut pas dire
 
 Cette étude ne signifie pas que Lusha remplace les soins habituels du TDAH. Elle évalue l'utilisation de l'application et explore son impact potentiel avec des questionnaires validés. Les résultats devront être interprétés par les équipes de recherche et les professionnels concernés.
 
 Pour une décision de participation, d'éligibilité ou de prise en charge, il faut toujours se référer aux équipes de l'étude et aux professionnels de santé.
-
-## Principes éditoriaux pour cette page
-
-- Indiquer clairement ce qui est confirmé, ce qui reste inconnu et la date de dernière vérification.
-- Citer des sources officielles ou primaires dès qu'une information clinique est publiée.
-- Éviter les promesses de résultat, les conseils médicaux, les diagnostics ou les affirmations de traitement.
-- Distinguer l'expérience de jeu, les objectifs de soutien familial et les données cliniques vérifiées.
-- Garder les coordonnées de contact séparées de l'interprétation médicale.
-
-## Modèle recommandé
-
-Pour chaque page ou note liée à un essai, ajoutez :
-
-- le titre de l'étude ou de l'essai ;
-- la date de dernière revue ;
-- le statut connu ;
-- la zone géographique concernée ;
-- un résumé d'éligibilité en langage simple ;
-- les liens vers les sources officielles ;
-- une mention rappelant que le wiki ne remplace pas un professionnel de santé.
-
-## Ce qui ne doit pas être publié sans vérification
-
-Ne publiez pas de taux d'efficacité, de critères d'inclusion, de calendrier de recrutement, de résultats ou de partenaires cliniques sans source officielle. En cas de doute, laissez l'information de côté ou marquez-la comme à confirmer.
