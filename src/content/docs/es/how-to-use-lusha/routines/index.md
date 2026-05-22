@@ -91,6 +91,15 @@ En la pantalla de detalle, el adulto puede revisar la actividad, comprobar que l
   <figcaption>El botón Validate confirma la acción real y desbloquea las recompensas asociadas.</figcaption>
 </figure>
 
+Después de pulsar **Validate**, Lusha pide el **código parental**. Este código se define al crear la cuenta. Evita que el niño pueda validar sus rutinas por sí mismo y protege el ciclo de refuerzo positivo: es el adulto quien confirma que la acción se ha realizado en la vida real.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-parent-code.png" alt="Ventana Action reserved for parents que pide el codigo parental antes de validar una rutina." />
+  <figcaption>El código parental protege la validación de las rutinas y reserva esta acción a los adultos.</figcaption>
+</figure>
+
+Si el código debe cambiarse, por ejemplo porque tu hijo lo ha encontrado, contáctanos en [contact@lusha.care](mailto:contact@lusha.care).
+
 ## Buenas practicas
 
 - Empieza con solo una o dos rutinas.

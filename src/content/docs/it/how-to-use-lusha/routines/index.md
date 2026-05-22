@@ -91,6 +91,15 @@ Nella schermata di dettaglio, il genitore puo rileggere l'attivita, verificare c
   <figcaption>Il pulsante Validate conferma l'azione reale e sblocca le ricompense associate.</figcaption>
 </figure>
 
+Dopo aver premuto **Validate**, Lusha chiede il **codice genitore**. Questo codice viene definito al momento della creazione dell'account. Impedisce al bambino di validare da solo le proprie routine e protegge il ciclo di rinforzo positivo: e il genitore a confermare che l'azione e stata completata nella vita reale.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-parent-code.png" alt="Finestra Action reserved for parents che richiede il codice genitore prima di validare una routine." />
+  <figcaption>Il codice genitore protegge la validazione delle routine e riserva questa azione agli adulti.</figcaption>
+</figure>
+
+Se il codice deve essere cambiato, per esempio perche tuo figlio lo ha trovato, contattaci a [contact@lusha.care](mailto:contact@lusha.care).
+
 ## Buone pratiche
 
 - Inizia con una o due routine soltanto.

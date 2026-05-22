@@ -91,6 +91,15 @@ Sur le détail de la routine, le parent relit l'activité si besoin, vérifie qu
   <figcaption>Le bouton Validate confirme l'action réelle et débloque les récompenses associées.</figcaption>
 </figure>
 
+Après avoir appuyé sur **Validate**, Lusha demande le **code parent**. Ce code est défini au moment de la création du compte. Il évite que l'enfant puisse valider lui-même ses routines et protège la boucle de renforcement positif : c'est bien le parent qui confirme que l'action a été réalisée dans la vraie vie.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-parent-code.png" alt="Fenêtre Action reserved for parents demandant le code parent avant de valider une routine." />
+  <figcaption>Le code parent sécurise la validation des routines et réserve cette action aux adultes.</figcaption>
+</figure>
+
+Si le code doit être changé, par exemple parce que votre enfant l'a trouvé, contactez-nous à [contact@lusha.care](mailto:contact@lusha.care).
+
 ## Bonnes pratiques
 
 - Commencez avec une ou deux routines seulement.

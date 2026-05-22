@@ -91,6 +91,15 @@ Auf dem Detailbildschirm kann der Elternteil die Aktivität erneut lesen, prüfe
   <figcaption>Die Schaltfläche Validate bestätigt die reale Handlung und schaltet die zugehörigen Belohnungen frei.</figcaption>
 </figure>
 
+Nachdem Sie auf **Validate** gedrückt haben, fragt Lusha nach dem **Elterncode**. Dieser Code wird bei der Kontoerstellung festgelegt. Er verhindert, dass das Kind seine Routinen selbst validiert, und schützt die positive Verstärkungsschleife: Der Elternteil bestätigt, dass die Handlung im echten Leben erledigt wurde.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-parent-code.png" alt="Fenster Action reserved for parents, das vor der Validierung einer Routine nach dem Elterncode fragt." />
+  <figcaption>Der Elterncode sichert die Validierung von Routinen und reserviert diese Aktion für Erwachsene.</figcaption>
+</figure>
+
+Wenn der Code geändert werden muss, zum Beispiel weil Ihr Kind ihn herausgefunden hat, kontaktieren Sie uns unter [contact@lusha.care](mailto:contact@lusha.care).
+
 ## Gute Praktiken
 
 - Beginnen Sie nur mit einer oder zwei Routinen.

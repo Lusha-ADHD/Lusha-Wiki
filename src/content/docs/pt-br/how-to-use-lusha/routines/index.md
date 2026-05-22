@@ -91,6 +91,15 @@ Na tela de detalhes, o responsavel pode reler a atividade, verificar se a rotina
   <figcaption>O botao Validate confirma a acao real e desbloqueia as recompensas associadas.</figcaption>
 </figure>
 
+Depois de tocar em **Validate**, a Lusha pede o **código dos pais**. Esse código é definido no momento da criação da conta. Ele evita que a criança valide suas rotinas sozinha e protege o ciclo de reforço positivo: é o responsável que confirma que a ação foi realizada na vida real.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines-parent-code.png" alt="Janela Action reserved for parents pedindo o codigo dos pais antes de validar uma rotina." />
+  <figcaption>O código dos pais protege a validação das rotinas e reserva essa ação aos adultos.</figcaption>
+</figure>
+
+Se o código precisar ser alterado, por exemplo porque seu filho o encontrou, entre em contato conosco em [contact@lusha.care](mailto:contact@lusha.care).
+
 ## Boas praticas
 
 - Comece com apenas uma ou duas rotinas.
