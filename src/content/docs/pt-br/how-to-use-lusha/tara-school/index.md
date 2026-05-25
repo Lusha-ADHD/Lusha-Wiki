@@ -61,6 +61,31 @@ A criança vai até Tara e inicia uma conversa. O diálogo é interativo e ilust
 
 Tara permite trocar sobre o conteúdo selecionado: lição, história ou quiz. O objetivo é que a criança entenda uma ideia, reconheça essa ideia em uma história e depois a use em uma missão. Assim, ela passa de "ouvi a informação" para "consigo usá-la para entender uma situação".
 
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/tara-talk.png" alt="Diálogo ilustrado com Tara sobre raiva na Escola da Tara." />
+  <figcaption>As conversas com Tara usam cenas ilustradas para tornar os conceitos mais concretos.</figcaption>
+</figure>
+
+## Conversar com Pana
+
+Pana é um animal que estuda na Escola da Tara junto com a criança. Ela tem dificuldades para gerir emoções, relações com outras pessoas ou, de forma mais ampla, alguns comportamentos do dia a dia.
+
+Quando Pana tem uma nova missão desbloqueada ou um novo conteúdo disponível, aparece acima dela um balão de diálogo com três pontinhos. Esse é o sinal de que a criança pode ir falar com ela e iniciar a próxima parte da história.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/pana-ready.png" alt="Pana na Escola da Tara com um balão de diálogo indicando uma missão disponível." />
+  <figcaption>O balão com três pontinhos indica que uma nova interação com Pana está disponível.</figcaption>
+</figure>
+
+A criança ajuda Pana a resolver seus problemas em forma de missões. Algumas missões podem durar vários dias: elas pedem que a criança procure personagens, encontre objetos e resolva problemas sociais. As missões de Pana estão relacionadas às lições que a criança aprende com Tara, para que ela reutilize seus conhecimentos em uma situação concreta.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/pana-talk.png" alt="Diálogo com Pana pedindo ajuda para entender uma situação social." />
+  <figcaption>Pana transforma os aprendizados de Tara em missões concretas e progressivas.</figcaption>
+</figure>
+
+Quando os problemas de Pana são resolvidos, a criança recebe recompensas especiais. O objetivo é fortalecer seu senso de competência: ela não apenas faz uma lição, mas ajuda uma personagem a progredir graças ao que entendeu.
+
 ## Acompanhar o progresso como responsável
 
 Na interface do responsável, clique em **Emotions** para ver os últimos módulos feitos pela criança. Essa tela funciona como um painel de acompanhamento: mostra onde a criança está no percurso, quais módulos já abriu e quais aprendizados recentes podem ser retomados em família.

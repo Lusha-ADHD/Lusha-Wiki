@@ -61,6 +61,31 @@ Das Kind geht zu Tara und startet ein Gespräch. Der Dialog ist interaktiv und i
 
 Tara ermöglicht dann den Austausch mit dem ausgewählten Inhalt: Lektion, Geschichte oder Quiz. Ziel ist, dass das Kind eine Idee versteht, sie in einer Geschichte wiedererkennt und später in einer Quest nutzt. So bewegt es sich von "ich habe die Information gehört" zu "ich kann sie nutzen, um eine Situation zu verstehen".
 
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/tara-talk.png" alt="Illustrierter Dialog mit Tara über Wut in Taras Schule." />
+  <figcaption>Die Gespräche mit Tara nutzen illustrierte Szenen, um Konzepte greifbarer zu machen.</figcaption>
+</figure>
+
+## Mit Pana sprechen
+
+Pana ist ein Tier, das zusammen mit Ihrem Kind in Taras Schule lernt. Sie hat Schwierigkeiten im Umgang mit Emotionen, in Beziehungen zu anderen oder allgemeiner mit bestimmten Verhaltensweisen im Alltag.
+
+Wenn für Pana eine neue Quest freigeschaltet wurde oder neue Inhalte verfügbar sind, erscheint über ihr eine Sprechblase mit drei kleinen Punkten. Das zeigt dem Kind, dass es zu ihr gehen und den nächsten Teil der Geschichte starten kann.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/pana-ready.png" alt="Pana in Taras Schule mit einer Sprechblase, die eine verfügbare Quest anzeigt." />
+  <figcaption>Die Blase mit drei Punkten zeigt, dass eine neue Interaktion mit Pana verfügbar ist.</figcaption>
+</figure>
+
+Ihr Kind hilft Pana, Probleme in Form von Quests zu lösen. Manche Quests können mehrere Tage dauern: Das Kind sucht Figuren, findet Gegenstände und löst soziale Probleme. Panas Quests sind mit den Lektionen verbunden, die Ihr Kind mit Tara lernt, damit es sein neues Wissen in einer konkreten Situation anwenden kann.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/pana-talk.png" alt="Dialog mit Pana, die um Hilfe bittet, um eine soziale Situation zu verstehen." />
+  <figcaption>Pana verwandelt Taras Lerninhalte in konkrete, schrittweise Quests.</figcaption>
+</figure>
+
+Wenn Panas Probleme gelöst sind, erhält das Kind besondere Belohnungen. Ziel ist, sein Kompetenzgefühl zu stärken: Es absolviert nicht nur eine Lektion, sondern hilft einer Figur dank dessen, was es verstanden hat, weiterzukommen.
+
 ## Fortschritte als Elternteil verfolgen
 
 In der Elternoberfläche klicken Sie auf **Emotions**, um die letzten Module zu sehen, die Ihr Kind bearbeitet hat. Diese Ansicht dient als Übersicht: Sie zeigt, wo das Kind im Lernweg steht, welche Module geöffnet wurden und welche aktuellen Inhalte im Familiengespräch wieder aufgegriffen werden können.

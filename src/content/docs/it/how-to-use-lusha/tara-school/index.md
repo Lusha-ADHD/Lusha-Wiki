@@ -61,6 +61,31 @@ Il bambino va da Tara e avvia una discussione. Il dialogo è interattivo e illus
 
 Tara gli permette di interagire con il contenuto selezionato: lezione, storia o quiz. L'obiettivo è capire un'idea, riconoscerla in una storia e poi usarla in una missione. Così il bambino passa da "ho sentito l'informazione" a "posso usarla per capire una situazione".
 
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/tara-talk.png" alt="Dialogo illustrato con Tara sulla rabbia nella Scuola di Tara." />
+  <figcaption>Gli scambi con Tara usano scene illustrate per rendere i concetti più concreti.</figcaption>
+</figure>
+
+## Parlare con Pana
+
+Pana è un animale che studia nella Scuola di Tara insieme al bambino. Ha difficoltà nella gestione delle emozioni, nelle relazioni con gli altri o, più in generale, in alcuni comportamenti quotidiani.
+
+Quando Pana ha una nuova missione sbloccata o un nuovo contenuto disponibile, sopra di lei appare un fumetto con tre puntini. È il segnale che il bambino può andare a parlarle e avviare la parte successiva della storia.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/pana-ready.png" alt="Pana nella Scuola di Tara con un fumetto che indica una missione disponibile." />
+  <figcaption>Il fumetto con tre puntini indica che è disponibile una nuova interazione con Pana.</figcaption>
+</figure>
+
+Il bambino aiuta Pana a risolvere i suoi problemi sotto forma di missioni. Alcune possono durare diversi giorni: richiedono di cercare personaggi, trovare oggetti e risolvere problemi sociali. Le missioni di Pana sono collegate alle lezioni che il bambino apprende con Tara, così può riutilizzare le sue conoscenze in una situazione concreta.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/pana-talk.png" alt="Dialogo con Pana che chiede aiuto per capire una situazione sociale." />
+  <figcaption>Pana trasforma gli apprendimenti di Tara in missioni concrete e progressive.</figcaption>
+</figure>
+
+Quando i problemi di Pana vengono risolti, il bambino riceve ricompense speciali. L'obiettivo è rafforzare il suo senso di competenza: non completa solo una lezione, ma aiuta un personaggio a progredire grazie a ciò che ha capito.
+
 ## Seguire i progressi lato genitore
 
 Nell'interfaccia genitore, clicca su **Emotions** per vedere gli ultimi moduli completati dal bambino. Questa vista funziona come pannello di monitoraggio: mostra dove si trova il bambino nel percorso, quali moduli ha aperto e quali apprendimenti recenti possono essere ripresi in famiglia.

@@ -61,6 +61,31 @@ El niño va a ver a Tara e inicia una conversación. El diálogo es interactivo 
 
 Tara le permite interactuar con el contenido seleccionado: lección, historia o cuestionario. El objetivo es que el niño entienda una idea, la reconozca en una historia y luego la use en una misión. Así pasa de "he escuchado la información" a "puedo usarla para entender una situación".
 
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/tara-talk.png" alt="Diálogo ilustrado con Tara sobre la ira en la Escuela de Tara." />
+  <figcaption>Los intercambios con Tara usan escenas ilustradas para hacer los conceptos más concretos.</figcaption>
+</figure>
+
+## Hablar con Pana
+
+Pana es un animal que estudia en la Escuela de Tara junto con tu hijo. Tiene dificultades para gestionar sus emociones, sus relaciones con los demás o, de forma más amplia, algunos comportamientos cotidianos.
+
+Cuando Pana tiene una nueva misión desbloqueada o un nuevo contenido disponible, aparece sobre ella una burbuja de diálogo con tres puntitos. Es la señal de que el niño puede ir a hablarle y empezar la siguiente parte de la historia.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/pana-ready.png" alt="Pana en la Escuela de Tara con una burbuja de diálogo que indica que hay una misión disponible." />
+  <figcaption>La burbuja con tres puntitos indica que hay una nueva interacción disponible con Pana.</figcaption>
+</figure>
+
+Tu hijo ayuda a Pana a resolver sus problemas mediante misiones. Algunas pueden durar varios días: requieren buscar personajes, encontrar objetos y resolver problemas sociales. Las misiones de Pana están relacionadas con las lecciones que el niño aprende con Tara, para que pueda reutilizar sus conocimientos en una situación concreta.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/pana-talk.png" alt="Diálogo con Pana pidiendo ayuda para entender una situación social." />
+  <figcaption>Pana transforma los aprendizajes de Tara en misiones concretas y progresivas.</figcaption>
+</figure>
+
+Cuando los problemas de Pana se resuelven, el niño recibe recompensas especiales. El objetivo es reforzar su sensación de competencia: no solo completa una lección, sino que ayuda a un personaje a avanzar gracias a lo que ha entendido.
+
 ## Seguir el progreso desde el espacio de padres
 
 En la interfaz de padres, haz clic en **Emotions** para ver los últimos módulos realizados por tu hijo. Esta vista funciona como panel de seguimiento: muestra dónde está el niño en el recorrido, qué módulos abrió y qué aprendizajes recientes se pueden retomar en familia.

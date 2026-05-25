@@ -61,6 +61,31 @@ L'enfant va voir Tara et lance une discussion. Le dialogue est interactif et ill
 
 Tara lui propose alors d'échanger autour du contenu sélectionné : leçon, histoire ou quiz. L'objectif est que l'enfant comprenne une notion, la retrouve dans une situation narrative, puis l'utilise dans une quête où il aide un autre personnage. Cette progression encourage l'enfant à passer de "j'ai entendu l'information" à "je peux l'utiliser pour comprendre une situation".
 
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/tara-talk.png" alt="Dialogue illustré avec Tara autour de la colère dans l'École de Tara." />
+  <figcaption>Les échanges avec Tara utilisent des scènes illustrées pour rendre les concepts plus concrets.</figcaption>
+</figure>
+
+## Discuter avec Pana
+
+Pana est un animal qui étudie à l'École de Tara en même temps que votre enfant. Elle rencontre des difficultés dans la gestion de ses émotions, dans ses relations aux autres ou, plus largement, dans certains comportements du quotidien.
+
+Quand Pana a une nouvelle quête débloquée ou un nouveau contenu disponible, une bulle de dialogue avec trois petits points apparaît au-dessus d'elle. C'est le signal que l'enfant peut aller lui parler et lancer la suite de l'histoire.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/pana-ready.png" alt="Pana dans l'École de Tara avec une bulle de dialogue indiquant qu'une quête est disponible." />
+  <figcaption>La bulle avec trois petits points indique qu'une nouvelle interaction avec Pana est disponible.</figcaption>
+</figure>
+
+Votre enfant doit aider Pana à résoudre ses problèmes sous forme de quêtes. Certaines quêtes peuvent durer plusieurs jours : elles demandent de rechercher des personnages, de trouver des objets et de résoudre des problèmes sociaux. Les quêtes de Pana sont corrélées aux leçons que l'enfant apprend avec Tara, afin qu'il réutilise ses connaissances dans une situation concrète.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/pana-talk.png" alt="Dialogue avec Pana qui demande de l'aide pour comprendre une situation sociale." />
+  <figcaption>Pana transforme les apprentissages de Tara en quêtes concrètes et progressives.</figcaption>
+</figure>
+
+Quand les problèmes de Pana sont résolus, des récompenses spéciales sont offertes à l'enfant. L'objectif est de renforcer son sentiment de compétence : il ne fait pas seulement une leçon, il aide un personnage à progresser grâce à ce qu'il a compris.
+
 ## Suivre les progrès côté parent
 
 Dans l'interface parent, cliquez sur **Emotions** pour suivre les derniers modules faits par l'enfant. Cette vue sert de tableau de bord : elle montre où l'enfant en est dans le parcours, quels modules ont déjà été ouverts et quels apprentissages récents peuvent être repris dans une conversation familiale.

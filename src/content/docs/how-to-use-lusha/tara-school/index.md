@@ -61,6 +61,31 @@ The child goes to Tara and starts a discussion. The dialogue is interactive and 
 
 Tara then lets the child interact with the selected content: lesson, story, or quiz. The goal is for the child to understand an idea, recognize it in a story, then use it in a quest where they help another character. This progression encourages the child to move from "I heard the information" to "I can use it to understand a situation".
 
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/tara-talk.png" alt="Illustrated dialogue with Tara about anger in Tara's School." />
+  <figcaption>Conversations with Tara use illustrated scenes to make ideas more concrete.</figcaption>
+</figure>
+
+## Talk with Pana
+
+Pana is an animal who studies at Tara's School alongside your child. She has difficulties managing emotions, relationships with others, or more broadly some everyday behaviors.
+
+When Pana has a new quest unlocked or new content available, a speech bubble with three small dots appears above her. This tells the child they can go talk to her and start the next part of the story.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/pana-ready.png" alt="Pana in Tara's School with a speech bubble showing that a quest is available." />
+  <figcaption>The bubble with three dots shows that a new interaction with Pana is available.</figcaption>
+</figure>
+
+Your child helps Pana solve problems through quests. Some quests can last several days: they may require finding characters, collecting objects, and solving social problems. Pana's quests are connected to the lessons your child learns with Tara, so the child can reuse new knowledge in a concrete situation.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/pana-talk.png" alt="Dialogue with Pana asking for help to understand a social situation." />
+  <figcaption>Pana turns Tara's learning content into concrete, progressive quests.</figcaption>
+</figure>
+
+When Pana's problems are solved, the child receives special rewards. The goal is to strengthen the child's sense of competence: they are not only completing a lesson, they are helping a character progress thanks to what they understood.
+
 ## Follow progress as a parent
 
 In the parent interface, click **Emotions** to see the latest modules completed by the child. This view acts as a dashboard: it shows where the child is in the pathway, which modules have already been opened, and which recent learning points can be brought back into family conversation.
