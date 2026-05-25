@@ -25,6 +25,8 @@ The app has three broad parts:
 
 The motivation system is based on a token economy: desired behaviors completed in real life unlock in-game rewards. The child can then continue exploring for a limited play time, usually around 10 to 15 minutes per day, and needs new rewards to keep progressing.
 
+During the first use, take time to complete the onboarding carefully. The answers help track the impact of the game, measure the child's progress over time, and personalize the game experience according to the child's profile, needs, and family context.
+
 ## Before You Start
 
 - Use an official source when installing or consulting Lusha.

@@ -25,6 +25,8 @@ L'application articule trois grands volets :
 
 Le système de motivation repose sur une économie de jetons : les comportements souhaités réalisés dans la vraie vie donnent accès à des récompenses dans le jeu. L'enfant peut alors poursuivre son exploration pendant un temps limité, généralement autour de 10 à 15 minutes par jour, puis il aura besoin de nouvelles récompenses pour continuer.
 
+Lors de la première utilisation, prenez le temps de compléter sérieusement l'onboarding. Les réponses données permettent de suivre l'impact du jeu, de mesurer les progrès de l'enfant au fil du temps et de personnaliser l'expérience de jeu en fonction de son profil, de ses besoins et du contexte familial.
+
 ## Avant de commencer
 
 - Vérifiez que vous utilisez une source officielle pour installer ou consulter Lusha.

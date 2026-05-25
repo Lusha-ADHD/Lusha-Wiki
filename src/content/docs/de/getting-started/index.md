@@ -9,6 +9,8 @@ Lusha ist ein mobiles Spiel von Dygie, das Kindern und Familien hilft, Alltagsro
 
 Lusha richtet sich vor allem an Familien mit Kindern. Ein Elternteil oder eine vertraute erwachsene Person kann die Routinen begleiten, während das Kind das Spiel erlebt, Quests abschließt und ermutigt wird.
 
+Nehmen Sie sich bei der ersten Nutzung Zeit, das Onboarding sorgfältig auszufüllen. Die Antworten helfen, die Wirkung des Spiels zu verfolgen, die Fortschritte des Kindes im Laufe der Zeit zu messen und das Spielerlebnis an Profil, Bedürfnisse und familiären Kontext des Kindes anzupassen.
+
 ## Vor dem Start
 
 - Verwenden Sie eine offizielle Quelle, wenn Sie Lusha installieren oder Informationen dazu lesen.

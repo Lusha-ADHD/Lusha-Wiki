@@ -71,29 +71,6 @@ export default defineConfig({
           ],
         },
         {
-          label: 'FAQ',
-          translations: {
-            fr: 'FAQ',
-            de: 'FAQ',
-            it: 'FAQ',
-            es: 'FAQ',
-            'pt-BR': 'FAQ',
-          },
-          items: [
-            {
-              label: 'Questions',
-              translations: {
-                fr: 'Questions',
-                de: 'Fragen',
-                it: 'Domande',
-                es: 'Preguntas',
-                'pt-BR': 'Perguntas',
-              },
-              link: 'faq/',
-            },
-          ],
-        },
-        {
           label: 'How to Use Lusha',
           translations: {
             fr: 'Comment utiliser Lusha',
@@ -215,6 +192,29 @@ export default defineConfig({
                 'pt-BR': 'Guia do mundo',
               },
               link: 'universe/',
+            },
+          ],
+        },
+        {
+          label: 'FAQ',
+          translations: {
+            fr: 'FAQ',
+            de: 'FAQ',
+            it: 'FAQ',
+            es: 'FAQ',
+            'pt-BR': 'FAQ',
+          },
+          items: [
+            {
+              label: 'Questions',
+              translations: {
+                fr: 'Questions',
+                de: 'Fragen',
+                it: 'Domande',
+                es: 'Preguntas',
+                'pt-BR': 'Perguntas',
+              },
+              link: 'faq/',
             },
           ],
         },
