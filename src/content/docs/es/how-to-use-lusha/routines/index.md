@@ -100,6 +100,19 @@ Después de pulsar **Validate**, Lusha pide el **código parental**. Este códig
 
 Si el código debe cambiarse, por ejemplo porque tu hijo lo ha encontrado, contáctanos en [contact@lusha.care](mailto:contact@lusha.care).
 
+## Desafíos conductuales
+
+Los desafíos conductuales ayudan al niño a generalizar, es decir, a poner en práctica en la vida cotidiana lo que aprende en la Escuela de Tara. Trabajan cambios concretos de comportamiento, como no interrumpir, usar una voz tranquila al expresarse o aplicar una estrategia practicada en un módulo.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/behavioral-challenge.png" alt="Pantalla Routines con el desafío Use a calm voice when I speak all day y una progresión de cinco estrellas." />
+  <figcaption>Los desafíos aparecen en la agenda de rutinas con una progresión de cinco días.</figcaption>
+</figure>
+
+Un desafío siempre se valida en una serie de **5 días**. El adulto solo puede validarlo una vez al día. Si se pierde un día o si el comportamiento no se respetó, el niño no recibe ningún malus: simplemente no progresa ese día en su desafío.
+
+Una vez completado el desafío, el niño desbloquea las recompensas asociadas. Para que el objetivo sea claro y evitar multiplicar las expectativas, solo puede haber un desafío conductual activo a la vez.
+
 ## Buenas practicas
 
 - Empieza con solo una o dos rutinas.

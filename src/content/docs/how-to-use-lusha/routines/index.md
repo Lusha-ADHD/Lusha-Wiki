@@ -100,6 +100,19 @@ After pressing **Validate**, Lusha asks for the **parent code**. This code is se
 
 If the code needs to be changed, for example because your child has found it, contact us at [contact@lusha.care](mailto:contact@lusha.care).
 
+## Behavioral challenges
+
+Behavioral challenges help the child generalize, meaning put into practice in everyday life what they learn in Tara's School. They target concrete behavior changes, such as not interrupting, using a calm voice when speaking, or applying a strategy practiced in a module.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/behavioral-challenge.png" alt="Routines screen with a behavioral challenge Use a calm voice when I speak all day and five-star progress." />
+  <figcaption>Challenges appear in the routine agenda with progress tracked over five days.</figcaption>
+</figure>
+
+A challenge is always validated over a **5-day** series. The parent can validate it only once per day. If a day is missed or the behavior was not respected, the child has no penalty: they simply do not progress in the challenge that day.
+
+Once the challenge is completed, the child unlocks the related rewards. To keep the goal clear and avoid multiplying expectations, only one behavioral challenge can be active at a time.
+
 ## Good practices
 
 - Start with only one or two routines.

@@ -100,6 +100,19 @@ Dopo aver premuto **Validate**, Lusha chiede il **codice genitore**. Questo codi
 
 Se il codice deve essere cambiato, per esempio perche tuo figlio lo ha trovato, contattaci a [contact@lusha.care](mailto:contact@lusha.care).
 
+## Sfide comportamentali
+
+Le sfide comportamentali aiutano il bambino a generalizzare, cioè a mettere in pratica nella vita quotidiana ciò che impara nella Scuola di Tara. Mirano a cambiamenti concreti, come non interrompere, usare una voce calma quando parla o applicare una strategia lavorata in un modulo.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/behavioral-challenge.png" alt="Schermata Routines con la sfida Use a calm voice when I speak all day e una progressione su cinque stelle." />
+  <figcaption>Le sfide appaiono nell'agenda delle routine con una progressione su cinque giorni.</figcaption>
+</figure>
+
+Una sfida viene sempre validata su una serie di **5 giorni**. Il genitore può validarla solo una volta al giorno. Se un giorno viene saltato o se il comportamento non è stato rispettato, il bambino non riceve penalità: semplicemente non avanza nella sfida quel giorno.
+
+Una volta completata la sfida, il bambino sblocca le ricompense associate. Per mantenere l'obiettivo chiaro ed evitare troppe aspettative contemporaneamente, può essere attiva una sola sfida comportamentale alla volta.
+
 ## Buone pratiche
 
 - Inizia con una o due routine soltanto.

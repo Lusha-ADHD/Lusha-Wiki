@@ -100,6 +100,19 @@ Après avoir appuyé sur **Validate**, Lusha demande le **code parent**. Ce code
 
 Si le code doit être changé, par exemple parce que votre enfant l'a trouvé, contactez-nous à [contact@lusha.care](mailto:contact@lusha.care).
 
+## Défis comportementaux
+
+Les défis comportementaux aident l'enfant à généraliser, c'est-à-dire à mettre en pratique dans la vie de tous les jours ce qu'il apprend dans l'École de Tara. Ils ciblent des évolutions concrètes, comme ne pas interrompre, utiliser une voix calme quand il s'exprime ou appliquer une stratégie travaillée dans un module.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/behavioral-challenge.png" alt="Écran Routines avec un défi comportemental Use a calm voice when I speak all day et une progression sur cinq étoiles." />
+  <figcaption>Les défis apparaissent dans l'agenda des routines avec une progression sur cinq jours.</figcaption>
+</figure>
+
+Un défi se valide toujours sur une série de **5 jours**. Le parent ne peut valider qu'une seule fois par jour. Si une journée a été manquée ou si le comportement n'a pas été respecté, l'enfant n'a pas de malus : il ne progresse simplement pas ce jour-là dans la réalisation de son défi.
+
+Une fois le défi complété, l'enfant débloque les récompenses associées. Pour garder l'objectif lisible et éviter de multiplier les attentes, un seul défi comportemental peut être réalisé à la fois.
+
 ## Bonnes pratiques
 
 - Commencez avec une ou deux routines seulement.

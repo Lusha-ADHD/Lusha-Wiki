@@ -100,6 +100,19 @@ Nachdem Sie auf **Validate** gedrückt haben, fragt Lusha nach dem **Elterncode*
 
 Wenn der Code geändert werden muss, zum Beispiel weil Ihr Kind ihn herausgefunden hat, kontaktieren Sie uns unter [contact@lusha.care](mailto:contact@lusha.care).
 
+## Verhaltensbezogene Herausforderungen
+
+Verhaltensbezogene Herausforderungen helfen dem Kind, das Gelernte zu verallgemeinern, also im Alltag anzuwenden, was es in Taras Schule gelernt hat. Sie zielen auf konkrete Verhaltensentwicklungen ab, zum Beispiel nicht zu unterbrechen, mit ruhiger Stimme zu sprechen oder eine Strategie aus einem Modul einzusetzen.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/behavioral-challenge.png" alt="Routines Bildschirm mit der Herausforderung Use a calm voice when I speak all day und Fortschritt über fünf Sterne." />
+  <figcaption>Herausforderungen erscheinen im Routinenkalender mit einem Fortschritt über fünf Tage.</figcaption>
+</figure>
+
+Eine Herausforderung wird immer über eine Reihe von **5 Tagen** validiert. Eltern können sie nur einmal pro Tag bestätigen. Wenn ein Tag ausgelassen wurde oder das Verhalten nicht eingehalten wurde, gibt es keinen Malus für das Kind: Es macht an diesem Tag einfach keinen Fortschritt in der Herausforderung.
+
+Wenn die Herausforderung abgeschlossen ist, schaltet das Kind die zugehörigen Belohnungen frei. Damit das Ziel klar bleibt und nicht zu viele Erwartungen gleichzeitig entstehen, kann immer nur eine verhaltensbezogene Herausforderung aktiv sein.
+
 ## Gute Praktiken
 
 - Beginnen Sie nur mit einer oder zwei Routinen.

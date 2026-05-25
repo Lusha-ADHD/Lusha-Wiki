@@ -100,6 +100,19 @@ Depois de tocar em **Validate**, a Lusha pede o **código dos pais**. Esse códi
 
 Se o código precisar ser alterado, por exemplo porque seu filho o encontrou, entre em contato conosco em [contact@lusha.care](mailto:contact@lusha.care).
 
+## Desafios comportamentais
+
+Os desafios comportamentais ajudam a criança a generalizar, ou seja, a colocar em prática no dia a dia o que aprende na Escola da Tara. Eles trabalham mudanças concretas de comportamento, como não interromper, usar uma voz calma ao se expressar ou aplicar uma estratégia praticada em um módulo.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/behavioral-challenge.png" alt="Tela Routines com o desafio Use a calm voice when I speak all day e progresso em cinco estrelas." />
+  <figcaption>Os desafios aparecem na agenda de rotinas com progresso acompanhado por cinco dias.</figcaption>
+</figure>
+
+Um desafio sempre é validado em uma série de **5 dias**. O responsável só pode validar uma vez por dia. Se um dia for perdido ou se o comportamento não tiver sido respeitado, a criança não recebe penalidade: ela simplesmente não progride no desafio naquele dia.
+
+Depois que o desafio é concluído, a criança desbloqueia as recompensas associadas. Para manter o objetivo claro e evitar muitas expectativas ao mesmo tempo, apenas um desafio comportamental pode estar ativo por vez.
+
 ## Boas praticas
 
 - Comece com apenas uma ou duas rotinas.
