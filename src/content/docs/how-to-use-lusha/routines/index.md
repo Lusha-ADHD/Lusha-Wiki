@@ -77,28 +77,28 @@ When everything is ready, press **Create!** to add the routine to the agenda.
 
 A routine is truly useful only when it is validated after the child completes it in real life. This step is essential: it closes the positive reinforcement loop between the child's effort, the parent's recognition, and the rewards in the game.
 
-When a past routine appears with the **To validate** status, the parent clicks the routine.
+When a past routine appears with the **To validate** status and a <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/greyStar.png" alt="" aria-hidden="true" />grey star</span>, the parent can validate it. They can click the routine to open its detail screen, or tap the grey star directly if they do not need to reread the steps.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/routines-to-validate.png" alt="Lusha agenda from the previous day with several routines marked To validate." />
-  <figcaption>Completed routines that still need parent confirmation remain visible with the To validate status.</figcaption>
+  <figcaption>Completed routines that still need parent confirmation remain visible with the To validate status and a grey star.</figcaption>
 </figure>
 
-On the routine detail screen, the parent can reread the activity, check that the routine was completed, then press **Validate**. After validation, the child receives access to the planned in-game rewards for each routine successfully completed in real life.
+On the routine detail screen, the parent can reread the activity, check that the routine was completed, then press **Validate**.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/routines-validate-detail.png" alt="Set the table routine detail screen with the Validate button and upcoming rewards." />
   <figcaption>The Validate button confirms the real-life action and unlocks the related rewards.</figcaption>
 </figure>
 
-After pressing **Validate**, Lusha asks for the **parent code**. This code is set when the account is created. It prevents the child from validating routines on their own and protects the positive reinforcement loop: the parent is the one confirming that the action was completed in real life.
+Depending on the autonomy settings chosen by the parent, Lusha may ask for the **parent code** during validation. This code prevents an adult-only action from being completed by the child. In a more autonomous mode, the parent can also allow the child to validate some routines or challenges independently.
+
+After validation, a <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/star.png" alt="" aria-hidden="true" />yellow star</span> appears next to the validated routine and the child receives access to the planned in-game rewards. For freemium users, validating a routine can consume one available star.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/routines-parent-code.png" alt="Action reserved for parents window asking for the parent code before validating a routine." />
-  <figcaption>The parent code secures routine validation and keeps this action reserved for adults.</figcaption>
+  <figcaption>The parent code can secure validation when the action is reserved for adults.</figcaption>
 </figure>
-
-If the code needs to be changed, for example because your child has found it, contact us at [contact@lusha.care](mailto:contact@lusha.care).
 
 ## Behavioral challenges
 
@@ -109,9 +109,37 @@ Behavioral challenges help the child generalize, meaning put into practice in ev
   <figcaption>Challenges appear in the routine agenda with progress tracked over five days.</figcaption>
 </figure>
 
-A challenge is always validated over a **5-day** series. The parent can validate it only once per day. If a day is missed or the behavior was not respected, the child has no penalty: they simply do not progress in the challenge that day.
+A challenge is always validated over a **5-day** series. The parent can validate it only once per day. Each validation uses one <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/star.png" alt="" aria-hidden="true" />star</span>, for a total of 5 stars over 5 different days. If a day is missed or the behavior was not respected, the child has no penalty: they simply do not progress in the challenge that day.
 
 Once the challenge is completed, the child unlocks the related rewards. To keep the goal clear and avoid multiplying expectations, only one behavioral challenge can be active at a time.
+
+## Child-side agenda
+
+The child can view their routines in the in-game agenda, especially from the camp, the cabin, or Tara's School. This agenda helps them see what is planned during the day and better understand the link between real-life actions and progress in Lusha.
+
+Depending on the autonomy level chosen by the parent, the child may also be allowed to add, edit, or validate some routines and challenges. These options depend on the app's autonomy settings.
+
+The agenda can be zoomed in or out to show the day with more or less detail. It can also include important landmarks such as wake-up time, bedtime, and school hours.
+
+The child can also associate a sticker with each day to represent their mood. New stickers can be unlocked as the child progresses with Tara, connecting the agenda with the game's emotional learning.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/child-agenda.png" alt="Child-side agenda in Lusha, with the day's routines, important times, and a mood sticker." />
+  <figcaption>The child-side agenda makes routines visible in the game and helps the child find their way through the day.</figcaption>
+</figure>
+
+## Transitions Between Game and Routines
+
+When a routine is about to start, Lusha displays an in-game message to warn the child. If the child is exploring, mists appear gradually to announce that the session will soon end.
+
+When the routine starts, the child is sent back to the camp. While the routine is in progress, they cannot leave the camp to explore unless the parent allows an exception with the parent code.
+
+This mist system helps make the transition more gradual. The child is not abruptly cut off from the activity: the game signals that it is almost time to move to the routine, then limits exploration once the routine has started.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/mist-message.png" alt="Message in Lusha indicating that a routine is in progress and exploration is temporarily blocked." />
+  <figcaption>When a routine is in progress, mists block exploration and bring the child back to the camp, unless the parent authorizes an exception.</figcaption>
+</figure>
 
 ## Good practices
 

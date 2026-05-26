@@ -77,28 +77,28 @@ Quando tudo estiver pronto, toque em **Create!** para adicionar a rotina a agend
 
 Uma rotina so e realmente util quando e validada depois que a crianca a realiza na vida real. Essa etapa e essencial: ela fecha o ciclo de reforco positivo entre o esforco da crianca, o reconhecimento do responsavel e as recompensas no jogo.
 
-Quando uma rotina passada aparece com o status **To validate**, o responsavel clica na rotina correspondente.
+Quando uma rotina passada aparece com o status **A validar** e uma <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/greyStar.png" alt="" aria-hidden="true" />estrela cinza</span>, o responsável pode validá-la. Ele pode tocar na rotina para abrir os detalhes ou tocar diretamente na estrela cinza se não precisar reler as etapas.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/routines-to-validate.png" alt="Agenda da Lusha do dia anterior com varias rotinas marcadas como To validate." />
-  <figcaption>As rotinas concluidas que ainda precisam de confirmacao do responsavel continuam visiveis com o status To validate.</figcaption>
+  <img src="/assets/how-to-use-lusha/routines-to-validate.png" alt="Agenda da Lusha do dia anterior com varias rotinas marcadas como A validar." />
+  <figcaption>As rotinas concluídas que ainda precisam de confirmação do responsável continuam visíveis com o status A validar e uma estrela cinza.</figcaption>
 </figure>
 
-Na tela de detalhes, o responsavel pode reler a atividade, verificar se a rotina foi feita e tocar em **Validate**. Depois da validacao, a crianca tem acesso as recompensas previstas no jogo para cada rotina realizada com sucesso na vida real.
+Na tela de detalhes, o responsável pode reler a atividade, verificar se a rotina foi feita e tocar em **Validate**.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/routines-validate-detail.png" alt="Detalhe da rotina Set the table com o botao Validate e as proximas recompensas." />
   <figcaption>O botao Validate confirma a acao real e desbloqueia as recompensas associadas.</figcaption>
 </figure>
 
-Depois de tocar em **Validate**, a Lusha pede o **código dos pais**. Esse código é definido no momento da criação da conta. Ele evita que a criança valide suas rotinas sozinha e protege o ciclo de reforço positivo: é o responsável que confirma que a ação foi realizada na vida real.
+Dependendo dos ajustes de autonomia escolhidos pelo responsável, a Lusha pode pedir o **código dos pais** no momento da validação. Esse código evita que uma ação reservada ao adulto seja realizada pela criança. Em um modo mais autônomo, o responsável também pode autorizar a criança a validar algumas rotinas ou desafios sozinha.
+
+Depois da validação, uma <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/star.png" alt="" aria-hidden="true" />estrela amarela</span> aparece ao lado da rotina validada e a criança acessa as recompensas previstas no jogo. Para usuários no modo freemium, validar uma rotina pode consumir uma estrela disponível.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/routines-parent-code.png" alt="Janela Action reserved for parents pedindo o codigo dos pais antes de validar uma rotina." />
-  <figcaption>O código dos pais protege a validação das rotinas e reserva essa ação aos adultos.</figcaption>
+  <figcaption>O código dos pais pode proteger a validação quando a ação é reservada aos adultos.</figcaption>
 </figure>
-
-Se o código precisar ser alterado, por exemplo porque seu filho o encontrou, entre em contato conosco em [contact@lusha.care](mailto:contact@lusha.care).
 
 ## Desafios comportamentais
 
@@ -109,9 +109,37 @@ Os desafios comportamentais ajudam a criança a generalizar, ou seja, a colocar 
   <figcaption>Os desafios aparecem na agenda de rotinas com progresso acompanhado por cinco dias.</figcaption>
 </figure>
 
-Um desafio sempre é validado em uma série de **5 dias**. O responsável só pode validar uma vez por dia. Se um dia for perdido ou se o comportamento não tiver sido respeitado, a criança não recebe penalidade: ela simplesmente não progride no desafio naquele dia.
+Um desafio sempre é validado em uma série de **5 dias**. O responsável só pode validar uma vez por dia. Cada validação usa uma <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/star.png" alt="" aria-hidden="true" />estrela</span>, ou seja, 5 estrelas no total em 5 dias diferentes. Se um dia for perdido ou se o comportamento não tiver sido respeitado, a criança não recebe penalidade: ela simplesmente não progride no desafio naquele dia.
 
 Depois que o desafio é concluído, a criança desbloqueia as recompensas associadas. Para manter o objetivo claro e evitar muitas expectativas ao mesmo tempo, apenas um desafio comportamental pode estar ativo por vez.
+
+## Agenda da criança
+
+A criança pode consultar suas rotinas na agenda do jogo, especialmente a partir do acampamento, da cabana ou da Escola da Tara. Essa agenda permite ver o que está previsto para o dia e entender melhor a ligação entre suas ações reais e sua progressão na Lusha.
+
+Dependendo do grau de autonomia escolhido pelo responsável, a criança também pode ser autorizada a adicionar, modificar ou validar algumas rotinas e desafios. Essas possibilidades dependem dos ajustes de autonomia do aplicativo.
+
+A agenda pode ser ampliada ou reduzida para mostrar o dia com mais ou menos detalhes. Ela também pode incluir referências importantes, como horário de acordar, horário de dormir e horários da escola.
+
+A criança também pode associar a cada dia um adesivo que representa seu humor. Novos adesivos podem ser desbloqueados ao longo da progressão com Tara, conectando a agenda aos aprendizados emocionais do jogo.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/child-agenda.png" alt="Agenda da criança na Lusha, com as rotinas do dia, horários importantes e um adesivo de humor." />
+  <figcaption>A agenda da criança torna as rotinas visíveis no jogo e ajuda a criança a se orientar durante o dia.</figcaption>
+</figure>
+
+## Transições entre jogo e rotinas
+
+Quando uma rotina está prestes a começar, a Lusha mostra uma mensagem no jogo para avisar a criança. Se ela estiver explorando, névoas aparecem progressivamente para anunciar que a sessão está perto do fim.
+
+Quando a rotina começa, a criança volta para o acampamento. Enquanto a rotina está em andamento, ela não pode sair do acampamento para explorar, salvo se o responsável autorizar uma exceção com o código dos pais.
+
+Esse sistema de névoas ajuda a tornar a transição mais progressiva. A criança não é interrompida de forma brusca: o jogo avisa que está chegando o momento de passar para a rotina e, depois, limita a exploração quando a rotina começa.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/mist-message.png" alt="Mensagem na Lusha indicando que uma rotina está em andamento e que a exploração está temporariamente bloqueada." />
+  <figcaption>Quando uma rotina está em andamento, as névoas bloqueiam a exploração e levam a criança de volta ao acampamento, salvo exceção autorizada pelo responsável.</figcaption>
+</figure>
 
 ## Boas praticas
 

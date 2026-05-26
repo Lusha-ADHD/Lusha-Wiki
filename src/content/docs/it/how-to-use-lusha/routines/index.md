@@ -77,28 +77,28 @@ Quando tutto e pronto, premi **Create!** per aggiungere la routine all'agenda.
 
 Una routine e davvero utile solo quando viene validata dopo che il bambino l'ha completata nella vita reale. Questo passaggio e essenziale: chiude il ciclo di rinforzo positivo tra l'impegno del bambino, il riconoscimento del genitore e le ricompense nel gioco.
 
-Quando una routine passata appare con lo stato **To validate**, il genitore clicca sulla routine interessata.
+Quando una routine passata appare con lo stato **Da validare** e una <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/greyStar.png" alt="" aria-hidden="true" />stella grigia</span>, il genitore può validarla. Può cliccare sulla routine per aprirne il dettaglio, oppure premere direttamente la stella grigia se non ha bisogno di rileggere i passaggi.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/routines-to-validate.png" alt="Agenda di Lusha del giorno precedente con diverse routine indicate come To validate." />
-  <figcaption>Le routine completate che richiedono ancora conferma del genitore restano visibili con lo stato To validate.</figcaption>
+  <img src="/assets/how-to-use-lusha/routines-to-validate.png" alt="Agenda di Lusha del giorno precedente con diverse routine indicate come Da validare." />
+  <figcaption>Le routine completate che richiedono ancora conferma del genitore restano visibili con lo stato Da validare e una stella grigia.</figcaption>
 </figure>
 
-Nella schermata di dettaglio, il genitore puo rileggere l'attivita, verificare che la routine sia stata completata e premere **Validate**. Dopo la validazione, il bambino accede alle ricompense previste nel gioco per ogni routine riuscita nella vita reale.
+Nella schermata di dettaglio, il genitore può rileggere l'attività, verificare che la routine sia stata completata e premere **Validate**.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/routines-validate-detail.png" alt="Dettaglio della routine Set the table con il pulsante Validate e le prossime ricompense." />
   <figcaption>Il pulsante Validate conferma l'azione reale e sblocca le ricompense associate.</figcaption>
 </figure>
 
-Dopo aver premuto **Validate**, Lusha chiede il **codice genitore**. Questo codice viene definito al momento della creazione dell'account. Impedisce al bambino di validare da solo le proprie routine e protegge il ciclo di rinforzo positivo: e il genitore a confermare che l'azione e stata completata nella vita reale.
+In base alle impostazioni di autonomia scelte dal genitore, Lusha può chiedere il **codice genitore** al momento della validazione. Questo codice evita che un'azione riservata all'adulto venga eseguita dal bambino. In una modalità più autonoma, il genitore può anche autorizzare il bambino a validare da solo alcune routine o sfide.
+
+Dopo la validazione, una <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/star.png" alt="" aria-hidden="true" />stella gialla</span> appare accanto alla routine validata e il bambino accede alle ricompense previste nel gioco. Per gli utenti in modalità freemium, validare una routine può consumare una stella disponibile.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/routines-parent-code.png" alt="Finestra Action reserved for parents che richiede il codice genitore prima di validare una routine." />
-  <figcaption>Il codice genitore protegge la validazione delle routine e riserva questa azione agli adulti.</figcaption>
+  <figcaption>Il codice genitore può proteggere la validazione quando l'azione è riservata agli adulti.</figcaption>
 </figure>
-
-Se il codice deve essere cambiato, per esempio perche tuo figlio lo ha trovato, contattaci a [contact@lusha.care](mailto:contact@lusha.care).
 
 ## Sfide comportamentali
 
@@ -109,9 +109,37 @@ Le sfide comportamentali aiutano il bambino a generalizzare, cioè a mettere in 
   <figcaption>Le sfide appaiono nell'agenda delle routine con una progressione su cinque giorni.</figcaption>
 </figure>
 
-Una sfida viene sempre validata su una serie di **5 giorni**. Il genitore può validarla solo una volta al giorno. Se un giorno viene saltato o se il comportamento non è stato rispettato, il bambino non riceve penalità: semplicemente non avanza nella sfida quel giorno.
+Una sfida viene sempre validata su una serie di **5 giorni**. Il genitore può validarla solo una volta al giorno. Ogni validazione usa una <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/star.png" alt="" aria-hidden="true" />stella</span>, cioè 5 stelle in totale su 5 giorni diversi. Se un giorno viene saltato o se il comportamento non è stato rispettato, il bambino non riceve penalità: semplicemente non avanza nella sfida quel giorno.
 
 Una volta completata la sfida, il bambino sblocca le ricompense associate. Per mantenere l'obiettivo chiaro ed evitare troppe aspettative contemporaneamente, può essere attiva una sola sfida comportamentale alla volta.
+
+## Agenda lato bambino
+
+Il bambino può consultare le proprie routine nell'agenda lato gioco, in particolare dall'accampamento, dalla cabina o dalla Scuola di Tara. Questa agenda gli permette di vedere cosa è previsto durante la giornata e di capire meglio il legame tra le azioni reali e la progressione in Lusha.
+
+In base al livello di autonomia scelto dal genitore, il bambino può anche essere autorizzato ad aggiungere, modificare o validare alcune routine e alcune sfide. Queste possibilità dipendono dalle impostazioni di autonomia dell'app.
+
+L'agenda può essere ingrandita o ridotta per vedere la giornata con più o meno dettaglio. Può anche includere riferimenti importanti come l'orario del risveglio, l'ora di andare a dormire e gli orari scolastici.
+
+Il bambino può infine associare a ogni giorno un adesivo che rappresenta il suo umore. Nuovi adesivi possono essere sbloccati con la progressione insieme a Tara, collegando l'agenda agli apprendimenti emotivi del gioco.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/child-agenda.png" alt="Agenda lato bambino in Lusha, con le routine della giornata, gli orari importanti e un adesivo dell'umore." />
+  <figcaption>L'agenda lato bambino rende visibili le routine nel gioco e aiuta il bambino a orientarsi nella giornata.</figcaption>
+</figure>
+
+## Transizioni tra gioco e routine
+
+Quando una routine sta per iniziare, Lusha mostra un messaggio nel gioco per avvisare il bambino. Se il bambino sta esplorando, appaiono progressivamente delle nebbie per annunciare la fine imminente della sessione.
+
+Quando la routine inizia, il bambino viene riportato all'accampamento. Finché la routine è in corso, non può lasciare l'accampamento per esplorare, salvo eccezione autorizzata dal genitore con il codice genitore.
+
+Questo sistema di nebbie aiuta a rendere la transizione più progressiva. Il bambino non viene interrotto bruscamente: il gioco segnala che sta arrivando il momento di passare alla routine, poi limita l'esplorazione quando la routine è iniziata.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/mist-message.png" alt="Messaggio in Lusha che indica che una routine è in corso e che l'esplorazione è temporaneamente bloccata." />
+  <figcaption>Quando una routine è in corso, le nebbie bloccano l'esplorazione e riportano il bambino all'accampamento, salvo eccezione autorizzata dal genitore.</figcaption>
+</figure>
 
 ## Buone pratiche
 
