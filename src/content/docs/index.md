@@ -16,9 +16,17 @@ hero:
 
 ## About the game
 
-Lusha is a mobile family-support game for children. It is especially useful when daily routines, homework, chores, anger management, or self-regulation are difficult.
+Lusha is a mobile game created by Dygie to support children and their families across several parts of daily life: organization, routines, understanding ADHD, emotional regulation, social skills, and the parent-child relationship. The app combines an adventure world, psychoeducational content, and a parent space to turn concrete goals into experiences that are more visible, gradual, and motivating.
 
-Lusha was developed especially for children aged 6 to 12 with ADHD, but it can also help other children who face similar difficulties. The game connects a child's real-life actions to progress in the adventure, with quests, rewards, and a parent space to organize routines and follow progress.
+Lusha was developed especially for children aged 6 to 12 with ADHD, but it can also help other children who face similar difficulties. It is especially useful when daily routines, homework, chores, anger management, or self-regulation are difficult.
+
+The app has three main parts:
+
+- a parent-child routine system with routines, behavioral challenges, parent validation, and in-game rewards;
+- a child-facing path around psychoeducation, emotions, and social skills, especially through Tara's School;
+- a parent-facing space with guidance content, settings, a dashboard, and progress reports to follow the child's development.
+
+Lusha does not replace professional support. Its purpose is to help families put practical guidance into daily use, with a clearer framework for the child and observations that are easier to share.
 
 <p class="lusha-product-link-row">
   <a class="lusha-product-link" href="https://lusha.care/?lang=en_us">Discover Lusha on the official website</a>

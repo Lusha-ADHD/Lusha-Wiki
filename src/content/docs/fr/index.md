@@ -16,9 +16,17 @@ hero:
 
 ## À propos du jeu
 
-Lusha est un jeu mobile d'accompagnement familial pour les enfants. Il est particulièrement utile lorsque les routines, les devoirs, les tâches ménagères, la gestion de la colère ou l'autorégulation sont difficiles au quotidien.
+Lusha est un jeu mobile créé par Dygie pour accompagner les enfants et leurs familles dans plusieurs dimensions du quotidien : organisation, routines, compréhension du TDAH, gestion des émotions, habiletés sociales et relation parent-enfant. L'application associe un univers d'aventure, des contenus psychoéducatifs et un espace parent pour transformer des objectifs concrets en expériences plus visibles, progressives et motivantes.
 
-Lusha a été développé en particulier pour les enfants de 6 à 12 ans ayant un TDAH, mais il peut aussi aider d'autres enfants qui rencontrent des difficultés similaires. Le jeu relie les actions réelles de l'enfant à une progression dans l'aventure, avec des quêtes, des récompenses et un espace parent pour organiser les routines et suivre les progrès.
+Lusha a été développé en particulier pour les enfants de 6 à 12 ans ayant un TDAH, mais il peut aussi aider d'autres enfants qui rencontrent des difficultés similaires. Il est particulièrement utile lorsque les routines, les devoirs, les tâches ménagères, la gestion de la colère ou l'autorégulation sont difficiles au quotidien.
+
+L'application articule trois grands volets :
+
+- un volet parent-enfant autour des routines, des défis comportementaux, de la validation parentale et des récompenses dans le jeu ;
+- un volet enfant autour de la psychoéducation, des émotions et des habiletés sociales, notamment avec l'École de Tara ;
+- un volet parent avec des contenus de guidance, des réglages, un tableau de bord et des bilans pour suivre l'évolution de l'enfant.
+
+Lusha ne remplace pas un accompagnement professionnel. L'objectif est d'aider la famille à mettre en pratique des repères concrets au quotidien, avec un cadre plus lisible pour l'enfant et des observations plus faciles à partager.
 
 <p class="lusha-product-link-row">
   <a class="lusha-product-link" href="https://lusha.care/?lang=fr_fr">Découvrir Lusha sur le site officiel</a>

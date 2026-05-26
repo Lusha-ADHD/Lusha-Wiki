@@ -16,9 +16,17 @@ hero:
 
 ## Sobre o jogo
 
-A Lusha é um jogo mobile de apoio familiar para crianças. Ela é especialmente útil quando rotinas diárias, deveres, tarefas domésticas, controle da raiva ou autorregulação são difíceis.
+A Lusha é um jogo mobile criado pela Dygie para apoiar crianças e famílias em várias dimensões do dia a dia: organização, rotinas, compreensão do TDAH, regulação emocional, habilidades sociais e relação entre pais e filhos. O aplicativo combina um universo de aventura, conteúdos psicoeducativos e um espaço para pais para transformar objetivos concretos em experiências mais visíveis, progressivas e motivadoras.
 
-A Lusha foi desenvolvida em especial para crianças de 6 a 12 anos com TDAH, mas também pode ajudar outras crianças que enfrentam dificuldades semelhantes. O jogo conecta ações reais da criança ao progresso na aventura, com missões, recompensas e um espaço para pais organizarem rotinas e acompanharem o progresso.
+A Lusha foi desenvolvida em especial para crianças de 6 a 12 anos com TDAH, mas também pode ajudar outras crianças que enfrentam dificuldades semelhantes. Ela é especialmente útil quando rotinas diárias, deveres, tarefas domésticas, controle da raiva ou autorregulação são difíceis.
+
+O aplicativo se articula em três grandes partes:
+
+- um espaço entre pais e filhos em torno das rotinas, dos desafios comportamentais, da validação dos pais e das recompensas no jogo;
+- um espaço para a criança em torno da psicoeducação, das emoções e das habilidades sociais, especialmente com a Escola da Tara;
+- um espaço para pais com conteúdos de orientação, ajustes, painel de acompanhamento e balanços para seguir a evolução da criança.
+
+A Lusha não substitui um acompanhamento profissional. O objetivo é ajudar a família a colocar em prática referências concretas no dia a dia, com um quadro mais claro para a criança e observações mais fáceis de compartilhar.
 
 <p class="lusha-product-link-row">
   <a class="lusha-product-link" href="https://lusha.care/?lang=pt_br">Conhecer a Lusha no site oficial</a>

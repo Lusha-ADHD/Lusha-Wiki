@@ -16,9 +16,17 @@ hero:
 
 ## A proposito del gioco
 
-Lusha è un gioco mobile di supporto familiare per bambini. È particolarmente utile quando routine quotidiane, compiti, faccende domestiche, gestione della rabbia o autoregolazione sono difficili.
+Lusha è un gioco mobile creato da Dygie per accompagnare bambini e famiglie in diverse dimensioni della vita quotidiana: organizzazione, routine, comprensione dell'ADHD, regolazione emotiva, abilità sociali e relazione genitore-figlio. L'app combina un universo d'avventura, contenuti psicoeducativi e uno spazio genitore per trasformare obiettivi concreti in esperienze più visibili, progressive e motivanti.
 
-Lusha è stato sviluppato in particolare per bambini dai 6 ai 12 anni con ADHD, ma può aiutare anche altri bambini che incontrano difficoltà simili. Il gioco collega le azioni reali del bambino ai progressi nell'avventura, con missioni, ricompense e uno spazio genitore per organizzare le routine e seguire i progressi.
+Lusha è stato sviluppato in particolare per bambini dai 6 ai 12 anni con ADHD, ma può aiutare anche altri bambini che incontrano difficoltà simili. È particolarmente utile quando routine quotidiane, compiti, faccende domestiche, gestione della rabbia o autoregolazione sono difficili.
+
+L'app si articola in tre grandi parti:
+
+- uno spazio genitore-bambino dedicato a routine, sfide comportamentali, validazione da parte del genitore e ricompense nel gioco;
+- uno spazio per il bambino dedicato alla psicoeducazione, alle emozioni e alle abilità sociali, in particolare con la Scuola di Tara;
+- uno spazio genitore con contenuti di guidance, impostazioni, dashboard e bilanci per seguire l'evoluzione del bambino.
+
+Lusha non sostituisce un accompagnamento professionale. L'obiettivo è aiutare la famiglia a mettere in pratica riferimenti concreti nella vita quotidiana, con un quadro più chiaro per il bambino e osservazioni più facili da condividere.
 
 <p class="lusha-product-link-row">
   <a class="lusha-product-link" href="https://lusha.care/?lang=it_it">Scopri Lusha sul sito ufficiale</a>

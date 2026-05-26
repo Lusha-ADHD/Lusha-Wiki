@@ -16,9 +16,17 @@ hero:
 
 ## Über das Spiel
 
-Lusha ist ein mobiles Spiel zur Unterstützung von Familien mit Kindern. Es ist besonders hilfreich, wenn tägliche Routinen, Hausaufgaben, Aufgaben im Haushalt, Wutbewältigung oder Selbstregulation schwierig sind.
+Lusha ist ein von Dygie entwickeltes mobiles Spiel, das Kinder und ihre Familien in mehreren Bereichen des Alltags unterstützt: Organisation, Routinen, Verständnis von ADHS, Emotionsregulation, soziale Fähigkeiten und Eltern-Kind-Beziehung. Die App verbindet eine Abenteuerwelt, psychoedukative Inhalte und einen Elternbereich, um konkrete Ziele sichtbarer, schrittweiser und motivierender zu machen.
 
-Lusha wurde insbesondere für Kinder von 6 bis 12 Jahren mit ADHS entwickelt, kann aber auch anderen Kindern mit ähnlichen Schwierigkeiten helfen. Das Spiel verbindet reale Handlungen des Kindes mit Fortschritt im Abenteuer, mit Quests, Belohnungen und einem Elternbereich zur Organisation von Routinen und zur Fortschrittsverfolgung.
+Lusha wurde insbesondere für Kinder von 6 bis 12 Jahren mit ADHS entwickelt, kann aber auch anderen Kindern mit ähnlichen Schwierigkeiten helfen. Es ist besonders hilfreich, wenn tägliche Routinen, Hausaufgaben, Aufgaben im Haushalt, Wutbewältigung oder Selbstregulation schwierig sind.
+
+Die App umfasst drei große Bereiche:
+
+- einen Eltern-Kind-Bereich rund um Routinen, Verhaltensaufgaben, elterliche Bestätigung und Belohnungen im Spiel;
+- einen Kinderbereich rund um Psychoedukation, Emotionen und soziale Fähigkeiten, insbesondere mit Taras Schule;
+- einen Elternbereich mit Guidance-Inhalten, Einstellungen, einem Dashboard und Bilanzfunktionen, um die Entwicklung des Kindes zu verfolgen.
+
+Lusha ersetzt keine professionelle Begleitung. Ziel ist es, Familien dabei zu helfen, konkrete Orientierungspunkte im Alltag umzusetzen, mit einem klareren Rahmen für das Kind und Beobachtungen, die leichter geteilt werden können.
 
 <p class="lusha-product-link-row">
   <a class="lusha-product-link" href="https://lusha.care/?lang=de_de">Lusha auf der offiziellen Website entdecken</a>
