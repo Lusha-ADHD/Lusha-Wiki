@@ -3,11 +3,9 @@ title: FAQ
 description: Kurze Antworten auf häufige Fragen zu Lusha, zur Familiennutzung, zum Wiki und zu klinischen Informationen.
 ---
 
-Diese FAQ gibt schnelle Antworten. Wenn ein Thema mehr Kontext braucht, verweist sie auf die passende Seite.
-
 ### Was ist Lusha?
 
-Lusha ist ein mobiles Spiel von Dygie, das Familien dabei hilft, reale Routinen mit spielerischem Fortschritt zu verbinden. Es kann Themen wie Alltagsaufgaben, Selbstständigkeit, Emotionsregulation und Familienorganisation unterstützen.
+Lusha ist ein mobiles Spiel von Dygie, das Kindern mit ADHS und ihren Familien dabei helfen soll, reale Routinen mit spielerischem Fortschritt zu verbinden. Es kann Themen wie Alltagsaufgaben, Selbstständigkeit, Emotionsregulation und Familienorganisation unterstützen.
 
 ### Ersetzt Lusha medizinische Betreuung?
 
@@ -15,24 +13,46 @@ Nein. Lusha ist als unterstützendes Werkzeug und Spielerlebnis zu verstehen. Es
 
 ### Für wen ist Lusha gedacht?
 
-Lusha richtet sich vor allem an Kinder und ihre Familien. Das Wiki kann auch Fachpersonen oder Besucherinnen und Besuchern helfen, das Projekt zu verstehen.
+Lusha richtet sich vor allem an Kinder und ihre Familien. Das Wiki kann auch Fachpersonen oder Menschen, die das Projekt verstehen möchten, als Orientierung dienen.
 
-### Wie sollte man starten?
+### Welche Rolle hat der Elternteil?
 
-Beginnen Sie mit wenigen klaren Zielen. Eine oder zwei einfache Routinen reichen für den Anfang. Die Seite [Erste Schritte](/de/getting-started/) bietet einen ausführlicheren Einstieg.
+Der Elternteil oder eine andere vertraute erwachsene Person hilft dabei, realistische Routinen auszuwählen, begleitet das Kind, bestätigt im echten Leben erledigte Aufgaben, verfolgt Fortschritte und hält die Verbindung zwischen dem Familienalltag und dem Spiel aufrecht.
 
-### Welche Sprachen werden unterstützt?
+### Auf welchen Ansätzen basiert Lusha?
 
-Das Wiki unterstützt Englisch, Französisch, Deutsch, Italienisch, Spanisch und brasilianisches Portugiesisch.
+Lusha verbindet Psychoedukation, Werkzeuge aus der kognitiven Verhaltenstherapie, elterliche Kompetenzen und ein Belohnungssystem. Der Elternbereich greift insbesondere Prinzipien der Elternberatung auf, die vom Barkley-Programm inspiriert sind.
 
-### Warum bleiben manche Seiten allgemein?
+### Wie funktionieren die Belohnungen?
 
-Das Wiki vermeidet unbestätigte Angaben. Namen von Figuren, Details zu klinischen Studien, genaue Funktionen oder Verfügbarkeit können sich ändern und sollten vor der Veröffentlichung geprüft werden.
+Der Elternteil legt gemeinsam mit dem Kind Routinen oder eine Herausforderung fest. Wenn das Kind die Handlung im echten Leben erledigt, bestätigt der Elternteil sie in der App. Diese Bestätigung gibt Belohnungen, mit denen das Kind seine Erkundung im Spiel innerhalb einer begrenzten Spielzeit fortsetzen kann.
 
-### Wo stehen klinische Informationen?
+### Kann man mehrere Figuren oder Kinder auf demselben Konto haben?
 
-Themen zu klinischen Studien gehören in den Bereich [Klinische Studieninformationen](/de/clinical-trials/) und müssen klare Daten, Quellen und Hinweise enthalten.
+Nein, derzeit nicht. Ein Lusha-Konto erlaubt aktuell die Begleitung eines Kindes und einer Spielfigur.
 
-### Wo findet man Geschichte und Figuren?
+Um ein weiteres Kind hinzuzufügen, muss ein neues Konto erstellt werden. Wenn Sie bereits ein Jahresabo auf dem ersten Konto haben, kontaktieren Sie uns unter [contact@lusha.care](mailto:contact@lusha.care): Wir stellen Ihnen das Abo auf dem neuen Konto zur Verfügung.
 
-Der Bereich [Universum](/de/universe/) sammelt erzählerische Informationen: Welt, Figuren, Orte, Konzepte und Spielbegriffe.
+### Wie kann ich mein Abo kündigen?
+
+Der Ablauf hängt von der Art des Abos ab: ein in der App abgeschlossenes Abo oder ein über das Web abgeschlossenes Abo.
+
+Die Anweisungen zur Verwaltung und Kündigung sind in der App über die Abo-Informationen Ihres Kontos verfügbar.
+
+### Ist Lusha kostenlos?
+
+Ja, es gibt einen kostenlosen Modus. Er gibt Zugriff auf tägliche Sterne, mit denen die App genutzt, Routinen bestätigt und Inhalte freigeschaltet werden können, allerdings eingeschränkter als mit Lusha Plus. Dieser Modus kann helfen, die App zu testen, bevor Sie sich für eine kostenpflichtige Option entscheiden.
+
+Lusha-Plus-Abos können außerdem eine kostenlose siebentägige Testphase anbieten. Während dieser Zeit ist der Lusha-Plus-Modus aktiviert. Das kostenpflichtige Abo beginnt erst am Ende der Testphase, sofern es nicht vorher von der Nutzerin oder dem Nutzer gekündigt wird.
+
+### Wie ändere ich mein Passwort?
+
+Um den PIN-Code, auch Elterncode genannt, zu ändern, gehen Sie in die Kontoeinstellungen.
+
+Um das Kontopasswort zu ändern, fordern Sie eine Passwortzurücksetzung an. Melden Sie sich ab, wählen Sie **Ich habe bereits ein Konto**, dann **Ich habe mein Passwort vergessen**.
+
+Wenn Sie die E-Mail zur Zurücksetzung nicht erhalten, prüfen Sie Ihren Spam-Ordner. Wenn das Problem weiterhin besteht, kontaktieren Sie den Support.
+
+### Welche Sprachen sind verfügbar?
+
+Lusha ist auf Englisch, Französisch, Deutsch, Italienisch, Spanisch und brasilianischem Portugiesisch verfügbar. Die Stimmen der Figuren und des Spielers sind ebenfalls in diesen Sprachen verfügbar.
