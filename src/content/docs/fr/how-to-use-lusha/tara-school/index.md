@@ -20,7 +20,7 @@ La conception de ces contenus s'appuie sur des approches psychoéducatives et co
 
 ## Entrer dans l'école
 
-Dans l'espace jeu, l'enfant remonte vers le haut de la scène principale. À gauche de la cabane, il se place sur la zone verte pour entrer dans l'École de Tara.
+Dans l'espace jeu, l'enfant remonte vers le fond de la scène principale (le campement). À gauche de la cabane, il se place sur la zone verte pour entrer dans l'École de Tara.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/game-main-scene.png" alt="Scène principale de Lusha avec la cabane et la zone verte permettant d'accéder à l'École de Tara." />
@@ -44,7 +44,7 @@ Une fois dans l'École de Tara, l'enfant va jusqu'au panneau accroché à l'arbr
 L'écran suivant rassemble les trois formats d'apprentissage : les leçons, qui expliquent les notions ; les histoires, qui les mettent en scène ; et les quiz, qui aident l'enfant à vérifier ce qu'il a compris. L'onglet de récompenses montre aussi les bonus spéciaux qu'il peut débloquer en progressant avec Tara.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/rewards-panel.png" alt="Espace de récompenses de Tara avec les catégories Lessons, Stories, Quizzes et un nouveau rang atteint." />
+  <img src="/assets/how-to-use-lusha/tara-school/school-panel.png" alt="Espace de récompenses de Tara avec les catégories Lessons, Stories, Quizzes et un nouveau rang atteint." />
   <figcaption>Le menu de l'école sépare les leçons, les histoires, les quiz et les récompenses.</figcaption>
 </figure>
 
@@ -66,18 +66,31 @@ Tara lui propose alors d'échanger autour du contenu sélectionné : leçon, his
   <figcaption>Les échanges avec Tara utilisent des scènes illustrées pour rendre les concepts plus concrets.</figcaption>
 </figure>
 
-## Discuter avec Pana
+## Les récompenses de Tara
+
+La progression dans les contenus de Tara permet de gagner des <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/SchoolPoint.png" alt="" aria-hidden="true" /><strong>pattes d'ours</strong></span>. Ces pattes d'ours sont visibles dans l'espace de récompenses accessible depuis le panneau de l'école.
+
+Elles ont deux effets principaux. D'abord, elles peuvent débloquer de <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/energy.png" alt="" aria-hidden="true" />l'énergie</span>, ce qui permet à l'enfant de prolonger son exploration dans la jungle. Ensuite, elles font progresser le joueur par paliers, comme des diplômes obtenus dans l'École de Tara.
+
+À chaque nouveau palier atteint, l'enfant peut recevoir un **panier de Tara**. Ce panier contient des objets utiles pour l'aventure, par exemple des pierres précieuses, des colorants, de la nourriture ou d'autres ressources de jeu. Les récompenses gardent ainsi un lien direct entre les apprentissages psychoéducatifs et la progression dans l'univers de Lusha.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/tara-rewards.png" alt="Écran de récompenses de Tara montrant les pattes d'ours, les paliers de progression et les récompenses disponibles." />
+  <figcaption>Les pattes d'ours débloquent de l'énergie et des paniers de Tara au fil de la progression.</figcaption>
+</figure>
+
+## Les quêtes de Pana
 
 Pana est un animal qui étudie à l'École de Tara en même temps que votre enfant. Elle rencontre des difficultés dans la gestion de ses émotions, dans ses relations aux autres ou, plus largement, dans certains comportements du quotidien.
 
-Quand Pana a une nouvelle quête débloquée ou un nouveau contenu disponible, une bulle de dialogue avec trois petits points apparaît au-dessus d'elle. C'est le signal que l'enfant peut aller lui parler et lancer la suite de l'histoire.
+Votre enfant doit aider Pana à résoudre ses problèmes sous forme de quêtes. Certaines quêtes peuvent durer plusieurs jours : elles demandent de rechercher des personnages, de trouver des objets et de résoudre des problèmes sociaux. Les quêtes de Pana sont corrélées aux leçons que l'enfant apprend avec Tara, afin qu'il réutilise ses connaissances dans une situation concrète.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/pana-ready.png" alt="Pana dans l'École de Tara avec une bulle de dialogue indiquant qu'une quête est disponible." />
   <figcaption>La bulle avec trois petits points indique qu'une nouvelle interaction avec Pana est disponible.</figcaption>
 </figure>
 
-Votre enfant doit aider Pana à résoudre ses problèmes sous forme de quêtes. Certaines quêtes peuvent durer plusieurs jours : elles demandent de rechercher des personnages, de trouver des objets et de résoudre des problèmes sociaux. Les quêtes de Pana sont corrélées aux leçons que l'enfant apprend avec Tara, afin qu'il réutilise ses connaissances dans une situation concrète.
+Quand Pana a une nouvelle quête débloquée ou un nouveau contenu disponible, une bulle de dialogue avec trois petits points apparaît au-dessus d'elle. C'est le signal que l'enfant peut aller lui parler et démarrer une nouvelle quête ou continuer celle en cours.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/pana-talk.png" alt="Dialogue avec Pana qui demande de l'aide pour comprendre une situation sociale." />

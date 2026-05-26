@@ -44,7 +44,7 @@ Once inside Tara's School, the child walks to the sign hanging on the tree. This
 The next screen gathers the three learning formats: lessons, which explain ideas; stories, which place them in a narrative situation; and quizzes, which help the child check what they understood. The rewards tab also shows the special bonuses the child can unlock by progressing with Tara.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/rewards-panel.png" alt="Tara rewards area with Lessons, Stories, Quizzes, and a new rank reached." />
+  <img src="/assets/how-to-use-lusha/tara-school/school-panel.png" alt="Tara rewards area with Lessons, Stories, Quizzes, and a new rank reached." />
   <figcaption>The school menu separates lessons, stories, quizzes, and rewards.</figcaption>
 </figure>
 
@@ -64,6 +64,19 @@ Tara then lets the child interact with the selected content: lesson, story, or q
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/tara-talk.png" alt="Illustrated dialogue with Tara about anger in Tara's School." />
   <figcaption>Conversations with Tara use illustrated scenes to make ideas more concrete.</figcaption>
+</figure>
+
+## Tara's Rewards
+
+Progress through Tara's content lets the child earn <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/SchoolPoint.png" alt="" aria-hidden="true" /><strong>bear paws</strong></span>. These bear paws are visible in the rewards area available from the school panel.
+
+They have two main effects. First, they can unlock <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/energy.png" alt="" aria-hidden="true" />energy</span>, which lets the child explore the jungle for longer. Second, they move the player through milestones, like diplomas earned in Tara's School.
+
+Each time a new milestone is reached, the child can receive a **Tara basket**. This basket contains useful adventure items, such as gemstones, dyes, food, or other game resources. Rewards therefore keep a direct link between psychoeducational learning and progress in the world of Lusha.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/tara-rewards.png" alt="Tara rewards screen showing bear paws, progress milestones, and available rewards." />
+  <figcaption>Bear paws unlock energy and Tara baskets as the child progresses.</figcaption>
 </figure>
 
 ## Talk with Pana

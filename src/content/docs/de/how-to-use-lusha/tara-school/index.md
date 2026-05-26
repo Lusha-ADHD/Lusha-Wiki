@@ -44,7 +44,7 @@ Wenn das Kind in Taras Schule ist, geht es zum Schild am Baum. Dieses Schild ist
 Der nächste Bildschirm bündelt die drei Lernformate: Lektionen erklären die Ideen, Geschichten stellen sie in Situationen dar, und Quiz helfen dem Kind zu überprüfen, was es verstanden hat. Ein Belohnungsbereich zeigt außerdem die besonderen Boni, die es durch Fortschritt mit Tara freischalten kann.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/rewards-panel.png" alt="Belohnungsbereich von Tara mit Lessons, Stories, Quizzes und neu erreichtem Rang." />
+  <img src="/assets/how-to-use-lusha/tara-school/school-panel.png" alt="Belohnungsbereich von Tara mit Lessons, Stories, Quizzes und neu erreichtem Rang." />
   <figcaption>Das Schulmenü trennt Lektionen, Geschichten, Quiz und Belohnungen.</figcaption>
 </figure>
 
@@ -64,6 +64,19 @@ Tara ermöglicht dann den Austausch mit dem ausgewählten Inhalt: Lektion, Gesch
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/tara-talk.png" alt="Illustrierter Dialog mit Tara über Wut in Taras Schule." />
   <figcaption>Die Gespräche mit Tara nutzen illustrierte Szenen, um Konzepte greifbarer zu machen.</figcaption>
+</figure>
+
+## Taras Belohnungen
+
+Der Fortschritt in Taras Inhalten ermöglicht es dem Kind, <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/SchoolPoint.png" alt="" aria-hidden="true" /><strong>Bärentatzen</strong></span> zu gewinnen. Diese Bärentatzen sind im Belohnungsbereich sichtbar, der über das Schulpanel erreichbar ist.
+
+Sie haben zwei Hauptwirkungen. Erstens können sie <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/energy.png" alt="" aria-hidden="true" />Energie</span> freischalten, sodass das Kind den Dschungel länger erkunden kann. Zweitens bringen sie die spielende Person über Stufen voran, ähnlich wie Diplome in Taras Schule.
+
+Bei jeder neu erreichten Stufe kann das Kind einen **Tara-Korb** erhalten. Dieser Korb enthält nützliche Gegenstände für das Abenteuer, zum Beispiel Edelsteine, Farbstoffe, Nahrung oder andere Spielressourcen. Die Belohnungen verbinden so die psychoedukativen Lerninhalte direkt mit dem Fortschritt in der Welt von Lusha.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/tara-rewards.png" alt="Belohnungsbildschirm von Tara mit Bärentatzen, Fortschrittsstufen und verfügbaren Belohnungen." />
+  <figcaption>Bärentatzen schalten im Verlauf der Fortschritte Energie und Tara-Körbe frei.</figcaption>
 </figure>
 
 ## Mit Pana sprechen

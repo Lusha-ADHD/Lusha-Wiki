@@ -44,7 +44,7 @@ Una vez dentro de la Escuela de Tara, el niño va hasta el cartel colgado del á
 La pantalla siguiente reúne los tres formatos de aprendizaje: lecciones que explican ideas, historias que las ponen en escena y cuestionarios que ayudan a comprobar lo entendido. Un espacio de recompensas también muestra los bonus especiales que puede desbloquear al avanzar con Tara.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/rewards-panel.png" alt="Espacio de recompensas de Tara con Lessons, Stories, Quizzes y un nuevo rango alcanzado." />
+  <img src="/assets/how-to-use-lusha/tara-school/school-panel.png" alt="Espacio de recompensas de Tara con Lessons, Stories, Quizzes y un nuevo rango alcanzado." />
   <figcaption>El menú de la escuela separa lecciones, historias, cuestionarios y recompensas.</figcaption>
 </figure>
 
@@ -64,6 +64,19 @@ Tara le permite interactuar con el contenido seleccionado: lección, historia o 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/tara-talk.png" alt="Diálogo ilustrado con Tara sobre la ira en la Escuela de Tara." />
   <figcaption>Los intercambios con Tara usan escenas ilustradas para hacer los conceptos más concretos.</figcaption>
+</figure>
+
+## Las recompensas de Tara
+
+La progresión en los contenidos de Tara permite ganar <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/SchoolPoint.png" alt="" aria-hidden="true" /><strong>huellas de oso</strong></span>. Estas huellas de oso aparecen en el espacio de recompensas accesible desde el panel de la escuela.
+
+Tienen dos efectos principales. Primero, pueden desbloquear <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/energy.png" alt="" aria-hidden="true" />energía</span>, lo que permite al niño prolongar su exploración de la jungla. Después, hacen avanzar al jugador por niveles, como diplomas obtenidos en la Escuela de Tara.
+
+Cada vez que se alcanza un nuevo nivel, el niño puede recibir una **cesta de Tara**. Esta cesta contiene objetos útiles para la aventura, por ejemplo piedras preciosas, tintes, comida u otros recursos del juego. Las recompensas mantienen así un vínculo directo entre los aprendizajes psicoeducativos y la progresión en el universo de Lusha.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/tara-rewards.png" alt="Pantalla de recompensas de Tara con huellas de oso, niveles de progreso y recompensas disponibles." />
+  <figcaption>Las huellas de oso desbloquean energía y cestas de Tara a medida que se progresa.</figcaption>
 </figure>
 
 ## Hablar con Pana

@@ -44,7 +44,7 @@ Una volta dentro la Scuola di Tara, il bambino va verso il cartello appeso all'a
 La schermata successiva riunisce i tre formati di apprendimento: lezioni che spiegano le idee, storie che le mettono in scena e quiz che aiutano a verificare ciò che è stato capito. Uno spazio ricompense mostra anche i bonus speciali che può sbloccare progredendo con Tara.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/rewards-panel.png" alt="Spazio ricompense di Tara con Lessons, Stories, Quizzes e un nuovo rango raggiunto." />
+  <img src="/assets/how-to-use-lusha/tara-school/school-panel.png" alt="Spazio ricompense di Tara con Lessons, Stories, Quizzes e un nuovo rango raggiunto." />
   <figcaption>Il menu della scuola separa lezioni, storie, quiz e ricompense.</figcaption>
 </figure>
 
@@ -64,6 +64,19 @@ Tara gli permette di interagire con il contenuto selezionato: lezione, storia o 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/tara-talk.png" alt="Dialogo illustrato con Tara sulla rabbia nella Scuola di Tara." />
   <figcaption>Gli scambi con Tara usano scene illustrate per rendere i concetti più concreti.</figcaption>
+</figure>
+
+## Le ricompense di Tara
+
+La progressione nei contenuti di Tara permette di ottenere <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/SchoolPoint.png" alt="" aria-hidden="true" /><strong>zampe d'orso</strong></span>. Queste zampe d'orso sono visibili nello spazio delle ricompense accessibile dal pannello della scuola.
+
+Hanno due effetti principali. Prima di tutto, possono sbloccare <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/energy.png" alt="" aria-hidden="true" />energia</span>, permettendo al bambino di prolungare l'esplorazione della giungla. Inoltre, fanno avanzare il giocatore per livelli, come diplomi ottenuti nella Scuola di Tara.
+
+A ogni nuovo livello raggiunto, il bambino può ricevere un **cesto di Tara**. Questo cesto contiene oggetti utili per l'avventura, per esempio pietre preziose, coloranti, cibo o altre risorse di gioco. Le ricompense mantengono così un legame diretto tra gli apprendimenti psicoeducativi e la progressione nell'universo di Lusha.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/tara-rewards.png" alt="Schermata delle ricompense di Tara con zampe d'orso, livelli di progressione e ricompense disponibili." />
+  <figcaption>Le zampe d'orso sbloccano energia e cesti di Tara man mano che si progredisce.</figcaption>
 </figure>
 
 ## Parlare con Pana

@@ -44,7 +44,7 @@ Depois de entrar na Escola da Tara, a criança vai até a placa pendurada na ár
 A tela seguinte reúne os três formatos de aprendizagem: lições que explicam ideias, histórias que colocam essas ideias em situações narrativas e quizzes que ajudam a verificar o que foi entendido. Um espaço de recompensas também mostra bônus especiais que ela pode desbloquear ao progredir com Tara.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/rewards-panel.png" alt="Espaço de recompensas da Tara com Lessons, Stories, Quizzes e novo nível alcançado." />
+  <img src="/assets/how-to-use-lusha/tara-school/school-panel.png" alt="Espaço de recompensas da Tara com Lessons, Stories, Quizzes e novo nível alcançado." />
   <figcaption>O menu da escola separa lições, histórias, quizzes e recompensas.</figcaption>
 </figure>
 
@@ -64,6 +64,19 @@ Tara permite trocar sobre o conteúdo selecionado: lição, história ou quiz. O
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/tara-talk.png" alt="Diálogo ilustrado com Tara sobre raiva na Escola da Tara." />
   <figcaption>As conversas com Tara usam cenas ilustradas para tornar os conceitos mais concretos.</figcaption>
+</figure>
+
+## As recompensas de Tara
+
+A progressão nos conteúdos de Tara permite ganhar <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/SchoolPoint.png" alt="" aria-hidden="true" /><strong>patas de urso</strong></span>. Essas patas de urso aparecem no espaço de recompensas acessível pelo painel da escola.
+
+Elas têm dois efeitos principais. Primeiro, podem desbloquear <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/energy.png" alt="" aria-hidden="true" />energia</span>, o que permite à criança prolongar sua exploração da selva. Depois, fazem o jogador avançar por etapas, como diplomas obtidos na Escola da Tara.
+
+A cada nova etapa alcançada, a criança pode receber uma **cesta da Tara**. Essa cesta contém objetos úteis para a aventura, por exemplo pedras preciosas, corantes, comida ou outros recursos do jogo. As recompensas mantêm, assim, uma ligação direta entre os aprendizados psicoeducativos e a progressão no universo de Lusha.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/tara-school/tara-rewards.png" alt="Tela de recompensas da Tara mostrando patas de urso, etapas de progressão e recompensas disponíveis." />
+  <figcaption>As patas de urso desbloqueiam energia e cestas da Tara ao longo da progressão.</figcaption>
 </figure>
 
 ## Conversar com Pana
