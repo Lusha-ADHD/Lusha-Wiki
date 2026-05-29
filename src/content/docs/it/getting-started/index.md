@@ -82,5 +82,6 @@ Quando ti sembra utile, puoi condividere il bilancio generato nello Spazio genit
 - [Creare routine in Lusha](/it/how-to-use-lusha/routines/) per configurare l'agenda, le validazioni e le sfide comportamentali.
 - [Scuola di Tara](/it/how-to-use-lusha/tara-school/) per comprendere i contenuti psicoeducativi, le storie, i quiz e le missioni.
 - [Guidance genitoriale](/it/how-to-use-lusha/parental-guidance/) per scoprire i contenuti destinati ai genitori.
+- [Il mondo di Lusha](/it/universe/) per comprendere il mondo del gioco, i personaggi, l'esplorazione e la progressione.
 - [FAQ](/it/faq/) per le domande frequenti.
 - [Informazioni sugli studi clinici](/it/clinical-trials/) per il quadro informativo e le precauzioni.

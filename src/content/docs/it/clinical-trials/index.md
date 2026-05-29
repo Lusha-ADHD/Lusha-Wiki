@@ -1,24 +1,27 @@
 ---
 title: Informazioni sullo studio clinico Lusha
-description: Spiegazione per famiglie dello studio di fattibilità LUSHA NCT07204873 e dell'app specifica da utilizzare.
+description: Presentazione dell'approccio clinico di Lusha, dello studio di fattibilità LUSHA NCT07204873 e dell'app dedicata allo studio clinico.
 ---
 
-Questa pagina riassume in linguaggio semplice le informazioni pubbliche disponibili sullo studio LUSHA registrato su ClinicalTrials.gov. Le informazioni sanitarie possono essere sensibili e cambiare nel tempo.
+Lo studio clinico Lusha si inserisce in un approccio clinico volto a documentare l'efficacia dell'approccio di Lusha per bambini con ADHD e le loro famiglie. Questo lavoro è condotto in collaborazione con il comitato scientifico di Lusha, AP-HP, l'Ospedale Universitario di Montpellier e l'Ospedale Universitario di Grenoble.
+
+Questa pagina presenta le informazioni pubbliche disponibili sullo studio LUSHA registrato su ClinicalTrials.gov. Non è una pagina di iscrizione allo studio e non sostituisce le informazioni comunicate dai team di ricerca.
 
 > Questo wiki ha solo scopo informativo e non sostituisce il parere di un professionista sanitario qualificato o di un coordinatore ufficiale dello studio.
 
-## Fonte ufficiale
+## Fonte ufficiale e stato
 
 La scheda pubblica di riferimento è: [NCT07204873 - Evaluation of the LUSHA Digital Application for Children With ADHD - Feasibility Study](https://clinicaltrials.gov/study/NCT07204873?term=lusha&viewType=Card&rank=1).
 
-Il riepilogo seguente è adattato dal PDF di ClinicalTrials.gov, consultato il 2 maggio 2026. Nel PDF, la scheda indica un ultimo aggiornamento pubblicato il 2 ottobre 2025 e un'ultima verifica nel settembre 2025.
+Lo studio è indicato come **Not yet recruiting** e dovrebbe iniziare a metà 2026.
 
 ## A cosa serve questo studio?
 
 Lo studio cerca di capire come bambini con ADHD e i loro genitori usano l'applicazione LUSHA per 3 mesi. L'obiettivo principale è valutare aderenza e utilizzo dell'applicazione su 90 giorni.
 
-Gli obiettivi secondari osservano anche dimensioni importanti per le famiglie:
+Gli obiettivi secondari includono:
 
+- l'uso dell'applicazione a 1, 2 e 3 mesi;
 - qualità della vita e impatto familiare;
 - comportamenti osservati dai genitori;
 - qualità della vita percepita dal bambino;
@@ -38,7 +41,7 @@ Per 3 mesi, il bambino e i genitori usano l'applicazione e rispondono a question
 
 ## Dove si svolge?
 
-Il PDF di ClinicalTrials.gov indica due centri in Francia:
+La scheda ClinicalTrials.gov indica due centri in Francia:
 
 - University Hospital, Grenoble;
 - University Hospital, Montpellier.
@@ -47,9 +50,9 @@ Lo sponsor indicato è University Hospital, Grenoble, con DYGIE come collaborato
 
 ## Quale app devono usare le famiglie?
 
-Per lo studio clinico, le famiglie devono usare una versione specifica dell'applicazione: **Lusha Essai clinique**. Non bisogna usare la versione classica di Lusha, perché non è configurata per il protocollo di ricerca, il follow-up dello studio e il percorso previsto per i partecipanti.
+Per lo studio clinico, le famiglie devono usare una versione specifica dell'applicazione: **Lusha Essai clinique**. La versione classica di Lusha non è configurata per il protocollo di ricerca, il follow-up dello studio e il percorso previsto per i partecipanti.
 
-Le famiglie che pensano di essere interessate dallo studio o desiderano sapere come partecipare devono contattare il team del servizio della Pr Stéphanie Bioulac-Rogier a Grenoble o il team del servizio della Pr Diane Purper-Ouakil a Montpellier. Questi team potranno confermare modalità di partecipazione, idoneità e passaggi successivi.
+I contatti ufficiali e i centri partecipanti sono indicati nella sezione **Contacts and Locations** della scheda ClinicalTrials.gov. Per qualsiasi domanda su partecipazione, idoneità o passaggi successivi, le famiglie devono fare riferimento a questi contatti o ai professionisti sanitari che seguono il bambino.
 
 ## Cosa non significa questo studio
 

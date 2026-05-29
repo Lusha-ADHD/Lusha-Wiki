@@ -1,24 +1,27 @@
 ---
 title: Información sobre el ensayo clínico Lusha
-description: Explicación para familias del estudio de viabilidad LUSHA NCT07204873 y de la aplicación específica que debe usarse.
+description: Presentación del enfoque clínico de Lusha, del estudio de viabilidad LUSHA NCT07204873 y de la aplicación dedicada al ensayo clínico.
 ---
 
-Esta página resume en lenguaje sencillo la información pública disponible sobre el estudio LUSHA registrado en ClinicalTrials.gov. La información de salud puede ser sensible y cambiar con el tiempo.
+El ensayo clínico Lusha forma parte de un enfoque clínico destinado a documentar la eficacia del enfoque de Lusha para niños con TDAH y sus familias. Este trabajo se realiza en colaboración con el comité científico de Lusha, AP-HP, el Hospital Universitario de Montpellier y el Hospital Universitario de Grenoble.
 
-> Este wiki es solo informativo y no sustituye el consejo de un profesional sanitario cualificado ni de un coordinador oficial del ensayo.
+Esta página presenta la información pública disponible sobre el estudio LUSHA registrado en ClinicalTrials.gov. No es una página de inscripción al estudio y no sustituye la información comunicada por los equipos de investigación.
 
-## Fuente oficial
+> Este wiki es solo informativo y no sustituye el consejo de un profesional sanitario cualificado ni de un coordinador oficial del estudio.
+
+## Fuente oficial y estado
 
 La ficha pública de referencia es: [NCT07204873 - Evaluation of the LUSHA Digital Application for Children With ADHD - Feasibility Study](https://clinicaltrials.gov/study/NCT07204873?term=lusha&viewType=Card&rank=1).
 
-El resumen siguiente se adapta del PDF de ClinicalTrials.gov, consultado el 2 de mayo de 2026. En ese PDF, la ficha indica una última actualización publicada el 2 de octubre de 2025 y una última verificación en septiembre de 2025.
+El estudio figura como **Not yet recruiting** y debería comenzar a mediados de 2026.
 
 ## ¿Para qué sirve este estudio?
 
 El estudio busca comprender cómo niños con TDAH y sus padres usan la aplicación LUSHA durante 3 meses. El objetivo principal es evaluar la adherencia y el uso de la aplicación durante 90 días.
 
-Los objetivos secundarios también observan dimensiones importantes para las familias:
+Los objetivos secundarios incluyen:
 
+- el uso de la aplicación a 1, 2 y 3 meses;
 - calidad de vida e impacto familiar;
 - comportamientos observados por los padres;
 - calidad de vida percibida por el niño;
@@ -38,7 +41,7 @@ Durante 3 meses, el niño y sus padres usan la aplicación y responden cuestiona
 
 ## ¿Dónde se realiza?
 
-El PDF de ClinicalTrials.gov indica dos centros en Francia:
+La ficha de ClinicalTrials.gov indica dos centros en Francia:
 
 - University Hospital, Grenoble;
 - University Hospital, Montpellier.
@@ -47,9 +50,9 @@ El promotor indicado es University Hospital, Grenoble, con DYGIE como colaborado
 
 ## ¿Qué aplicación deben usar las familias?
 
-Para el ensayo clínico, las familias deben usar una versión específica de la aplicación: **Lusha Essai clinique**. No se debe usar la versión clásica de Lusha, porque no está configurada para el protocolo de investigación, el seguimiento del estudio y el proceso previsto para los participantes.
+Para el ensayo clínico, las familias deben usar una versión específica de la aplicación: **Lusha Essai clinique**. La versión clásica de Lusha no está configurada para el protocolo de investigación, el seguimiento del estudio y el recorrido previsto para los participantes.
 
-Las familias que crean estar concernidas por el estudio o quieran saber cómo unirse al ensayo clínico deben contactar con el equipo del servicio de la Pr Stéphanie Bioulac-Rogier en Grenoble o con el equipo del servicio de la Pr Diane Purper-Ouakil en Montpellier. Estos equipos podrán confirmar las condiciones de participación, la elegibilidad y los pasos siguientes.
+Los contactos oficiales y los centros participantes están indicados en la sección **Contacts and Locations** de la ficha ClinicalTrials.gov. Para cualquier pregunta sobre participación, elegibilidad o próximos pasos, las familias deben remitirse a esos contactos o a los profesionales sanitarios que siguen al niño.
 
 ## Lo que este estudio no significa
 

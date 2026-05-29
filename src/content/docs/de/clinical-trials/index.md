@@ -1,24 +1,27 @@
 ---
 title: Informationen zur klinischen Studie Lusha
-description: Elternfreundliche Erklärung der Machbarkeitsstudie LUSHA NCT07204873 und der zu verwendenden Studien-App.
+description: Vorstellung des klinischen Ansatzes von Lusha, der Machbarkeitsstudie LUSHA NCT07204873 und der speziellen App für die klinische Studie.
 ---
 
-Diese Seite fasst öffentlich verfügbare Informationen zur LUSHA-Studie auf ClinicalTrials.gov in einfacher Sprache zusammen. Gesundheitsbezogene Informationen können sensibel sein und sich ändern.
+Die klinische Studie Lusha ist Teil eines klinischen Ansatzes, der die Wirksamkeit des Lusha-Ansatzes für Kinder mit ADHS und ihre Familien dokumentieren soll. Diese Arbeit erfolgt in Zusammenarbeit mit dem wissenschaftlichen Komitee von Lusha, AP-HP, dem Universitätsklinikum Montpellier und dem Universitätsklinikum Grenoble.
+
+Diese Seite stellt die öffentlich verfügbaren Informationen zur LUSHA-Studie auf ClinicalTrials.gov vor. Sie ist keine Seite zur Anmeldung für die Studie und ersetzt nicht die Informationen der Forschungsteams.
 
 > Dieses Wiki dient nur der Information und ersetzt keine Beratung durch qualifiziertes medizinisches Fachpersonal oder offizielle Studienkoordinatoren.
 
-## Offizielle Quelle
+## Offizielle Quelle und Status
 
 Der öffentliche Referenzeintrag ist: [NCT07204873 - Evaluation of the LUSHA Digital Application for Children With ADHD - Feasibility Study](https://clinicaltrials.gov/study/NCT07204873?term=lusha&viewType=Card&rank=1).
 
-Die Zusammenfassung unten basiert auf dem bereitgestellten ClinicalTrials.gov-PDF, geprüft am 2. Mai 2026. In diesem PDF wird als letztes veröffentlichtes Update der 2. Oktober 2025 und als letzte Verifizierung September 2025 genannt.
+Die Studie ist als **Not yet recruiting** aufgeführt und soll voraussichtlich Mitte 2026 beginnen.
 
 ## Wozu dient diese Studie?
 
 Die Studie untersucht, wie Kinder mit ADHS und ihre Eltern die LUSHA-App über 3 Monate nutzen. Das Hauptziel ist, Nutzung und Adhärenz über 90 Tage zu bewerten.
 
-Sekundäre Ziele betrachten auch familienrelevante Bereiche:
+Zu den sekundären Zielen gehören:
 
+- die Nutzung der App nach 1, 2 und 3 Monaten;
 - Lebensqualität und familiäre Auswirkungen;
 - von Eltern berichtete Verhaltensweisen;
 - vom Kind berichtete Lebensqualität;
@@ -38,7 +41,7 @@ Es handelt sich um eine interventionelle Machbarkeitsstudie ohne Medikament, Pla
 
 ## Wo findet die Studie statt?
 
-Das ClinicalTrials.gov-PDF nennt zwei Standorte in Frankreich:
+Der ClinicalTrials.gov-Eintrag nennt zwei Standorte in Frankreich:
 
 - University Hospital, Grenoble;
 - University Hospital, Montpellier.
@@ -47,9 +50,9 @@ Sponsor ist University Hospital, Grenoble, mit DYGIE als Kollaborator. Die gepla
 
 ## Welche App soll verwendet werden?
 
-Für die klinische Studie müssen Familien eine spezielle Version der App verwenden: **Lusha Essai clinique**. Die klassische Lusha-App sollte nicht verwendet werden, da sie nicht für das Forschungsprotokoll, die Studiennachverfolgung und den vorgesehenen Ablauf für Teilnehmende konfiguriert ist.
+Für die klinische Studie müssen Familien eine spezielle Version der App verwenden: **Lusha Essai clinique**. Die klassische Lusha-App ist nicht für das Forschungsprotokoll, die Studiennachverfolgung und den vorgesehenen Ablauf für Teilnehmende konfiguriert.
 
-Familien, die glauben, dass die Studie für sie infrage kommt, oder wissen möchten, wie sie teilnehmen können, sollten sich an das Team des Dienstes von Prof. Stéphanie Bioulac-Rogier in Grenoble oder an das Team des Dienstes von Prof. Diane Purper-Ouakil in Montpellier wenden. Diese Teams können die Teilnahmebedingungen, die Eignung und die nächsten Schritte bestätigen.
+Offizielle Kontakte und teilnehmende Zentren sind im Abschnitt **Contacts and Locations** des ClinicalTrials.gov-Eintrags aufgeführt. Bei Fragen zu Teilnahme, Eignung oder nächsten Schritten sollten Familien diese Kontakte oder die medizinischen Fachpersonen nutzen, die das Kind begleiten.
 
 ## Was diese Studie nicht bedeutet
 

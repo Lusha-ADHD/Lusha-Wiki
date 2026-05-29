@@ -1,24 +1,27 @@
 ---
 title: Informações sobre o estudo clínico Lusha
-description: Explicação para famílias sobre o estudo de viabilidade LUSHA NCT07204873 e o aplicativo específico a ser usado.
+description: Apresentação da abordagem clínica da Lusha, do estudo de viabilidade LUSHA NCT07204873 e do aplicativo dedicado ao estudo clínico.
 ---
 
-Esta página resume em linguagem simples as informações públicas disponíveis sobre o estudo LUSHA registrado no ClinicalTrials.gov. Informações de saúde podem ser sensíveis e mudar ao longo do tempo.
+O estudo clínico Lusha faz parte de uma abordagem clínica voltada a documentar a eficácia da abordagem da Lusha para crianças com TDAH e suas famílias. Esse trabalho é conduzido em colaboração com o comitê científico da Lusha, AP-HP, o Hospital Universitário de Montpellier e o Hospital Universitário de Grenoble.
+
+Esta página apresenta as informações públicas disponíveis sobre o estudo LUSHA registrado no ClinicalTrials.gov. Ela não é uma página de inscrição no estudo e não substitui as informações comunicadas pelas equipes de pesquisa.
 
 > Este wiki é apenas informativo e não substitui a orientação de um profissional de saúde qualificado ou de um coordenador oficial do estudo.
 
-## Fonte oficial
+## Fonte oficial e status
 
 A ficha pública de referência é: [NCT07204873 - Evaluation of the LUSHA Digital Application for Children With ADHD - Feasibility Study](https://clinicaltrials.gov/study/NCT07204873?term=lusha&viewType=Card&rank=1).
 
-O resumo abaixo foi adaptado do PDF do ClinicalTrials.gov, consultado em 2 de maio de 2026. Nesse PDF, a ficha indica uma última atualização publicada em 2 de outubro de 2025 e uma última verificação em setembro de 2025.
+O estudo aparece como **Not yet recruiting** e deve começar em meados de 2026.
 
 ## Para que serve este estudo?
 
 O estudo busca entender como crianças com TDAH e seus pais usam o aplicativo LUSHA durante 3 meses. O objetivo principal é avaliar adesão e uso do aplicativo ao longo de 90 dias.
 
-Os objetivos secundários também observam dimensões importantes para as famílias:
+Os objetivos secundários incluem:
 
+- uso do aplicativo em 1, 2 e 3 meses;
 - qualidade de vida e impacto familiar;
 - comportamentos observados pelos pais;
 - qualidade de vida percebida pela criança;
@@ -38,7 +41,7 @@ Durante 3 meses, a criança e os pais usam o aplicativo e respondem a questioná
 
 ## Onde o estudo acontece?
 
-O PDF do ClinicalTrials.gov indica dois centros na França:
+A ficha ClinicalTrials.gov indica dois centros na França:
 
 - University Hospital, Grenoble;
 - University Hospital, Montpellier.
@@ -47,9 +50,9 @@ O patrocinador indicado é University Hospital, Grenoble, com DYGIE como colabor
 
 ## Qual aplicativo as famílias devem usar?
 
-Para o estudo clínico, as famílias devem usar uma versão específica do aplicativo: **Lusha Essai clinique**. A versão clássica do Lusha não deve ser usada, porque não está configurada para o protocolo de pesquisa, o acompanhamento do estudo e o percurso previsto para os participantes.
+Para o estudo clínico, as famílias devem usar uma versão específica do aplicativo: **Lusha Essai clinique**. A versão clássica da Lusha não está configurada para o protocolo de pesquisa, o acompanhamento do estudo e o percurso previsto para os participantes.
 
-Famílias que acreditam estar relacionadas ao estudo ou querem saber como participar devem entrar em contato com a equipe do serviço da Prof. Stéphanie Bioulac-Rogier em Grenoble ou com a equipe do serviço da Prof. Diane Purper-Ouakil em Montpellier. Essas equipes poderão confirmar as modalidades de participação, elegibilidade e próximos passos.
+Os contatos oficiais e os centros participantes estão indicados na seção **Contacts and Locations** da ficha ClinicalTrials.gov. Para qualquer pergunta sobre participação, elegibilidade ou próximos passos, as famílias devem consultar esses contatos ou os profissionais de saúde que acompanham a criança.
 
 ## O que este estudo não significa
 

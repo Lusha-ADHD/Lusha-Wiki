@@ -82,5 +82,6 @@ When useful, you can share the report generated in the Parent Space during an ap
 - [Create Routines in Lusha](/how-to-use-lusha/routines/) to configure the agenda, validations, and behavioral challenges.
 - [Tara's School](/how-to-use-lusha/tara-school/) to understand psychoeducational content, stories, quizzes, and quests.
 - [Parental Guidance](/how-to-use-lusha/parental-guidance/) to discover content for parents.
+- [Lusha's World](/universe/) to understand the game's world, characters, exploration, and progression.
 - [FAQ](/faq/) for common questions.
 - [Clinical Trial Info](/clinical-trials/) for the informational framework and precautions.

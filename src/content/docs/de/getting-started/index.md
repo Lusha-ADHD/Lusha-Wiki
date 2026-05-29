@@ -82,5 +82,6 @@ Wenn es sinnvoll erscheint, können Sie die im Elternbereich erzeugte Bilanz in 
 - [Routinen in Lusha erstellen](/de/how-to-use-lusha/routines/) zum Einrichten des Kalenders, der Bestätigungen und der Verhaltensaufgaben.
 - [Taras Schule](/de/how-to-use-lusha/tara-school/) zum Verständnis der psychoedukativen Inhalte, Geschichten, Quizze und Quests.
 - [Elterliche Guidance](/de/how-to-use-lusha/parental-guidance/) zum Entdecken der Inhalte für Eltern.
+- [Die Welt von Lusha](/de/universe/) zum Verständnis der Spielwelt, der Figuren, der Erkundung und des Fortschritts.
 - [FAQ](/de/faq/) für häufige Fragen.
 - [Klinische Studieninformationen](/de/clinical-trials/) für den informativen Rahmen und wichtige Vorsichtshinweise.

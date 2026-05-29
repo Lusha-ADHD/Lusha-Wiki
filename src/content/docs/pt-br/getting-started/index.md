@@ -82,5 +82,6 @@ Quando parecer útil, você pode compartilhar o balanço gerado no Espaço dos p
 - [Criar rotinas na Lusha](/pt-br/how-to-use-lusha/routines/) para configurar a agenda, as validações e os desafios comportamentais.
 - [Escola da Tara](/pt-br/how-to-use-lusha/tara-school/) para entender os conteúdos psicoeducativos, as histórias, os questionários e as missões.
 - [Orientação parental](/pt-br/how-to-use-lusha/parental-guidance/) para descobrir os conteúdos destinados aos pais.
+- [O mundo da Lusha](/pt-br/universe/) para entender o universo do jogo, os personagens, a exploração e a progressão.
 - [FAQ](/pt-br/faq/) para perguntas frequentes.
 - [Informações sobre estudos clínicos](/pt-br/clinical-trials/) para o contexto informativo e as precauções.

@@ -1,27 +1,30 @@
 ---
 title: Lusha Clinical Trial Info
-description: Parent-friendly explanation of the LUSHA NCT07204873 feasibility study and clinical information precautions.
+description: Overview of Lusha's clinical approach, the LUSHA NCT07204873 feasibility study, and the app dedicated to the clinical trial.
 ---
 
-This page summarizes public information about the LUSHA study registered on ClinicalTrials.gov in parent-friendly language. It should be maintained carefully because health-related information can be sensitive and may change over time.
+The Lusha clinical trial is part of a clinical approach designed to document the effectiveness of Lusha's approach for children with ADHD and their families. This work is carried out in collaboration with Lusha's scientific committee, AP-HP, Montpellier University Hospital, and Grenoble University Hospital.
 
-> This wiki is informational only and does not replace advice from a qualified medical professional or official trial coordinator.
+This page presents public information about the LUSHA study registered on ClinicalTrials.gov. It is not a study enrollment page and does not replace information provided by the research teams.
 
-## Official Source
+> This wiki is informational only and does not replace advice from a qualified healthcare professional or official study coordinator.
+
+## Official Source and Status
 
 The public source record is: [NCT07204873 - Evaluation of the LUSHA Digital Application for Children With ADHD - Feasibility Study](https://clinicaltrials.gov/study/NCT07204873?term=lusha&viewType=Card&rank=1).
 
-The summary below is adapted from the provided ClinicalTrials.gov PDF, reviewed on May 2, 2026. In that PDF, the record shows a last update posted on October 2, 2025 and last verified in September 2025.
+The study is listed as **Not yet recruiting** and is expected to start in mid-2026.
 
 ## What Is the Study For?
 
 The study looks at how children with ADHD and their parents use the LUSHA app over 3 months. The primary objective is to assess adherence and use over 90 days.
 
-Secondary objectives also look at family-relevant areas:
+Secondary objectives include:
 
+- app use at 1, 2, and 3 months;
 - quality of life and family impact;
 - behavior reported by parents;
-- quality of life as reported by the child;
+- quality of life reported by the child;
 - adoption of Lusha features, such as validated routines, emotion-management modules, and parent modules.
 
 ## Who Is It For?
@@ -38,7 +41,7 @@ For 3 months, children and parents use the app and answer online surveys. The pr
 
 ## Where Does It Take Place?
 
-The ClinicalTrials.gov PDF lists two sites in France:
+The ClinicalTrials.gov record lists two sites in France:
 
 - University Hospital, Grenoble;
 - University Hospital, Montpellier.
@@ -47,9 +50,9 @@ The sponsor is University Hospital, Grenoble, with DYGIE listed as a collaborato
 
 ## Which App Should Families Use?
 
-For the clinical trial, families must use a specific version of the app: **Lusha Essai clinique**. They should not use the standard Lusha app, because it is not configured for the research protocol, study follow-up, and participation process.
+For the clinical trial, families must use a specific version of the app: **Lusha Essai clinique**. The standard Lusha app is not configured for the research protocol, study follow-up, and participant pathway.
 
-Families who think they may be concerned by the study or want to know how to join the clinical trial should contact the team of Prof. Stéphanie Bioulac-Rogier's department in Grenoble or the team of Prof. Diane Purper-Ouakil's department in Montpellier. These teams can confirm participation steps, eligibility, and what to do next.
+Official contacts and participating centers are listed in the **Contacts and Locations** section of the ClinicalTrials.gov record. For questions about participation, eligibility, or next steps, families should refer to those contacts or to the healthcare professionals following the child.
 
 ## What This Does Not Mean
 

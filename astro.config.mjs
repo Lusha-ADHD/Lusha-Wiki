@@ -150,29 +150,6 @@ export default defineConfig({
           ],
         },
         {
-          label: 'Clinical Trial Info',
-          translations: {
-            fr: 'Informations sur les essais cliniques',
-            de: 'Klinische Studieninformationen',
-            it: 'Informazioni sugli studi clinici',
-            es: 'Información de ensayos clínicos',
-            'pt-BR': 'Informações sobre estudos clínicos',
-          },
-          items: [
-            {
-              label: 'Overview',
-              translations: {
-                fr: 'Vue d’ensemble',
-                de: 'Überblick',
-                it: 'Panoramica',
-                es: 'Resumen',
-                'pt-BR': 'Visão geral',
-              },
-              link: 'clinical-trials/',
-            },
-          ],
-        },
-        {
           label: "Lusha's World",
           translations: {
             fr: 'Le monde Lusha',
@@ -226,6 +203,29 @@ export default defineConfig({
                 'pt-BR': 'Perguntas',
               },
               link: 'faq/',
+            },
+          ],
+        },
+        {
+          label: 'Clinical Trial Info',
+          translations: {
+            fr: 'Informations sur les essais cliniques',
+            de: 'Klinische Studieninformationen',
+            it: 'Informazioni sugli studi clinici',
+            es: 'Información de ensayos clínicos',
+            'pt-BR': 'Informações sobre estudos clínicos',
+          },
+          items: [
+            {
+              label: 'Overview',
+              translations: {
+                fr: 'Vue d’ensemble',
+                de: 'Überblick',
+                it: 'Panoramica',
+                es: 'Resumen',
+                'pt-BR': 'Visão geral',
+              },
+              link: 'clinical-trials/',
             },
           ],
         },
