@@ -72,7 +72,7 @@ La progression dans les contenus de Tara permet de gagner des <span class="lusha
 
 Elles ont deux effets principaux. D'abord, elles peuvent débloquer de <span class="lusha-inline-term"><img class="lusha-inline-icon" src="/assets/icons/energy.png" alt="" aria-hidden="true" />l'énergie</span>, ce qui permet à l'enfant de prolonger son exploration dans la jungle. Ensuite, elles font progresser le joueur par paliers, comme des diplômes obtenus dans l'École de Tara.
 
-À chaque nouveau palier atteint, l'enfant peut recevoir un **panier de Tara**. Ce panier contient des objets utiles pour l'aventure, par exemple des pierres précieuses, des colorants, de la nourriture ou d'autres ressources de jeu. Les récompenses gardent ainsi un lien direct entre les apprentissages psychoéducatifs et la progression dans l'univers de Lusha.
+À chaque nouveau palier atteint, l'enfant peut recevoir un **panier de Tara**. Ce panier contient des objets utiles pour l'aventure, par exemple des pierres précieuses, des colorants, de la nourriture ou d'autres ressources de jeu. Les récompenses gardent ainsi un lien direct entre les apprentissages psychoéducatifs et la progression dans le monde Lusha.
 
 <figure class="lusha-screenshot">
   <img src="/assets/how-to-use-lusha/tara-school/tara-rewards.png" alt="Écran de récompenses de Tara montrant les pattes d'ours, les paliers de progression et les récompenses disponibles." />

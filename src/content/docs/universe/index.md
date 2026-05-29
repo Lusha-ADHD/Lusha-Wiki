@@ -1,11 +1,11 @@
 ---
-title: The Universe of Lusha
-description: Introduction to Lusha's universe, with the jungle, camp, companions, Jane the explorer, Luya statues, and the mysteries of magic.
+title: The World of Lusha
+description: Introduction to Lusha's world, with the jungle, camp, companions, Jane the explorer, Luya statues, and the mysteries of magic.
 ---
 
 Lusha takes place in a vast, bright, and mysterious jungle. The player embodies a child who has been pulled far away from their own world, surrounded by talking animals, ancient ruins, magic-infused objects, and clues left behind by a missing explorer.
 
-The universe is both an adventure setting and a motivational support. Actions completed in real life, such as routines and challenges, help the character progress through the jungle. The game therefore distinguishes two layers: real family daily life and the narrative or playful objectives experienced in Lusha.
+Lusha's world is both an adventure setting and a motivational support. Actions completed in real life, such as routines and challenges, help the character progress through the jungle. The game therefore distinguishes two layers: real family daily life and the narrative or playful objectives experienced in Lusha.
 
 ## Starting Point of the Adventure
 
@@ -17,7 +17,7 @@ The player finds themself alone in the middle of the Lusha jungle, near a myster
 
 The jungle is designed as a rich environment that invites exploration, curiosity, and discovery. It contains resources to collect, secrets to find, characters to help, and places that unlock gradually.
 
-This universe is not only decorative. It stages several important ideas for Lusha:
+This world is not only decorative. It stages several important ideas for Lusha:
 
 - organization helps progress;
 - the character's energy, in practice their play time, is not unlimited;
@@ -43,7 +43,7 @@ Its maintenance stays simple, but it gives the player regular landmarks: removin
 
 Tigum is a cheerful, lively, and endearing young tiger. He becomes one of the player's close companions. He helps the player understand the camp, encourages exploration, and can talk with them about the positive or difficult moments of the day.
 
-Tigum plays an important role in the game's tone: he supports without judging, encourages without pressure, and helps the player keep an emotional connection with the universe.
+Tigum plays an important role in the game's tone: he supports without judging, encourages without pressure, and helps the player keep an emotional connection with Lusha's world.
 
 ### Touk
 

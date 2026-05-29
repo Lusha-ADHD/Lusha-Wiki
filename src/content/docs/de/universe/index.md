@@ -1,11 +1,11 @@
 ---
-title: Das Universum von Lusha
-description: Vorstellung des Universums von Lusha mit Dschungel, Lager, Begleitern, Jane der Entdeckerin, Luya-Statuen und den Geheimnissen der Magie.
+title: Die Welt von Lusha
+description: Vorstellung der Welt von Lusha mit Dschungel, Lager, Begleitern, Jane der Entdeckerin, Luya-Statuen und den Geheimnissen der Magie.
 ---
 
 Lusha spielt in einem riesigen, hellen und geheimnisvollen Dschungel. Die spielende Person verkörpert ein Kind, das weit weg von seiner Welt gelandet ist, umgeben von sprechenden Tieren, alten Ruinen, magisch durchdrungenen Objekten und Hinweisen, die eine verschwundene Entdeckerin hinterlassen hat.
 
-Das Universum ist zugleich Abenteuerwelt und Motivationshilfe. Handlungen, die im echten Leben erledigt werden, wie Routinen und Herausforderungen, helfen der Figur, im Dschungel voranzukommen. Das Spiel unterscheidet deshalb zwei Ebenen: den realen Familienalltag und die erzählerischen oder spielerischen Ziele in Lusha.
+Die Welt von Lusha ist zugleich Abenteuerwelt und Motivationshilfe. Handlungen, die im echten Leben erledigt werden, wie Routinen und Herausforderungen, helfen der Figur, im Dschungel voranzukommen. Das Spiel unterscheidet deshalb zwei Ebenen: den realen Familienalltag und die erzählerischen oder spielerischen Ziele in Lusha.
 
 ## Ausgangspunkt des Abenteuers
 
@@ -17,7 +17,7 @@ Die spielende Person findet sich allein mitten im Dschungel von Lusha wieder, in
 
 Der Dschungel ist als reiche Umgebung gestaltet, die zur Erkundung, Neugier und Entdeckung einlädt. Er enthält Ressourcen zum Sammeln, Geheimnisse zum Finden, Figuren, denen geholfen werden kann, und Orte, die nach und nach freigeschaltet werden.
 
-Dieses Universum ist nicht nur Dekoration. Es stellt mehrere wichtige Ideen von Lusha dar:
+Diese Welt ist nicht nur Dekoration. Sie stellt mehrere wichtige Ideen von Lusha dar:
 
 - Organisation hilft beim Vorankommen;
 - die Energie der Figur, praktisch also ihre Spielzeit, ist nicht unbegrenzt;

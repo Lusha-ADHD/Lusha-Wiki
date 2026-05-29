@@ -1,11 +1,11 @@
 ---
-title: Universo de Lusha
-description: Apresentação do universo de Lusha, com a selva, o acampamento, os companheiros, Jane, a exploradora, as estátuas Luyas e os mistérios da magia.
+title: O mundo da Lusha
+description: Apresentação do mundo da Lusha, com a selva, o acampamento, os companheiros, Jane, a exploradora, as estátuas Luyas e os mistérios da magia.
 ---
 
 Lusha se passa em uma selva imensa, luminosa e misteriosa. O jogador encarna uma criança levada para longe de seu mundo, cercada por animais capazes de falar, ruínas antigas, objetos impregnados de magia e pistas deixadas por uma exploradora desaparecida.
 
-O universo serve ao mesmo tempo como terreno de aventura e apoio à motivação. As ações realizadas na vida real, como rotinas e desafios, ajudam o personagem a progredir na selva. O jogo distingue, portanto, dois planos: o cotidiano familiar real e os objetivos narrativos ou lúdicos vividos em Lusha.
+O mundo da Lusha serve ao mesmo tempo como terreno de aventura e apoio à motivação. As ações realizadas na vida real, como rotinas e desafios, ajudam o personagem a progredir na selva. O jogo distingue, portanto, dois planos: o cotidiano familiar real e os objetivos narrativos ou lúdicos vividos em Lusha.
 
 ## Ponto de partida da aventura
 
@@ -17,7 +17,7 @@ O jogador se vê sozinho no meio da selva de Lusha, perto de uma estela misterio
 
 A selva foi pensada como um ambiente rico que convida à exploração, à curiosidade e à descoberta. Ela contém recursos para coletar, segredos para encontrar, personagens para ajudar e lugares que são desbloqueados progressivamente.
 
-Esse universo não é apenas decorativo. Ele coloca em cena várias ideias importantes para Lusha:
+Esse mundo não é apenas decorativo. Ele coloca em cena várias ideias importantes para Lusha:
 
 - organizar-se ajuda a progredir;
 - a energia do personagem, na prática seu tempo de jogo, não é ilimitada;
@@ -43,7 +43,7 @@ A manutenção continua simples, mas dá ao jogador referências regulares: reti
 
 Tigum é um jovem tigre alegre, vivo e cativante. Ele se torna um dos companheiros próximos do jogador. Ajuda a entender o acampamento, incentiva a exploração e pode conversar sobre os momentos positivos ou difíceis do dia.
 
-Tigum tem um papel importante no tom do jogo: acompanha sem julgar, incentiva sem pressionar e ajuda o jogador a manter um vínculo afetivo com o universo.
+Tigum tem um papel importante no tom do jogo: acompanha sem julgar, incentiva sem pressionar e ajuda o jogador a manter um vínculo afetivo com o mundo da Lusha.
 
 ### Touk
 

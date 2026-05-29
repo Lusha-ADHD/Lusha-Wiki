@@ -1,11 +1,13 @@
 ---
-title: Univers de Lusha
-description: Présentation de l'univers de Lusha, avec la jungle, le campement, les compagnons, Jane l'exploratrice, les statues Luyas et les mystères de la magie.
+title: Le monde Lusha
+description: Présentation du monde Lusha, avec la jungle, le campement, les compagnons, Jane l'exploratrice, les statues Luyas et les mystères de la magie.
 ---
 
 Lusha se déroule dans une jungle immense, lumineuse et mystérieuse. Le joueur y incarne un enfant projeté loin de son monde, entouré d'animaux capables de parler, de ruines anciennes, d'objets imprégnés de magie et d'indices laissés par une exploratrice disparue.
 
-L'univers sert à la fois de terrain d'aventure et de support de motivation. Les actions réalisées dans la vraie vie, comme les routines et les défis, aident le personnage à progresser dans la jungle. Le jeu distingue donc deux plans : le quotidien familial réel et les objectifs narratifs ou ludiques vécus dans Lusha.
+Le monde Lusha sert à la fois de terrain d'aventure et de support de motivation. Les actions réalisées dans la vraie vie, comme les routines et les défis, aident le personnage à progresser dans la jungle. Le jeu distingue donc deux plans : le quotidien familial réel et les objectifs narratifs ou ludiques vécus dans Lusha.
+
+Pour comprendre les mécaniques d'exploration, de carte, de collecte, de fabrication et de progression du personnage, consultez aussi la page [Progression et exploration dans le monde Lusha](/fr/universe/progression-exploration/).
 
 ## Point de départ de l'aventure
 
