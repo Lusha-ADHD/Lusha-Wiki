@@ -11,7 +11,17 @@ Diese Seite beschreibt die Spielmechaniken, die mit Lushas Welt verbunden sind.
 
 Die Erkundung beginnt im Camp. Der Spieler nimmt den Ausgang rechts, der durch eine grüne Matte mit Blättern markiert ist. Wenn keine Routine läuft und die Figur mindestens 1 Energiepunkt besitzt, öffnet sich die Dschungelkarte.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/CampExit.png" alt="Ausgang vom Camp zur Erkundung, markiert durch eine grüne Matte mit Blättern." />
+  <figcaption>Die grüne Matte zeigt den Ausgang vom Camp zur Dschungelkarte.</figcaption>
+</figure>
+
 Auf dieser Karte wählt der Spieler die Region aus, die er erkunden möchte. Nicht alle Regionen sind von Anfang an verfügbar: Sie werden nach und nach im Verlauf des Abenteuers freigeschaltet. Um eine neue Region zu öffnen, muss der Spieler das Ende der vorherigen Region erreichen.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/JungleMap.png" alt="Karte des Dschungels von Lusha mit mehreren erkundbaren Regionen." />
+  <figcaption>Die Karte erlaubt es, eine Region auszuwählen und den Fortschritt im Dschungel zu sehen.</figcaption>
+</figure>
 
 In den Erkundungszonen werden Ein- und Ausgänge ebenfalls durch grüne Matten dargestellt. Dieses visuelle Zeichen hilft dem Kind zu verstehen, wann es eine Zone verlässt, zur Karte zurückkehrt oder in einen neuen Teil des Dschungels weitergeht.
 
@@ -58,6 +68,11 @@ Wissen kann auf mehrere Arten steigen:
 - durch Hilfe für Luya-Statuen;
 - durch den Verzehr bestimmter seltener Lebensmittel.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/SkillsPanel.png" alt="Fähigkeitenfenster, das durch das Wissen der Figur in Lusha freigeschaltet wird." />
+  <figcaption>Steigendes Wissen schaltet nach und nach neue Fähigkeiten frei, etwa Rezepte, Werkzeuge oder Zubereitungen.</figcaption>
+</figure>
+
 ## Zentrale Orte
 
 Lusha ist um mehrere wiederkehrende Orte herum aufgebaut. Jeder Ort hat eine Funktion im Abenteuer und im Fortschritt des Spielers.
@@ -71,7 +86,7 @@ Der Spieler kann dort unter anderem Tigum, Igor und eine Luya-Statue treffen. Di
 Im Verlauf des Abenteuers kann das Camp gepflegt, repariert und verbessert werden. Lagerfeuer, Werkbank, Truhe, Haus, Gemüsegarten und Tagebuch der Entdeckerin geben dem Spieler konkrete und regelmäßige Ziele.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/game-main-scene.png" alt="Hauptcamp von Lusha mit Hütte und Zugang zu Taras Schule." />
+  <img src="/assets/universe/Camp.png" alt="Camp von Lusha mit Hütte, Wegen und Elementen zur Pflege." />
   <figcaption>Das Camp ist Basis, Rückkehrpunkt und Vorbereitungsort vor der Erkundung.</figcaption>
 </figure>
 
@@ -84,6 +99,16 @@ Weitere Details finden Sie auf der Seite [Taras Schule](/de/how-to-use-lusha/tar
 ### Die Hütte
 
 Die Hütte ist die alte Hütte, die Jane die Entdeckerin gebaut hat. Dort kann der Spieler das Tagebuch der Entdeckerin lesen und die Kleidung seiner Figur wechseln.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Caban.png" alt="Hütte von Jane der Entdeckerin in Lusha." />
+  <figcaption>Die Hütte gibt Zugang zu persönlichen Elementen des Spielers und zum Tagebuch der Entdeckerin.</figcaption>
+</figure>
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Closet.png" alt="Garderobenoberfläche zum Wechseln der Kleidung der Figur in Lusha." />
+  <figcaption>Von der Hütte aus kann die Garderobe das Aussehen der Figur verändern.</figcaption>
+</figure>
 
 ### Panas Haus
 
@@ -104,9 +129,16 @@ Gesammelte Gegenstände können verwendet werden, um:
 
 Nicht alle Elemente findet man überall. Manche Ressourcen kommen in einer Region häufiger vor als in einer anderen. Es lohnt sich daher, nützliche Zonen zu merken und später zurückzukehren, wenn eine bestimmte Ressource gebraucht wird.
 
+Sammelbare Objekte sind oft an den kleinen gelben Sternen zu erkennen, die über ihnen erscheinen. Dieses visuelle Signal hilft dem Spieler, interaktive Elemente von der Umgebung zu unterscheiden.
+
 Einige Elemente benötigen außerdem ein Werkzeug zur Ernte. Erz erfordert zum Beispiel eine Spitzhacke. Andere Elemente erscheinen vor allem, wenn das Glück der Figur hoch ist.
 
 Nach dem Sammeln brauchen Elemente etwas Zeit, um wieder zu erscheinen. Neue Ressourcen erscheinen in der Regel am nächsten Tag.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Collecting.png" alt="Sammeln eines Objekts in einem Dschungelbereich von Lusha." />
+  <figcaption>Das Sammeln ermutigt dazu, Bereiche genau zu beobachten und für nützliche Ressourcen zurückzukehren.</figcaption>
+</figure>
 
 ## Werkzeuge benutzen
 
@@ -114,11 +146,21 @@ Werkzeuge wie Spitzhacke oder Axt dienen dazu, mit der Umgebung zu interagieren.
 
 Die Nutzung eines Werkzeugs erfordert meistens Glück. Ein hohes Glücksniveau ist daher wichtig, um effektiv weiter zu erkunden und Werkzeuge bei Bedarf einzusetzen.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Mining.png" alt="Verwendung einer Spitzhacke zum Sammeln einer Ressource in Lusha." />
+  <figcaption>Manche Objekte können nur mit dem passenden Werkzeug gesammelt werden, etwa Erz mit einer Spitzhacke.</figcaption>
+</figure>
+
 ## Objekte herstellen
 
 Herstellung verwandelt gesammelte Ressourcen in nützliche Objekte. Sie gibt den im Dschungel gefundenen Elementen eine konkrete Rolle: Eine Ressource kann genutzt werden, um ein Werkzeug zu schaffen, ein Gericht zuzubereiten, Kleidung herzustellen oder zu einer Reparatur beizutragen.
 
 Die Herstellungsorte haben unterschiedliche Funktionen. An der Werkbank lassen sich bestimmte Objekte und Werkzeuge herstellen. Das Lagerfeuer oder Kochbereiche dienen der Zubereitung von Nahrung. Panas Webstuhl wird zur Herstellung von Kleidung genutzt. Tiefer im Dschungel ermöglicht der Luya-Ofen die Herstellung fortgeschrittener Objekte.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/CraftingStation.png" alt="Werkbank zur Herstellung in Lusha." />
+  <figcaption>Herstellungsstationen verwandeln gesammelte Ressourcen in nützliche Gegenstände für das Abenteuer.</figcaption>
+</figure>
 
 Das Wissen der Figur kann nach und nach neue Herstellungsmöglichkeiten freischalten.
 
@@ -130,6 +172,11 @@ Diese Mechanik betrifft besonders das Camp: Lagerfeuer, Truhe, Haus, Werkbank, G
 
 Reparieren oder Bauen ist nicht nur dekorativ. Es kann neue Nutzungen freischalten, das Camp nützlicher machen, das Glück der Figur unterstützen oder den Zugang zu anderen Aktivitäten vorbereiten.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Building.png" alt="Reparatur oder Bau eines Camp-Elements in Lusha." />
+  <figcaption>Der Bau schreitet durch Ressourcengaben voran und macht Fortschritte in der Umgebung sichtbar.</figcaption>
+</figure>
+
 ## Herausforderungen der Statuen
 
 Einige alte Statuen scheinen mit der Magie von Lusha und der Luya-Zivilisation verbunden zu sein. Der Spieler begegnet ihnen im Verlauf seiner Dschungelprogression.
@@ -138,6 +185,11 @@ Um eine Statue vollständig zu reaktivieren, muss der Spieler ihr einen magische
 
 Jede Herausforderung dauert etwa 3 bis 5 Minuten, erfordert 1 Energiepunkt und verbraucht ihn beim Start. Nach jeder Herausforderung erhält der Spieler eine kleine Belohnung.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/StatueChallengeExample.png" alt="Beispiel für ein Minispiel einer Luya-Statue in Lusha." />
+  <figcaption>Die Herausforderungen der Statuen haben die Form kurzer Minispiele, wie dieses Beispiel zur Erkundung.</figcaption>
+</figure>
+
 ## Das Tagebuch der Entdeckerin
 
 Das Tagebuch der Entdeckerin sammelt Spuren einer Entdeckerin, die vor dem Spieler im Dschungel angekommen ist. Seine Seiten helfen, Orte, Tiere, Ruinen, Portale und die alte Luya-Zivilisation zu verstehen.
@@ -145,6 +197,11 @@ Das Tagebuch der Entdeckerin sammelt Spuren einer Entdeckerin, die vor dem Spiel
 Am Anfang ist das Tagebuch unvollständig. Der Spieler muss die fehlenden Seiten bei der Erkundung finden. Jede Seite kann einen Hinweis, eine Erklärung oder eine neue Frage bringen.
 
 Das Finden einer Tagebuchseite schaltet außerdem eine einzigartige Belohnung frei.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/ExploratorDiary.png" alt="Tagebuch der Entdeckerin mit Informationen über die Welt von Lusha." />
+  <figcaption>Das Tagebuch der Entdeckerin leitet die Suche und sammelt im Dschungel entdeckte Hinweise.</figcaption>
+</figure>
 
 ## Strukturierter Fortschritt
 

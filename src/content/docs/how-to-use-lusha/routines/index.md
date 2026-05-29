@@ -100,6 +100,24 @@ After validation, a <span class="lusha-inline-term"><img class="lusha-inline-ico
   <figcaption>The parent code can secure validation when the action is reserved for adults.</figcaption>
 </figure>
 
+## Collecting rewards on the child side
+
+Once the routine has been validated, the child can collect their rewards from the game space, for example from the camp. The star-shaped button in the top-right corner of the screen opens the available rewards panel.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/RewardsPanel.png" alt="Routine rewards panel in Lusha with the list of available rewards." />
+  <figcaption>The star button tells the child that routine rewards are ready to collect.</figcaption>
+</figure>
+
+The rewards panel lists the rewards unlocked by validated routines. When the child taps one of these rewards, they can see its detailed contents before collecting the planned resources.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/RoutineReward.png" alt="Routine reward detail in Lusha with the resources it contains." />
+  <figcaption>The reward detail shows what the child will receive after selecting it in the panel.</figcaption>
+</figure>
+
+Collected rewards reinforce the link between the real-life action, parent validation, and progress in Lusha.
+
 ## Behavioral challenges
 
 Behavioral challenges help the child generalize, meaning put into practice in everyday life what they learn in Tara's School. They target concrete behavior changes, such as not interrupting, using a calm voice when speaking, or applying a strategy practiced in a module.

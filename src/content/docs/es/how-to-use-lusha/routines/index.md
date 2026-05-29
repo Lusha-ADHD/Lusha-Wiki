@@ -100,6 +100,24 @@ Después de la validación, aparece una <span class="lusha-inline-term"><img cla
   <figcaption>El código parental puede proteger la validación cuando la acción está reservada a los adultos.</figcaption>
 </figure>
 
+## Recoger las recompensas desde el lado del niño
+
+Una vez validada la rutina, el niño puede recoger sus recompensas desde el espacio de juego, por ejemplo desde el campamento. El botón con forma de estrella, situado en la parte superior derecha de la pantalla, abre el panel de recompensas disponibles.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/RewardsPanel.png" alt="Panel de recompensas de rutina en Lusha con la lista de recompensas disponibles." />
+  <figcaption>El botón de estrella indica al niño que hay recompensas de rutinas listas para recoger.</figcaption>
+</figure>
+
+El panel de recompensas enumera las recompensas desbloqueadas gracias a las rutinas validadas. Cuando el niño toca una de estas recompensas, puede ver su contenido detallado antes de recoger los recursos previstos.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/RoutineReward.png" alt="Detalle de una recompensa de rutina en Lusha con los recursos que contiene." />
+  <figcaption>El detalle de una recompensa muestra lo que el niño recibirá después de seleccionarla en el panel.</figcaption>
+</figure>
+
+Las recompensas recogidas refuerzan el vínculo entre la acción real, la validación del adulto y la progresión en Lusha.
+
 ## Desafíos conductuales
 
 Los desafíos conductuales ayudan al niño a generalizar, es decir, a poner en práctica en la vida cotidiana lo que aprende en la Escuela de Tara. Trabajan cambios concretos de comportamiento, como no interrumpir, usar una voz tranquila al expresarse o aplicar una estrategia practicada en un módulo.

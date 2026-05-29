@@ -423,6 +423,21 @@ a:hover {
   white-space: nowrap;
 }
 
+.sl-markdown-content .lusha-character-heading {
+  white-space: nowrap;
+}
+
+.sl-markdown-content .lusha-character-icon {
+  display: inline-block;
+  width: 2.4rem;
+  height: 2.4rem;
+  max-width: 2.4rem;
+  max-height: 2.4rem;
+  margin-right: 0.45rem;
+  object-fit: contain;
+  vertical-align: -0.65rem;
+}
+
 :root[data-theme='dark'] .sl-markdown-content .lusha-product-link {
   border-color: rgb(214 242 166 / 34%);
   background-color: rgb(20 37 29 / 72%);

@@ -11,7 +11,17 @@ Esta página presenta las mecánicas de juego vinculadas al mundo de Lusha.
 
 La exploración empieza desde el campamento. El jugador toma la salida de la derecha, indicada por una alfombra verde con hojas. Si no hay ninguna rutina en curso y el personaje tiene al menos 1 punto de energía, se abre el mapa de la jungla.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/CampExit.png" alt="Salida del campamento hacia la exploración, indicada por una alfombra verde con hojas." />
+  <figcaption>La alfombra verde indica la salida del campamento hacia el mapa de la jungla.</figcaption>
+</figure>
+
 Desde este mapa, el jugador elige la región que quiere explorar. Las regiones no están todas disponibles desde el principio: se desbloquean poco a poco a medida que avanza la aventura. Para abrir una nueva región, el jugador debe llegar al final de la región anterior.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/JungleMap.png" alt="Mapa de la jungla de Lusha con varias regiones para explorar." />
+  <figcaption>El mapa permite elegir una región y visualizar la progresión en la jungla.</figcaption>
+</figure>
 
 En las zonas de exploración, las entradas y salidas de región también están representadas por alfombras verdes. Este punto de referencia visual ayuda al niño a entender cuándo sale de una zona, cuándo vuelve al mapa y cuándo progresa hacia una nueva parte de la jungla.
 
@@ -58,6 +68,11 @@ El saber puede aumentar de varias formas:
 - ayudando a las estatuas Luya;
 - consumiendo algunos alimentos raros.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/SkillsPanel.png" alt="Panel de habilidades desbloqueadas gracias al saber del personaje en Lusha." />
+  <figcaption>El aumento del saber desbloquea progresivamente nuevas habilidades, como recetas, herramientas o preparaciones.</figcaption>
+</figure>
+
 ## Lugares principales
 
 Lusha se organiza alrededor de varios lugares recurrentes. Cada uno tiene una función en la aventura y en la progresión del jugador.
@@ -71,7 +86,7 @@ El jugador puede encontrar allí a Tigum, Igor y una estatua Luya. Esta estatua 
 A medida que avanza la aventura, el campamento puede mantenerse, repararse y mejorarse. La hoguera, el banco de trabajo, el cofre, la casa, el huerto y el diario de la exploradora dan al jugador objetivos concretos y regulares.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/game-main-scene.png" alt="Campamento principal de Lusha con la cabaña y el acceso a la Escuela de Tara." />
+  <img src="/assets/universe/Camp.png" alt="Campamento de Lusha con la cabaña, los caminos y los elementos que mantener." />
   <figcaption>El campamento sirve de base, punto de regreso y lugar de preparación antes de explorar.</figcaption>
 </figure>
 
@@ -84,6 +99,16 @@ Para más detalles, consulta la página [Escuela de Tara](/es/how-to-use-lusha/t
 ### La cabaña
 
 La cabaña es la antigua cabaña construida por Jane, la exploradora. Permite al jugador consultar el diario de la exploradora y cambiar la ropa de su personaje.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Caban.png" alt="Cabaña de Jane la exploradora en Lusha." />
+  <figcaption>La cabaña da acceso a elementos personales del jugador y al diario de la exploradora.</figcaption>
+</figure>
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Closet.png" alt="Interfaz de armario para cambiar la ropa del personaje en Lusha." />
+  <figcaption>Desde la cabaña, el armario permite cambiar la apariencia del personaje.</figcaption>
+</figure>
 
 ### La casa de Pana
 
@@ -104,9 +129,16 @@ Los objetos recolectados pueden servir para:
 
 No todos los elementos aparecen en todas partes. Algunos recursos son más frecuentes en una región que en otra. Por eso, al jugador le conviene recordar las zonas útiles y volver más tarde si necesita un recurso concreto.
 
+Los objetos que se pueden recolectar suelen reconocerse por las pequeñas estrellas amarillas que aparecen encima de ellos. Esta señal visual ayuda al jugador a distinguir los elementos interactivos del decorado.
+
 Algunos elementos también requieren una herramienta para recolectarse. Por ejemplo, el mineral requiere un pico. Otros elementos aparecen sobre todo cuando la felicidad del personaje es alta.
 
 Una vez recolectados, los elementos tardan un tiempo en reaparecer. Generalmente aparecen nuevos recursos al día siguiente.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Collecting.png" alt="Recolección de un objeto en una zona de jungla de Lusha." />
+  <figcaption>La recolección anima al jugador a observar las zonas y volver a buscar recursos útiles.</figcaption>
+</figure>
 
 ## Usar herramientas
 
@@ -114,11 +146,21 @@ Las herramientas, como el pico o el hacha, sirven para interactuar con el entorn
 
 Usar una herramienta suele requerir felicidad. Mantener una felicidad alta es por tanto importante para seguir explorando eficazmente y usar herramientas cuando la situación lo exige.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Mining.png" alt="Uso de un pico para recolectar un recurso en Lusha." />
+  <figcaption>Algunos objetos solo pueden recuperarse con la herramienta adecuada, como un pico para el mineral.</figcaption>
+</figure>
+
 ## Fabricar objetos
 
 La fabricación permite transformar los recursos recolectados en objetos útiles. Da un papel concreto a los elementos encontrados en la jungla: un recurso puede servir para crear una herramienta, preparar un plato, fabricar ropa o contribuir a una reparación.
 
 Los lugares de fabricación no tienen todos el mismo uso. El banco de trabajo permite fabricar ciertos objetos y herramientas. La hoguera o los espacios de cocina permiten preparar comida. El telar de Pana sirve para fabricar ropa. Más adelante en la jungla, el horno Luya permite fabricar objetos más avanzados.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/CraftingStation.png" alt="Banco de fabricación en Lusha." />
+  <figcaption>Los puestos de fabricación transforman los recursos recolectados en objetos útiles para la aventura.</figcaption>
+</figure>
 
 El saber del personaje puede desbloquear progresivamente nuevas posibilidades de fabricación.
 
@@ -130,6 +172,11 @@ Esta mecánica afecta especialmente al campamento: hoguera, cofre, casa, banco d
 
 Reparar o construir no es solo decorativo. Puede desbloquear nuevos usos, hacer el campamento más útil, apoyar la felicidad del personaje o preparar el acceso a otras actividades.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Building.png" alt="Reparación o construcción de un elemento del campamento en Lusha." />
+  <figcaption>La construcción avanza mediante aportes de recursos y hace visible el progreso en el decorado.</figcaption>
+</figure>
+
 ## Los desafíos de las estatuas
 
 Algunas estatuas antiguas parecen ligadas a la magia de Lusha y a la civilización Luya. El jugador las encuentra a lo largo de su progresión por la jungla.
@@ -138,6 +185,11 @@ Para reactivar completamente una estatua, el jugador debe darle una piedra mági
 
 Cada desafío dura unos 3 a 5 minutos, requiere 1 punto de energía y lo consume al iniciarse. Una pequeña recompensa espera al jugador después de cada desafío.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/StatueChallengeExample.png" alt="Ejemplo de minijuego propuesto por una estatua Luya en Lusha." />
+  <figcaption>Los desafíos de las estatuas toman la forma de minijuegos breves, como este ejemplo ligado a la exploración.</figcaption>
+</figure>
+
 ## El diario de la exploradora
 
 El diario de la exploradora reúne las huellas dejadas por una exploradora que llegó a la jungla antes que el jugador. Sus páginas ayudan a comprender los lugares, animales, ruinas, portales y la antigua civilización Luya.
@@ -145,6 +197,11 @@ El diario de la exploradora reúne las huellas dejadas por una exploradora que l
 Al principio, el diario está incompleto. El jugador debe encontrar las páginas perdidas durante la exploración. Cada página puede aportar una pista, una explicación o una nueva pregunta.
 
 Encontrar una página del diario también desbloquea una recompensa única.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/ExploratorDiary.png" alt="Diario de la exploradora con información sobre el mundo de Lusha." />
+  <figcaption>El diario de la exploradora guía la investigación y reúne los indicios descubiertos en la jungla.</figcaption>
+</figure>
 
 ## Una progresión encuadrada
 

@@ -11,7 +11,17 @@ This page presents the game mechanics tied to Lusha's world.
 
 Exploration starts from the camp. The player takes the exit on the right, shown by a green mat with leaves. If no routine is in progress and the character has at least 1 energy point, the jungle map opens.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/CampExit.png" alt="Exit from the camp toward exploration, shown by a green mat with leaves." />
+  <figcaption>The green mat indicates the camp exit toward the jungle map.</figcaption>
+</figure>
+
 From this map, the player chooses the region they want to explore. Regions are not all available from the start: they unlock gradually as the adventure progresses. To open a new region, the player must reach the end of the previous one.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/JungleMap.png" alt="Map of the Lusha jungle with several regions to explore." />
+  <figcaption>The map lets the player choose a region and see their progress through the jungle.</figcaption>
+</figure>
 
 In exploration areas, region entrances and exits are also shown by green mats. This visual marker helps the child understand when they are leaving an area, returning to the map, or moving toward a new part of the jungle.
 
@@ -58,6 +68,11 @@ Knowledge can increase in several ways:
 - by helping Luya statues;
 - by eating certain rare foods.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/SkillsPanel.png" alt="Skills panel unlocked through the character's knowledge in Lusha." />
+  <figcaption>Increasing knowledge gradually unlocks new skills, such as recipes, tools, or preparations.</figcaption>
+</figure>
+
 ## Main Places
 
 Lusha is organized around several recurring places. Each one has a function in the adventure and in the player's progression.
@@ -71,7 +86,7 @@ The player can notably meet Tigum, Igor, and a Luya statue there. This statue of
 As the adventure progresses, the camp can be maintained, repaired, and improved. The campfire, workbench, chest, house, vegetable garden, and explorer's journal give the player concrete and regular goals.
 
 <figure class="lusha-screenshot">
-  <img src="/assets/how-to-use-lusha/tara-school/game-main-scene.png" alt="Main Lusha camp with the cabin and access to Tara's School." />
+  <img src="/assets/universe/Camp.png" alt="Lusha camp with the cabin, paths, and elements to maintain." />
   <figcaption>The camp is the base, return point, and preparation area before exploration.</figcaption>
 </figure>
 
@@ -84,6 +99,16 @@ For more details, see [Tara's School](/how-to-use-lusha/tara-school/).
 ### The Cabin
 
 The cabin is the old cabin built by Jane the explorer. It lets the player read the explorer's journal and change the character's clothes.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Caban.png" alt="Jane the explorer's cabin in Lusha." />
+  <figcaption>The cabin gives access to the player's personal elements and the explorer's journal.</figcaption>
+</figure>
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Closet.png" alt="Wardrobe interface used to change the character's clothes in Lusha." />
+  <figcaption>From the cabin, the wardrobe lets the player change the character's appearance.</figcaption>
+</figure>
 
 ### Pana's House
 
@@ -104,9 +129,16 @@ Collected items can be used to:
 
 Not every element appears everywhere. Some resources are more common in one region than another. The player therefore benefits from remembering useful areas and returning later when a specific resource is needed.
 
+Collectible objects are often identifiable thanks to the small yellow stars that appear above them. This visual cue helps the player distinguish interactive elements from the scenery.
+
 Some elements also require a tool to be collected. For example, ore requires a pickaxe. Other elements appear mainly when the character's happiness is high.
 
 Once collected, elements take some time to reappear. New resources generally appear the next day.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Collecting.png" alt="Collecting an object in a Lusha jungle area." />
+  <figcaption>Collecting encourages the player to observe areas and return for useful resources.</figcaption>
+</figure>
 
 ## Using Tools
 
@@ -114,11 +146,21 @@ Tools, such as the pickaxe or axe, are used to interact with the environment. Th
 
 Using a tool generally requires happiness. Keeping happiness high is therefore important to continue exploring effectively and use tools when needed.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Mining.png" alt="Using a pickaxe to collect a resource in Lusha." />
+  <figcaption>Some objects can only be collected with the right tool, such as a pickaxe for ore.</figcaption>
+</figure>
+
 ## Crafting Objects
 
 Crafting transforms collected resources into useful objects. It gives jungle resources a concrete role: a resource can be used to create a tool, prepare a dish, make clothing, or contribute to a repair.
 
 Crafting places do not all serve the same purpose. The workbench lets the player craft some objects and tools. The campfire or cooking areas let them prepare food. Pana's loom is used to make clothes. Farther into the jungle, the Luya furnace allows the player to craft more advanced objects.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/CraftingStation.png" alt="Crafting workbench in Lusha." />
+  <figcaption>Crafting stations transform collected resources into useful adventure items.</figcaption>
+</figure>
 
 The character's knowledge can gradually unlock new crafting options.
 
@@ -130,6 +172,11 @@ This mechanic especially applies to the camp: campfire, chest, house, workbench,
 
 Repairing or building is not only decorative. It can unlock new uses, make the camp more useful, support the character's happiness, or prepare access to other activities.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/Building.png" alt="Repairing or building a camp element in Lusha." />
+  <figcaption>Construction progresses through resource contributions and makes progress visible in the environment.</figcaption>
+</figure>
+
 ## Statue Challenges
 
 Some ancient statues seem connected to Lusha's magic and the Luya civilization. The player encounters them throughout their progression in the jungle.
@@ -138,6 +185,11 @@ To fully reactivate a statue, the player must give it a magic stone. Once reacti
 
 Each challenge lasts around 3 to 5 minutes, requires 1 energy point, and consumes it when launched. A small reward awaits the player after each challenge.
 
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/StatueChallengeExample.png" alt="Example of a mini-game offered by a Luya statue in Lusha." />
+  <figcaption>Statue challenges take the form of short mini-games, like this exploration-related example.</figcaption>
+</figure>
+
 ## The Explorer's Journal
 
 The explorer's journal gathers traces left by an explorer who arrived in the jungle before the player. Its pages help explain the places, animals, ruins, portals, and ancient Luya civilization.
@@ -145,6 +197,11 @@ The explorer's journal gathers traces left by an explorer who arrived in the jun
 At first, the journal is incomplete. The player must find missing pages while exploring. Each page can bring a clue, an explanation, or a new question.
 
 Finding a journal page also unlocks a unique reward.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/universe/ExploratorDiary.png" alt="Explorer's journal with information about the world of Lusha." />
+  <figcaption>The explorer's journal guides the investigation and gathers clues discovered in the jungle.</figcaption>
+</figure>
 
 ## Structured Progression
 

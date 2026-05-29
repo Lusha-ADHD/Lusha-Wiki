@@ -100,6 +100,24 @@ Dopo la validazione, una <span class="lusha-inline-term"><img class="lusha-inlin
   <figcaption>Il codice genitore può proteggere la validazione quando l'azione è riservata agli adulti.</figcaption>
 </figure>
 
+## Raccogliere le ricompense lato bambino
+
+Una volta validata la routine, il bambino può recuperare le sue ricompense dallo spazio di gioco, per esempio dall'accampamento. Il pulsante a forma di stella, situato in alto a destra dello schermo, apre il pannello delle ricompense disponibili.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/RewardsPanel.png" alt="Pannello delle ricompense di routine in Lusha con l'elenco delle ricompense disponibili." />
+  <figcaption>Il pulsante stella segnala al bambino che ci sono ricompense legate alle routine da raccogliere.</figcaption>
+</figure>
+
+Il pannello delle ricompense elenca le ricompense sbloccate grazie alle routine validate. Quando il bambino preme una di queste ricompense, può vedere il contenuto dettagliato prima di raccogliere le risorse previste.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/RoutineReward.png" alt="Dettaglio di una ricompensa di routine in Lusha con le risorse che contiene." />
+  <figcaption>Il dettaglio della ricompensa mostra ciò che il bambino riceverà dopo averla selezionata nel pannello.</figcaption>
+</figure>
+
+Le ricompense raccolte rafforzano il legame tra l'azione reale, la validazione del genitore e la progressione in Lusha.
+
 ## Sfide comportamentali
 
 Le sfide comportamentali aiutano il bambino a generalizzare, cioè a mettere in pratica nella vita quotidiana ciò che impara nella Scuola di Tara. Mirano a cambiamenti concreti, come non interrompere, usare una voce calma quando parla o applicare una strategia lavorata in un modulo.

@@ -100,6 +100,24 @@ Nach der Bestätigung erscheint ein <span class="lusha-inline-term"><img class="
   <figcaption>Der Elterncode kann die Bestätigung sichern, wenn die Aktion Erwachsenen vorbehalten ist.</figcaption>
 </figure>
 
+## Belohnungen auf Kinderseite sammeln
+
+Sobald die Routine bestätigt wurde, kann das Kind seine Belohnungen im Spielbereich abholen, zum Beispiel vom Camp aus. Die sternförmige Schaltfläche oben rechts auf dem Bildschirm öffnet das Fenster der verfügbaren Belohnungen.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/RewardsPanel.png" alt="Fenster für Routinenbelohnungen in Lusha mit der Liste verfügbarer Belohnungen." />
+  <figcaption>Die Stern-Schaltfläche zeigt dem Kind, dass Belohnungen aus Routinen abgeholt werden können.</figcaption>
+</figure>
+
+Das Belohnungsfenster listet die Belohnungen auf, die durch bestätigte Routinen freigeschaltet wurden. Wenn das Kind auf eine dieser Belohnungen tippt, kann es deren Inhalt sehen, bevor es die vorgesehenen Ressourcen einsammelt.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/RoutineReward.png" alt="Detail einer Routinenbelohnung in Lusha mit den enthaltenen Ressourcen." />
+  <figcaption>Das Belohnungsdetail zeigt, was das Kind nach der Auswahl im Fenster erhält.</figcaption>
+</figure>
+
+Die eingesammelten Belohnungen stärken die Verbindung zwischen der realen Handlung, der Bestätigung durch die Eltern und dem Fortschritt in Lusha.
+
 ## Verhaltensbezogene Herausforderungen
 
 Verhaltensbezogene Herausforderungen helfen dem Kind, das Gelernte zu verallgemeinern, also im Alltag anzuwenden, was es in Taras Schule gelernt hat. Sie zielen auf konkrete Verhaltensentwicklungen ab, zum Beispiel nicht zu unterbrechen, mit ruhiger Stimme zu sprechen oder eine Strategie aus einem Modul einzusetzen.

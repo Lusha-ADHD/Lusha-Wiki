@@ -100,6 +100,24 @@ Depois da validação, uma <span class="lusha-inline-term"><img class="lusha-inl
   <figcaption>O código dos pais pode proteger a validação quando a ação é reservada aos adultos.</figcaption>
 </figure>
 
+## Coletar recompensas no espaço da criança
+
+Depois que a rotina é validada, a criança pode recuperar suas recompensas no espaço de jogo, por exemplo a partir do acampamento. O botão em forma de estrela, localizado no canto superior direito da tela, abre o painel de recompensas disponíveis.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/RewardsPanel.png" alt="Painel de recompensas de rotina na Lusha com a lista de recompensas disponíveis." />
+  <figcaption>O botão de estrela indica à criança que há recompensas ligadas às rotinas para coletar.</figcaption>
+</figure>
+
+O painel de recompensas lista as recompensas desbloqueadas pelas rotinas validadas. Quando a criança toca em uma dessas recompensas, ela pode ver seu conteúdo detalhado antes de coletar os recursos previstos.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/RoutineReward.png" alt="Detalhe de uma recompensa de rotina na Lusha com os recursos que ela contém." />
+  <figcaption>O detalhe da recompensa mostra o que a criança receberá depois de selecioná-la no painel.</figcaption>
+</figure>
+
+As recompensas coletadas reforçam a ligação entre a ação real, a validação do responsável e a progressão na Lusha.
+
 ## Desafios comportamentais
 
 Os desafios comportamentais ajudam a criança a generalizar, ou seja, a colocar em prática no dia a dia o que aprende na Escola da Tara. Eles trabalham mudanças concretas de comportamento, como não interromper, usar uma voz calma ao se expressar ou aplicar uma estratégia praticada em um módulo.

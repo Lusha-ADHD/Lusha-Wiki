@@ -100,6 +100,24 @@ Après validation, une <span class="lusha-inline-term"><img class="lusha-inline-
   <figcaption>Le code parent peut sécuriser la validation lorsque l'action est réservée aux adultes.</figcaption>
 </figure>
 
+## Collecter les récompenses côté enfant
+
+Une fois la routine validée, l'enfant peut récupérer ses récompenses depuis l'espace de jeu, par exemple depuis le campement. Le bouton en forme d'étoile, situé en haut à droite de l'écran, ouvre le panneau des récompenses disponibles.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/RewardsPanel.png" alt="Panneau de récompenses de routine dans Lusha avec la liste des récompenses disponibles." />
+  <figcaption>Le bouton étoile signale à l'enfant que des récompenses liées aux routines peuvent être récupérées.</figcaption>
+</figure>
+
+Le panneau de récompenses liste les récompenses débloquées grâce aux routines validées. Lorsque l'enfant appuie sur l'une de ces récompenses, il peut voir son contenu détaillé avant de collecter les ressources prévues.
+
+<figure class="lusha-screenshot">
+  <img src="/assets/how-to-use-lusha/routines/RoutineReward.png" alt="Détail d'une récompense de routine dans Lusha avec les ressources qu'elle contient." />
+  <figcaption>Le détail d'une récompense montre ce que l'enfant va récupérer après l'avoir sélectionnée dans le panneau.</figcaption>
+</figure>
+
+Les récompenses collectées renforcent le lien entre l'action réelle, la validation parentale et la progression dans Lusha.
+
 ## Défis comportementaux
 
 Les défis comportementaux aident l'enfant à généraliser, c'est-à-dire à mettre en pratique dans la vie de tous les jours ce qu'il apprend dans l'École de Tara. Ils ciblent des évolutions concrètes, comme ne pas interrompre, utiliser une voix calme quand il s'exprime ou appliquer une stratégie travaillée dans un module.
