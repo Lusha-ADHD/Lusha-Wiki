@@ -234,6 +234,13 @@ export default defineConfig({
         {
           tag: 'meta',
           attrs: {
+            name: 'msvalidate.01',
+            content: 'A7CDA47AFF6EDD5082C4F2844861C150',
+          },
+        },
+        {
+          tag: 'meta',
+          attrs: {
             name: 'keywords',
             content:
               'Lusha, Lusha game, ADHD kids, ADHD children, parents, routines, chores tracker, emotional regulation, anger management, rewards, parent dashboard, family support, Lusha wiki, game guide, clinical trials',
